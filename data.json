@@ -7,4 +7,7 @@ ImmutableMultiDict([])
 {"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "Vancouver", "Bio": "dsfsdfgsdfsdfsdff", "StateOrProv": "Oregon", "Region": "Place", "CityWA": "", "CityOR": "Albany", "CityBC": "", "CityCA": "", "CityID": "", "Where": "", "PersonToCity": "Place", "Interests": "Art||Tech / Digital Ecosystem||Permaculture", "Work": "fsdfds", "LinkedIn": "None", "Why": "sdvgxcv", "ProfilePic": "", "uid": "{unique_id}"}
 {}
 {"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "San Juan Islands", "Bio": "dsfsdfasdfgsdfgsdfg", "StateOrProv": "Idaho", "Region": "Place", "CityWA": "", "CityOR": "", "CityBC": "", "CityCA": "", "CityID": "Hailey", "Where": "", "PersonToCity": "Place", "Interests": "Local Organizing||Media||Indigenous Sovereignties", "Work": "dsfsdfsdfs", "LinkedIn": "None", "Why": "sdfsdfsdfds", "ProfilePic": "", "uid": "wpf64d84decc02d09.34277622"}
-{"message": "Hello World"}
+{"message": "Hello World"}http://us-west1-cascadiakumu.cloudfunctions.net/
+/?
+b'{"message": "goodbyeworld"}'
+{"message": "goodbyeworld"}
