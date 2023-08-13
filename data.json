@@ -1,28 +1,6 @@
-{"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "Vashon", "Bio": "This is still a bio.", "StateOrProv": "Washington", "Region": "Place", "CityWA": "Tacoma", "CityOR": "", "CityBC": "", "CityCA": "", "CityID": "", "Where": "", "PersonToCity": "Place", "Interests": "Local Organizing||Art||Tech / Digital Ecosystem||Permaculture||Economy", "Work": "I work on the back end of the regenerate Cascadia website.", "LinkedIn": "None", "Why": "I feel that it helps connect people.", "ProfilePic": ["https://regeneratecascadia.org/wp-content/uploads/sites/14/wpforms/147-2ec89e0d6e361975a17730bfe546bbaf/287460903_10107464872263125_5218909622823793597_n-8115e0d36df877ec9891e4d2e7a5718f.jpg"]}<Request 'http://us-west1-cascadiakumu.cloudfunctions.net/' [POST]>ImmutableMultiDict([])
-ImmutableMultiDict([])
-
-
-
-{"message": "goodbyeworld"}
-{"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "Vancouver", "Bio": "dsfsdfgsdfsdfsdff", "StateOrProv": "Oregon", "Region": "Place", "CityWA": "", "CityOR": "Albany", "CityBC": "", "CityCA": "", "CityID": "", "Where": "", "PersonToCity": "Place", "Interests": "Art||Tech / Digital Ecosystem||Permaculture", "Work": "fsdfds", "LinkedIn": "None", "Why": "sdvgxcv", "ProfilePic": "", "uid": "{unique_id}"}
-{}
-{"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "San Juan Islands", "Bio": "dsfsdfasdfgsdfgsdfg", "StateOrProv": "Idaho", "Region": "Place", "CityWA": "", "CityOR": "", "CityBC": "", "CityCA": "", "CityID": "Hailey", "Where": "", "PersonToCity": "Place", "Interests": "Local Organizing||Media||Indigenous Sovereignties", "Work": "dsfsdfsdfs", "LinkedIn": "None", "Why": "sdfsdfsdfds", "ProfilePic": "", "uid": "wpf64d84decc02d09.34277622"}
-{"message": "Hello World"}http://us-west1-cascadiakumu.cloudfunctions.net/
-/?
-b'{"message": "goodbyeworld"}'
-{"message": "goodbyeworld"}http://us-west1-cascadiakumu.cloudfunctions.net/
-/?
-b'{"Name":"Nate Bade","Email":"testthederiver@gmail.com","Area":"Portland \\/ Willamette Valley","Bio":"dsfs","StateOrProv":"California","Region":"Place","CityWA":"","CityOR":"","CityBC":"","CityCA":"Anaheim","CityID":"","Where":"","PersonToCity":"Place","Interests":"Local Organizing||Permaculture||Indigenous Sovereignties","Work":"sdfsdfsfsdf","LinkedIn":"None","Why":"sdfsdfdsfsdf","ProfilePic":"","uid":"wpf64d85017664cc0.90562659"}'
-{"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "Portland / Willamette Valley", "Bio": "dsfs", "StateOrProv": "California", "Region": "Place", "CityWA": "", "CityOR": "", "CityBC": "", "CityCA": "Anaheim", "CityID": "", "Where": "", "PersonToCity": "Place", "Interests": "Local Organizing||Permaculture||Indigenous Sovereignties", "Work": "sdfsdfsfsdf", "LinkedIn": "None", "Why": "sdfsdfdsfsdf", "ProfilePic": "", "uid": "wpf64d85017664cc0.90562659"}http://us-west1-cascadiakumu.cloudfunctions.net/
-/?
-b'{"Name":"Nate Bade","Email":"testthederiver@gmail.com","Area":"Vashon","Bio":"sdfsdfsdf","StateOrProv":"Washington","Region":"Place","CityWA":"Auburn","CityOR":"","CityBC":"","CityCA":"","CityID":"","Where":"","PersonToCity":"Place","Interests":"Local Organizing||Permaculture","Work":"sdfsdfsdfsdf","LinkedIn":"None","Why":"sdfsdfsdfsd","ProfilePic":"","uid":"wpf64d850c26d0c36.73319034"}'
-{"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "Vashon", "Bio": "sdfsdfsdf", "StateOrProv": "Washington", "Region": "Place", "CityWA": "Auburn", "CityOR": "", "CityBC": "", "CityCA": "", "CityID": "", "Where": "", "PersonToCity": "Place", "Interests": "Local Organizing||Permaculture", "Work": "sdfsdfsdfsdf", "LinkedIn": "None", "Why": "sdfsdfsdfsd", "ProfilePic": "", "uid": "wpf64d850c26d0c36.73319034"}http://us-west1-cascadiakumu.cloudfunctions.net/
-/?
-b'{"message": "goodbyeworld"}'
-{"message": "goodbyeworld"}http://us-west1-cascadiakumu.cloudfunctions.net/
-/?
-b'{"Area":"Bellingham \\/ Skagit \\/ Nooksack","bio":"sea"}'
-{"Area": "Bellingham / Skagit / Nooksack", "bio": "sea"}http://us-west1-cascadiakumu.cloudfunctions.net/
-/?
-b'{"Area":"Bellingham \\/ Skagit \\/ Nooksack","bio":""}'
-{"Area": "Bellingham / Skagit / Nooksack", "bio": ""}
+{
+  "elements": [
+  ],
+  "connections": [
+  ]
+}
