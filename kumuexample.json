@@ -1,0 +1,19 @@
+{
+  "elements": [
+    {
+        "id": "e1",
+        "label": "A"
+    },
+    {
+        "id": "e2",
+        "label": "A"
+    }
+  ],
+  "connections": [
+    {
+        "id": "c1",
+        "from": "e1",
+        "to": "e2"
+    }
+  ]
+}
