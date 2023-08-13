@@ -1,3 +1,4 @@
 {"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "Vashon", "Bio": "This is still a bio.", "StateOrProv": "Washington", "Region": "Place", "CityWA": "Tacoma", "CityOR": "", "CityBC": "", "CityCA": "", "CityID": "", "Where": "", "PersonToCity": "Place", "Interests": "Local Organizing||Art||Tech / Digital Ecosystem||Permaculture||Economy", "Work": "I work on the back end of the regenerate Cascadia website.", "LinkedIn": "None", "Why": "I feel that it helps connect people.", "ProfilePic": ["https://regeneratecascadia.org/wp-content/uploads/sites/14/wpforms/147-2ec89e0d6e361975a17730bfe546bbaf/287460903_10107464872263125_5218909622823793597_n-8115e0d36df877ec9891e4d2e7a5718f.jpg"]}<Request 'http://us-west1-cascadiakumu.cloudfunctions.net/' [POST]>ImmutableMultiDict([])
 ImmutableMultiDict([])
 
+
