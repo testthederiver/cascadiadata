@@ -22,4 +22,7 @@ b'{"message": "goodbyeworld"}'
 {"message": "goodbyeworld"}http://us-west1-cascadiakumu.cloudfunctions.net/
 /?
 b'{"Area":"Bellingham \\/ Skagit \\/ Nooksack","bio":"sea"}'
-{"Area": "Bellingham / Skagit / Nooksack", "bio": "sea"}
+{"Area": "Bellingham / Skagit / Nooksack", "bio": "sea"}http://us-west1-cascadiakumu.cloudfunctions.net/
+/?
+b'{"Area":"Bellingham \\/ Skagit \\/ Nooksack","bio":""}'
+{"Area": "Bellingham / Skagit / Nooksack", "bio": ""}
