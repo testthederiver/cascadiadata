@@ -10,4 +10,7 @@ ImmutableMultiDict([])
 {"message": "Hello World"}http://us-west1-cascadiakumu.cloudfunctions.net/
 /?
 b'{"message": "goodbyeworld"}'
-{"message": "goodbyeworld"}
+{"message": "goodbyeworld"}http://us-west1-cascadiakumu.cloudfunctions.net/
+/?
+b'{"Name":"Nate Bade","Email":"testthederiver@gmail.com","Area":"Portland \\/ Willamette Valley","Bio":"dsfs","StateOrProv":"California","Region":"Place","CityWA":"","CityOR":"","CityBC":"","CityCA":"Anaheim","CityID":"","Where":"","PersonToCity":"Place","Interests":"Local Organizing||Permaculture||Indigenous Sovereignties","Work":"sdfsdfsfsdf","LinkedIn":"None","Why":"sdfsdfdsfsdf","ProfilePic":"","uid":"wpf64d85017664cc0.90562659"}'
+{"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "Portland / Willamette Valley", "Bio": "dsfs", "StateOrProv": "California", "Region": "Place", "CityWA": "", "CityOR": "", "CityBC": "", "CityCA": "Anaheim", "CityID": "", "Where": "", "PersonToCity": "Place", "Interests": "Local Organizing||Permaculture||Indigenous Sovereignties", "Work": "sdfsdfsfsdf", "LinkedIn": "None", "Why": "sdfsdfdsfsdf", "ProfilePic": "", "uid": "wpf64d85017664cc0.90562659"}
