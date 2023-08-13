@@ -19,4 +19,7 @@ b'{"Name":"Nate Bade","Email":"testthederiver@gmail.com","Area":"Vashon","Bio":"
 {"Name": "Nate Bade", "Email": "testthederiver@gmail.com", "Area": "Vashon", "Bio": "sdfsdfsdf", "StateOrProv": "Washington", "Region": "Place", "CityWA": "Auburn", "CityOR": "", "CityBC": "", "CityCA": "", "CityID": "", "Where": "", "PersonToCity": "Place", "Interests": "Local Organizing||Permaculture", "Work": "sdfsdfsdfsdf", "LinkedIn": "None", "Why": "sdfsdfsdfsd", "ProfilePic": "", "uid": "wpf64d850c26d0c36.73319034"}http://us-west1-cascadiakumu.cloudfunctions.net/
 /?
 b'{"message": "goodbyeworld"}'
-{"message": "goodbyeworld"}
+{"message": "goodbyeworld"}http://us-west1-cascadiakumu.cloudfunctions.net/
+/?
+b'{"Area":"Bellingham \\/ Skagit \\/ Nooksack","bio":"sea"}'
+{"Area": "Bellingham / Skagit / Nooksack", "bio": "sea"}
