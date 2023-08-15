@@ -19,6 +19,16 @@
       "id": "5391579088706387852",
       "from": "wpf64d85998b7d509.2214asdasd",
       "to": "place_city_britishcolumbia_vancounver"
+    },
+    {
+      "id": "Forest Grove, Oregon",
+      "from": "place_city_oregon_forestgrove",
+      "to": "place_stateprov_oregon"
+    },
+    {
+      "id": "-4569786942770958423",
+      "from": "wpf64dadb7b92aa16.35232688",
+      "to": "place_city_oregon_forestgrove"
     }
   ],
   "elements": [
@@ -99,6 +109,31 @@
     {
       "id": "place_city_britishcolumbia_vancounver",
       "label": "Vancounver, British Columbia",
+      "type": "Place"
+    },
+    {
+      "id": "wpf64dadb7b92aa16.35232688",
+      "label": "Hank \"The Tank\" Anderson",
+      "email": "hank.the.tank@gmail.com",
+      "area": "Olympia",
+      "bio": "I'm hank the tank",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Forest Grove",
+      "city_BC": "",
+      "where": "",
+      "interests": "Local Organizing||Media||Permaculture",
+      "work": "I'm hank the tank",
+      "website": "",
+      "linkedin": "",
+      "statement": "I'm hank the tank",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/wpforms/305-2bee9829395bfeecee44874bff54ffa5/BdvRIztIMAAe_9g-56794afb528d3171e062a6e1e546d30b.png"
+      ]
+    },
+    {
+      "id": "place_city_oregon_forestgrove",
+      "label": "Forest Grove, Oregon",
       "type": "Place"
     }
   ]
