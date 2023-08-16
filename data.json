@@ -39,6 +39,11 @@
       "id": "8586047899168156855",
       "from": "wpf64dc1f6e30a9b2.99998795",
       "to": "place_city_washington_seattle"
+    },
+    {
+      "id": "-4341994380624399772",
+      "from": "wpf64dd3d3bbef169.15484912",
+      "to": "place_city_washington_seattle"
     }
   ],
   "elements": [
@@ -170,6 +175,26 @@
       "id": "place_city_washington_seattle",
       "label": "Seattle, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf64dd3d3bbef169.15484912",
+      "label": "Naticus Testicus",
+      "email": "naticusprimarls@gmail.com",
+      "area": "Seattle",
+      "bio": "hurble gurble",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Indigenous Sovereignties||Local / Organizing||Media||Tech / Digital Ecosystem",
+      "work": "hurble gurble the second",
+      "website": "hurble gurble the second",
+      "linkedin": "laksdjfkas",
+      "statement": "hurble gurble the second",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Cascadia-0bddc03a57ca28fd3c291923650cd49a.png"
+      ]
     }
   ]
 }
