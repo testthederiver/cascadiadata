@@ -29,6 +29,16 @@
       "id": "-4569786942770958423",
       "from": "wpf64dadb7b92aa16.35232688",
       "to": "place_city_oregon_forestgrove"
+    },
+    {
+      "id": "Seattle, Washington",
+      "from": "place_city_washington_seattle",
+      "to": "place_stateprov_washington"
+    },
+    {
+      "id": "8586047899168156855",
+      "from": "wpf64dc1f6e30a9b2.99998795",
+      "to": "place_city_washington_seattle"
     }
   ],
   "elements": [
@@ -134,6 +144,31 @@
     {
       "id": "place_city_oregon_forestgrove",
       "label": "Forest Grove, Oregon",
+      "type": "Place"
+    },
+    {
+      "id": "wpf64dc1f6e30a9b2.99998795",
+      "label": "Brandon Test",
+      "email": "test@gmail.com",
+      "area": "Seattle",
+      "bio": "bio",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Local Organizing||Tech / Digital Ecosystem",
+      "work": "asdf",
+      "website": "ds",
+      "linkedin": "asf",
+      "statement": "asdf",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/wpforms/305-2bee9829395bfeecee44874bff54ffa5/62e3ea8db48aac14b9ba80da_salmon-nation-map-nodes-1756788ca0c13be5f07d847dda8677c4.png"
+      ]
+    },
+    {
+      "id": "place_city_washington_seattle",
+      "label": "Seattle, Washington",
       "type": "Place"
     }
   ]
