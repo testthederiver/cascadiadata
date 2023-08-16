@@ -49,6 +49,11 @@
       "id": "-3363108848214972436",
       "from": "wpf64dd3fffaf2557.79329319",
       "to": "place_city_washington_seattle"
+    },
+    {
+      "id": "-1763950115225448067",
+      "from": "wpf64dd508ba4b6d7.79517507",
+      "to": "place_city_washington_seattle"
     }
   ],
   "elements": [
@@ -219,6 +224,26 @@
       "statement": "AAABrandonTest",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Cascadia-e59d880cfce853a7d23b0dee3c06163e.png"
+      ]
+    },
+    {
+      "id": "wpf64dd508ba4b6d7.79517507",
+      "label": "BBBBBBBBTEST BBBBBBBBTEST",
+      "email": "bbbbbbbbtest@gmail.com",
+      "area": "Seattle",
+      "bio": "BBBBBBBBTEST",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Indigenous Sovereignties||Permaculture||Tech / Digital Ecosystem",
+      "work": "BBBBBBBBTEST",
+      "website": "BBBBBBBBTEST",
+      "linkedin": "BBBBBBBBTEST",
+      "statement": "BBBBBBBBTEST",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Cascadia-Dept-of-Bioregion-Logo-340b72c30191ed90a127911df3ff6632.png"
       ]
     }
   ]
