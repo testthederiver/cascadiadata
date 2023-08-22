@@ -64,6 +64,16 @@
       "id": "1876058829350403112",
       "from": "wpf64dd5a05b71c49.82321239",
       "to": "place_city_washington_spanaway"
+    },
+    {
+      "id": "Eugene, Oregon",
+      "from": "place_city_oregon_eugene",
+      "to": "place_stateprov_oregon"
+    },
+    {
+      "id": "-8044119446922425114",
+      "from": "wpf64e4d8599dd808.35226803",
+      "to": "place_city_oregon_eugene"
     }
   ],
   "elements": [
@@ -279,6 +289,31 @@
     {
       "id": "place_city_washington_spanaway",
       "label": "Spanaway, Washington",
+      "type": "Place"
+    },
+    {
+      "id": "wpf64e4d8599dd808.35226803",
+      "label": "Mike Brunt",
+      "email": "go2riamb@gmail.com",
+      "area": "Eugene",
+      "bio": "My career has spanned Information Technology since 1982, currently I am working on two blockchain-based projects.  In addition, I am a Permaculture Certified designer and an artist, composer and musician.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Local / Organizing||Permaculture||Tech / Digital Ecosystem",
+      "work": "Currently I co-run the Eugene Permaculture Meetup group and am actively involved in several Urban Permaculture projects, in and around Eugene.",
+      "website": "https://incredibleedibleeugene.com/",
+      "linkedin": "https://www.linkedin.com/in/mike-brunt-4867b64/",
+      "statement": "The whole concept of bioregionalism is key to our futures everywhere, Bill Mollison saw this years ago and David Holmgren followed up on this with Retro-Suburbia.\u00a0 We are seeing the failure of globalism and now is the time to get back to our bioregional roots.\u00a0 Bring back the village.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/mikeB-cacbea1fa279355f89a460696190834b.jpeg"
+      ]
+    },
+    {
+      "id": "place_city_oregon_eugene",
+      "label": "Eugene, Oregon",
       "type": "Place"
     }
   ]
