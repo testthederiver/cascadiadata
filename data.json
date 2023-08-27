@@ -84,6 +84,11 @@
       "id": "-5776779384162057062",
       "from": "wpf64e7b2ae5bcc77.42743880",
       "to": "place_city_britishcolumbia_vancouver"
+    },
+    {
+      "id": "-377642235330362629",
+      "from": "wpf64eaa50cbc92f3.72535588",
+      "to": "place_city_oregon_eugene"
     }
   ],
   "elements": [
@@ -350,6 +355,26 @@
       "id": "place_city_britishcolumbia_vancouver",
       "label": "Vancouver, British Columbia",
       "type": "Place"
+    },
+    {
+      "id": "wpf64eaa50cbc92f3.72535588",
+      "label": "Jon Van Meter",
+      "email": "jonvanmeter24@gmail.com",
+      "area": "Eugene",
+      "bio": "Control room Supervisor for local area television stations, and I communicate daily with News director and assignment editor in the Eugene area with broadcast to Florence, Roseburg and Coos Bay.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Media",
+      "work": "",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/jon-van-meter-a4a6979b",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Screenshot_20230716-223750-ab18dcabe55123332dc9c78a97336550.png"
+      ]
     }
   ]
 }
