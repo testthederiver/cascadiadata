@@ -4,109 +4,109 @@
       "id": "Dallas, Oregon",
       "from": "place_city_oregon_dallas",
       "to": "place_stateprov_oregon",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "8353421466277425223",
       "from": "wpf64d85998b7d509.22140635",
       "to": "place_city_oregon_dallas",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "Vancounver, British Columbia",
       "from": "place_city_britishcolumbia_vancounver",
       "to": "place_stateprov_britishcolumbia",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "5391579088706387852",
       "from": "wpf64d85998b7d509.2214asdasd",
       "to": "place_city_britishcolumbia_vancounver",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "Forest Grove, Oregon",
       "from": "place_city_oregon_forestgrove",
       "to": "place_stateprov_oregon",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "-4569786942770958423",
       "from": "wpf64dadb7b92aa16.35232688",
       "to": "place_city_oregon_forestgrove",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "Seattle, Washington",
       "from": "place_city_washington_seattle",
       "to": "place_stateprov_washington",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "8586047899168156855",
       "from": "wpf64dc1f6e30a9b2.99998795",
       "to": "place_city_washington_seattle",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "-4341994380624399772",
       "from": "wpf64dd3d3bbef169.15484912",
       "to": "place_city_washington_seattle",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "-3363108848214972436",
       "from": "wpf64dd3fffaf2557.79329319",
       "to": "place_city_washington_seattle",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "-1763950115225448067",
       "from": "wpf64dd508ba4b6d7.79517507",
       "to": "place_city_washington_seattle",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "Spanaway, Washington",
       "from": "place_city_washington_spanaway",
       "to": "place_stateprov_washington",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "1876058829350403112",
       "from": "wpf64dd5a05b71c49.82321239",
       "to": "place_city_washington_spanaway",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "Eugene, Oregon",
       "from": "place_city_oregon_eugene",
       "to": "place_stateprov_oregon",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "-8044119446922425114",
       "from": "wpf64e4d8599dd808.35226803",
       "to": "place_city_oregon_eugene",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "Vancouver, British Columbia",
       "from": "place_city_britishcolumbia_vancouver",
       "to": "place_stateprov_britishcolumbia",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "-5776779384162057062",
       "from": "wpf64e7b2ae5bcc77.42743880",
       "to": "place_city_britishcolumbia_vancouver",
-      "type": Location
+      "type": "Location"
     },
     {
       "id": "-377642235330362629",
       "from": "wpf64eaa50cbc92f3.72535588",
       "to": "place_city_oregon_eugene",
-      "type": Location
+      "type": "Location"
     }
   ],
   "elements": [
