@@ -1,0 +1,146 @@
+{
+  "connections": [
+    {
+      "id": "Dallas, Oregon",
+      "from": "place_city_oregon_dallas",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "Vancounver, British Columbia",
+      "from": "place_city_britishcolumbia_vancounver",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "Eugene, Oregon",
+      "from": "place_city_oregon_eugene",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "-8044119446922425114",
+      "from": "wpf64e4d8599dd808.35226803",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
+    },
+    {
+      "id": "Vancouver, British Columbia",
+      "from": "place_city_britishcolumbia_vancouver",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "-5776779384162057062",
+      "from": "wpf64e7b2ae5bcc77.42743880",
+      "to": "place_city_britishcolumbia_vancouver",
+      "type": "Location"
+    },
+    {
+      "id": "-377642235330362629",
+      "from": "wpf64eaa50cbc92f3.72535588",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
+    }
+  ],
+  "elements": [
+    {
+      "id": "place_stateprov_washington",
+      "label": "Washington",
+      "type": "Place"
+    },
+    {
+      "id": "place_stateprov_oregon",
+      "label": "Oregon",
+      "type": "Place"
+    },
+    {
+      "id": "place_stateprov_california",
+      "label": "California",
+      "type": "Place"
+    },
+    {
+      "id": "place_stateprov_britishcolumbia",
+      "label": "British Columbia",
+      "type": "Place"
+    },
+    {
+      "id": "place_stateprov_idaho",
+      "label": "Idaho",
+      "type": "Place"
+    },
+    {
+      "id": "wpf64e4d8599dd808.35226803",
+      "label": "Mike Brunt",
+      "email": "go2riamb@gmail.com",
+      "area": "Eugene",
+      "bio": "My career has spanned Information Technology since 1982, currently I am working on two blockchain-based projects.  In addition, I am a Permaculture Certified designer and an artist, composer and musician.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Local / Organizing||Permaculture||Tech / Digital Ecosystem",
+      "work": "Currently I co-run the Eugene Permaculture Meetup group and am actively involved in several Urban Permaculture projects, in and around Eugene.",
+      "website": "https://incredibleedibleeugene.com/",
+      "linkedin": "https://www.linkedin.com/in/mike-brunt-4867b64/",
+      "statement": "The whole concept of bioregionalism is key to our futures everywhere, Bill Mollison saw this years ago and David Holmgren followed up on this with Retro-Suburbia.\u00a0 We are seeing the failure of globalism and now is the time to get back to our bioregional roots.\u00a0 Bring back the village.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/mikeB-cacbea1fa279355f89a460696190834b.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_eugene",
+      "label": "Eugene, Oregon",
+      "type": "Place"
+    },
+    {
+      "id": "wpf64e7b2ae5bcc77.42743880",
+      "label": "Sandra Ghaoui",
+      "email": "sandra@bluedotproject.com",
+      "area": "Vancouver",
+      "bio": "",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Vancouver",
+      "where": "",
+      "interests": "Art||Indigenous Sovereignties||Local / Organizing||Permaculture",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/2.2023-message-d1b640654ff968f57c14deeb6c1a5dc4.png"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_vancouver",
+      "label": "Vancouver, British Columbia",
+      "type": "Place"
+    },
+    {
+      "id": "wpf64eaa50cbc92f3.72535588",
+      "label": "Jon Van Meter",
+      "email": "jonvanmeter24@gmail.com",
+      "area": "Eugene",
+      "bio": "Control room Supervisor for local area television stations, and I communicate daily with News director and assignment editor in the Eugene area with broadcast to Florence, Roseburg and Coos Bay.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Media",
+      "work": "",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/jon-van-meter-a4a6979b",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Screenshot_20230716-223750-ab18dcabe55123332dc9c78a97336550.png"
+      ],
+      "type": "Person"
+    }
+  ]
+}
