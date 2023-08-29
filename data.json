@@ -107,6 +107,17 @@
       "from": "wpf64eaa50cbc92f3.72535588",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "Issaquah, Washington",
+      "from": "place_city_washington_issaquah",
+      "to": "place_stateprov_washington"
+    },
+    {
+      "id": "-8870350183859011557",
+      "from": "wpf64ed6a5f0181f1.22050774",
+      "to": "place_city_washington_issaquah",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -393,6 +404,30 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Screenshot_20230716-223750-ab18dcabe55123332dc9c78a97336550.png"
       ]
+    },
+    {
+      "label": "Jacks Salmon Shack",
+      "id": "wpf64ed6a5f0181f1.22050774",
+      "description": "We've got Salmon for the slammen!",
+      "org_type": "Community||Foundation",
+      "presenting": "Yes! That'd be great.",
+      "located_on_tour": "Olympia",
+      "stateorprov": "Washington",
+      "city_wa": "Issaquah",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "https://github.com/testthederiver/",
+      "importence": "We got salmon!",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/BdvRIztIMAAe_9g-e82f9fe9bb518fd2286d5d8b01bab60f.png"
+      ],
+      "type": "Organization"
+    },
+    {
+      "id": "place_city_washington_issaquah",
+      "label": "Issaquah, Washington",
+      "type": "Place"
     }
   ]
 }
