@@ -41,7 +41,7 @@
       "from": "wpf64eaa50cbc92f3.72535588",
       "to": "place_city_oregon_eugene",
       "type": "Location"
-    },
+    }
   ],
   "elements": [
     {
@@ -141,6 +141,6 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Screenshot_20230716-223750-ab18dcabe55123332dc9c78a97336550.png"
       ],
       "type": "Person"
-    },
+    }
   ]
 }
