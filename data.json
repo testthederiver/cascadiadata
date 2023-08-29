@@ -7,75 +7,9 @@
       "type": "Location"
     },
     {
-      "id": "8353421466277425223",
-      "from": "wpf64d85998b7d509.22140635",
-      "to": "place_city_oregon_dallas",
-      "type": "Location"
-    },
-    {
       "id": "Vancounver, British Columbia",
       "from": "place_city_britishcolumbia_vancounver",
       "to": "place_stateprov_britishcolumbia",
-      "type": "Location"
-    },
-    {
-      "id": "5391579088706387852",
-      "from": "wpf64d85998b7d509.2214asdasd",
-      "to": "place_city_britishcolumbia_vancounver",
-      "type": "Location"
-    },
-    {
-      "id": "Forest Grove, Oregon",
-      "from": "place_city_oregon_forestgrove",
-      "to": "place_stateprov_oregon",
-      "type": "Location"
-    },
-    {
-      "id": "-4569786942770958423",
-      "from": "wpf64dadb7b92aa16.35232688",
-      "to": "place_city_oregon_forestgrove",
-      "type": "Location"
-    },
-    {
-      "id": "Seattle, Washington",
-      "from": "place_city_washington_seattle",
-      "to": "place_stateprov_washington",
-      "type": "Location"
-    },
-    {
-      "id": "8586047899168156855",
-      "from": "wpf64dc1f6e30a9b2.99998795",
-      "to": "place_city_washington_seattle",
-      "type": "Location"
-    },
-    {
-      "id": "-4341994380624399772",
-      "from": "wpf64dd3d3bbef169.15484912",
-      "to": "place_city_washington_seattle",
-      "type": "Location"
-    },
-    {
-      "id": "-3363108848214972436",
-      "from": "wpf64dd3fffaf2557.79329319",
-      "to": "place_city_washington_seattle",
-      "type": "Location"
-    },
-    {
-      "id": "-1763950115225448067",
-      "from": "wpf64dd508ba4b6d7.79517507",
-      "to": "place_city_washington_seattle",
-      "type": "Location"
-    },
-    {
-      "id": "Spanaway, Washington",
-      "from": "place_city_washington_spanaway",
-      "to": "place_stateprov_washington",
-      "type": "Location"
-    },
-    {
-      "id": "1876058829350403112",
-      "from": "wpf64dd5a05b71c49.82321239",
-      "to": "place_city_washington_spanaway",
       "type": "Location"
     },
     {
@@ -108,17 +42,6 @@
       "to": "place_city_oregon_eugene",
       "type": "Location"
     },
-    {
-      "id": "Issaquah, Washington",
-      "from": "place_city_washington_issaquah",
-      "to": "place_stateprov_washington"
-    },
-    {
-      "id": "-8870350183859011557",
-      "from": "wpf64ed6a5f0181f1.22050774",
-      "to": "place_city_washington_issaquah",
-      "type": "Organization To Place"
-    }
   ],
   "elements": [
     {
@@ -144,16 +67,6 @@
     {
       "id": "place_stateprov_idaho",
       "label": "Idaho",
-      "type": "Place"
-    },
-    {
-      "id": "place_city_washington_seattle",
-      "label": "Seattle, Washington",
-      "type": "Place"
-    },
-    {
-      "id": "place_city_washington_spanaway",
-      "label": "Spanaway, Washington",
       "type": "Place"
     },
     {
