@@ -51,7 +51,8 @@
     {
       "id": "Seattle, Washington",
       "from": "place_city_washington_seattle",
-      "to": "place_stateprov_washington"
+      "to": "place_stateprov_washington",
+      "type": "Location"
     },
     {
       "id": "6812355451326408708",
