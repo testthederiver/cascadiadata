@@ -89,6 +89,12 @@
       "from": "wpf64ee6ffff0a264.25245494",
       "to": "place_city_britishcolumbia_victoria",
       "type": "Location"
+    },
+    {
+      "id": "3244193120775713796",
+      "from": "wpf64ee736cb40640.25122485",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -291,6 +297,25 @@
       "id": "place_city_britishcolumbia_victoria",
       "label": "Victoria, British Columbia",
       "type": "Place"
+    },
+    {
+      "label": "Conversations For A One Planet Region Society",
+      "id": "wpf64ee736cb40640.25122485",
+      "description": "Through the Conversations for a One Planet Region we want to engage, educate and empower people across the Greater Victoria Region to discuss the challenges and strengths of becoming a One Planet Region.",
+      "org_type": "Organization",
+      "presenting": "Yes! That'd be great.",
+      "located_on_tour": "Victoria",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_bc": "Victoria",
+      "where": "",
+      "website": "https://oneplanetconversations.ca/",
+      "importence": "<b><i>Our vision</i></b><i>\u00a0is that the Greater Victoria Region achieves social and ecological sustainability, with a high quality of life and a long life in good health for all its citizens, while reducing its ecological footprint to be equivalent to one planet\u2019s worth of biocapacity.</i>\r\n\r\n<b><em>Our Mission is very simple:</em>\u00a0</b><i>to establish and maintain community-wide conversations on One Planet living and a One Planet Region.</i>",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Screen-Shot-2023-08-29-at-3.42.55-PM-f94fd5754c4dce8d51b90b11ffe16ffa.png"
+      ],
+      "type": "Organization"
     }
   ]
 }
