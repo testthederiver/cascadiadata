@@ -1,6 +1,24 @@
 {
   "connections": [
     {
+      "id": "oregon_to_cascadia",
+      "from": "place_stateprov_oregon",
+      "to": "place_bioregion_cascadia",
+      "type": "Location"
+    },
+    {
+      "id": "britishcolumbia_to_cascadia",
+      "from": "place_stateprov_britishcolumbia",
+      "to": "place_bioregion_cascadia",
+      "type": "Location"
+    },
+    {
+      "id": "washington_to_cascadia",
+      "from": "place_stateprov_washington",
+      "to": "place_bioregion_cascadia",
+      "type": "Location"
+    },
+    {
       "id": "Eugene, Oregon",
       "from": "place_city_oregon_eugene",
       "to": "place_stateprov_oregon",
@@ -43,6 +61,11 @@
     }
   ],
   "elements": [
+    {
+      "id": "place_bioregion_cascadia",
+      "label": "Cascadia Bioregion",
+      "type": "Place"
+    },
     {
       "id": "place_stateprov_washington",
       "label": "Washington",
