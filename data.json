@@ -166,7 +166,8 @@
       "statement": "sdfsdfsdfsdf",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/wpforms/305-2bee9829395bfeecee44874bff54ffa5/287460903_10107464872263125_5218909622823793597_n-17b0bf32882bb93c784e182807d448c2.jpg"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "place_city_oregon_dallas",
@@ -193,7 +194,8 @@
       "statement": "sdfsdfsdfsdf",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/wpforms/305-2bee9829395bfeecee44874bff54ffa5/287460903_10107464872263125_5218909622823793597_n-17b0bf32882bb93c784e182807d448c2.jpg"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "place_city_britishcolumbia_vancounver",
@@ -218,7 +220,8 @@
       "statement": "I'm hank the tank",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/wpforms/305-2bee9829395bfeecee44874bff54ffa5/BdvRIztIMAAe_9g-56794afb528d3171e062a6e1e546d30b.png"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "place_city_oregon_forestgrove",
@@ -243,7 +246,8 @@
       "statement": "asdf",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/wpforms/305-2bee9829395bfeecee44874bff54ffa5/62e3ea8db48aac14b9ba80da_salmon-nation-map-nodes-1756788ca0c13be5f07d847dda8677c4.png"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "place_city_washington_seattle",
@@ -268,7 +272,8 @@
       "statement": "hurble gurble the second",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Cascadia-0bddc03a57ca28fd3c291923650cd49a.png"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "wpf64dd3fffaf2557.79329319",
@@ -288,7 +293,8 @@
       "statement": "AAABrandonTest",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Cascadia-e59d880cfce853a7d23b0dee3c06163e.png"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "wpf64dd508ba4b6d7.79517507",
@@ -308,7 +314,8 @@
       "statement": "BBBBBBBBTEST",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Cascadia-Dept-of-Bioregion-Logo-340b72c30191ed90a127911df3ff6632.png"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "wpf64dd5a05b71c49.82321239",
@@ -328,7 +335,8 @@
       "statement": "CCCCCCTEST",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/download-edac96016652ca6456791949c7e738f6.jpg"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "place_city_washington_spanaway",
@@ -353,7 +361,8 @@
       "statement": "The whole concept of bioregionalism is key to our futures everywhere, Bill Mollison saw this years ago and David Holmgren followed up on this with Retro-Suburbia.\u00a0 We are seeing the failure of globalism and now is the time to get back to our bioregional roots.\u00a0 Bring back the village.",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/mikeB-cacbea1fa279355f89a460696190834b.jpeg"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "place_city_oregon_eugene",
@@ -378,7 +387,8 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/2.2023-message-d1b640654ff968f57c14deeb6c1a5dc4.png"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "id": "place_city_britishcolumbia_vancouver",
@@ -403,7 +413,8 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Screenshot_20230716-223750-ab18dcabe55123332dc9c78a97336550.png"
-      ]
+      ],
+      "type": "Person"
     },
     {
       "label": "Jacks Salmon Shack",
