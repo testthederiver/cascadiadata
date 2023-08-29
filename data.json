@@ -41,6 +41,17 @@
       "from": "wpf64eaa50cbc92f3.72535588",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "Seattle, Washington",
+      "from": "place_city_washington_seattle",
+      "to": "place_stateprov_washington"
+    },
+    {
+      "id": "6812355451326408708",
+      "from": "wpf64ed7631e68da4.54110379",
+      "to": "place_city_washington_seattle",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -141,6 +152,30 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Screenshot_20230716-223750-ab18dcabe55123332dc9c78a97336550.png"
       ],
       "type": "Person"
+    },
+    {
+      "label": "Department of Bioregion",
+      "id": "wpf64ed7631e68da4.54110379",
+      "description": "The Department of Bioregion is a 501(c)3 nonprofit and social movement to build a planetary network of interconnected bioregions and bioregional movements.",
+      "org_type": "501(c)3 Nonprofit",
+      "presenting": "Yes! That'd be great.",
+      "located_on_tour": "Seattle",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "cascadiabioregion.org",
+      "importence": "The Department of Bioregion is a hosting organization for the Regenerate Cascadia activation tour and summit in October of 2023. We hope to use this tour to activate on-the-ground leaders and land stewards with a governance structure able to steward a bioregional regeneration fund.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Cascadia-DOB-Logo-Square-2af6c4185fffbd3869e82ed620b5a2c6.png"
+      ],
+      "type": "Organization"
+    },
+    {
+      "id": "place_city_washington_seattle",
+      "label": "Seattle, Washington",
+      "type": "Place"
     }
   ]
 }
