@@ -1,18 +1,6 @@
 {
   "connections": [
     {
-      "id": "Dallas, Oregon",
-      "from": "place_city_oregon_dallas",
-      "to": "place_stateprov_oregon",
-      "type": "Location"
-    },
-    {
-      "id": "Vancounver, British Columbia",
-      "from": "place_city_britishcolumbia_vancounver",
-      "to": "place_stateprov_britishcolumbia",
-      "type": "Location"
-    },
-    {
       "id": "Eugene, Oregon",
       "from": "place_city_oregon_eugene",
       "to": "place_stateprov_oregon",
