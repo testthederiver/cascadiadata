@@ -71,6 +71,12 @@
       "from": "wpf64ed7b74382d83.30078248",
       "to": "place_city_washington_tacoma",
       "type": "Location"
+    },
+    {
+      "id": "-4613494301662763885",
+      "from": "wpf64ed79736e14e2.19476398",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -226,6 +232,27 @@
       "id": "place_city_washington_tacoma",
       "label": "Tacoma, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf64ed79736e14e2.19476398",
+      "label": "Brandon Letsinger",
+      "email": "cascadianowss@gmail.com",
+      "area": "Seattle",
+      "bio": "My name is Brandon Letsinger. I'm the founder of CascadiaNow! and the Department of Bioregion, a 501(c)3 nonprofit organization dedicated to building a world of planetary bioregions and interconnected bioregional movements. I am working with Clare Attwell to help convene the Regenerate Cascadia campaign and was a steward in the Salmon Nation edge prize program.",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Indigenous Sovereignties||Local / Organizing||Media||Tech / Digital Ecosystem",
+      "work": "",
+      "website": "cascadiabioregion.org",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/FB_IMG_1666146389333-c4371a5ec2819c9bec604fb835731ccd.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
