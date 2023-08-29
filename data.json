@@ -59,6 +59,18 @@
       "from": "wpf64ed7631e68da4.54110379",
       "to": "place_city_washington_seattle",
       "type": "Organization To Place"
+    },
+    {
+      "id": "Tacoma, Washington",
+      "from": "place_city_washington_tacoma",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-2792985345584609234",
+      "from": "wpf64ed7b74382d83.30078248",
+      "to": "place_city_washington_tacoma",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -187,6 +199,32 @@
     {
       "id": "place_city_washington_seattle",
       "label": "Seattle, Washington",
+      "type": "Place"
+    },
+    {
+      "id": "wpf64ed7b74382d83.30078248",
+      "label": "Nate Bade",
+      "email": "tipthederiver@gmail.com",
+      "area": "Vashon",
+      "bio": "I am a data scientist from Cascadia!",
+      "stateorprov": "Washington",
+      "city_wa": "Tacoma",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Indigenous Sovereignties||Local / Organizing||Permaculture||Tech / Digital Ecosystem",
+      "work": "I do some backend work for the Kumu mapping and data organization.",
+      "website": "",
+      "linkedin": "",
+      "statement": "I feel it is a much more economically and socially sensible way to organize the geography of society.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/287460903_10107464872263125_5218909622823793597_n-fcb4f450c4e45606c9fa71cea6cb2d87.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_tacoma",
+      "label": "Tacoma, Washington",
       "type": "Place"
     }
   ]
