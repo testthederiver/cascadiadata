@@ -77,6 +77,18 @@
       "from": "wpf64ed79736e14e2.19476398",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "Victoria, British Columbia",
+      "from": "place_city_britishcolumbia_victoria",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "-7882744634385907440",
+      "from": "wpf64ee6ffff0a264.25245494",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -253,6 +265,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/FB_IMG_1666146389333-c4371a5ec2819c9bec604fb835731ccd.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf64ee6ffff0a264.25245494",
+      "label": "Clare Attwell",
+      "email": "clareattwell001@gmail.com",
+      "area": "Victoria",
+      "bio": "Clare Attwell has long worked in community cultural development from the local to provincial level, and is also a textile and multi-media artist. She currently works with several local and global communities deeply engaged in every aspect of Earth Regeneration. These include the Design School For Regenerating Earth, Regenerate Cascadia, for which she is the co-founder, and Conversations for a One Planet Region Society, a local, Victoria based non-profit helping to catalyze a Bioregional conversation across the region.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Victoria",
+      "where": "",
+      "interests": "Art||Fundraising||Indigenous Sovereignties||Local / Organizing||Media||Permaculture||Tech / Digital Ecosystem",
+      "work": "<p class=\"p1\"><b>Clare Attwell</b>, B.A., Arts Admin.</p>\r\n<p class=\"p1\">Community Artist &amp; Weaver</p>\r\n<p class=\"p1\"></p>\r\n<p class=\"p1\">Since the 1990\u2019s, Clare has worked across scales, from grassroots through to the municipal and provincial levels of decision making, to develop scaffolding to support Community Cultural Development.<span class=\"Apple-converted-space\">\u00a0 </span>Her early work in this area, has informed most of her work since.</p>\r\n<p class=\"p1\">Clare currently works with several communities deeply engaged in work involving every aspect of Earth Regeneration. These include the Design School For Regenerating Earth, Regenerate Cascadia, for which she is the co-founder, and Conversations for a One Planet Region Society, a local, Victoria based non-profit helping to catalyze a Bioregional conversation across the region.</p>\r\n<p class=\"p1\">Clare is also a textile and multi-media artist. When she is not working on her own art, she works as a community artist, using the arts in imaginative ways to help community groups explore complex issues such as cultural and spiritual identity, including community visioning. \u00a0Clare is especially interested in exploring what makes complex systems functional, and in particular, how they relate to organizations and social systems.</p>\r\n<p class=\"p1\">https://clareattwellartist.wordpress.com</p>\r\n<p class=\"p1\"></p>\r\n<p class=\"p1\">While I was still in my early teens, I realized that noble efforts that don't connect to people\u2019s hearts, - and where a sense of belonging is absent - , do not create the kind of systems-change required for the world we want.<span class=\"Apple-converted-space\">\u00a0 </span>This was the work I felt called to, despite the fact that no such paid job existed, contrary to appearances.<span class=\"Apple-converted-space\">\u00a0 </span>Thus, for the last 3 decades, I have split my time earning a basic income in unrelated work in order to spend most of my time working as an unpaid weaver, artist in residence, community animator, - using the lens of Community Cultural Development.</p>\r\n<p class=\"p1\">My focus has now broadened to using a whole-landscape scale lens for creating the conditions for learning how to \u2018bioregion\u2019 together - where the arts, growing food, Earth regeneration, 'yarning' and laughing together, using polycentric governance processes, feature prominently!</p>\r\n<p class=\"p1\">\u201cThe map is not the territory - A Korzypski</p>",
+      "website": "clareattwellartist.wordpress.com",
+      "linkedin": "Clare Attwell",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/F4A827DE-D0A4-434E-8F2E-0B82F41BD3E1_1_201_a-6bf43618979d3711f99475aab7355b26.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_victoria",
+      "label": "Victoria, British Columbia",
+      "type": "Place"
     }
   ]
 }
