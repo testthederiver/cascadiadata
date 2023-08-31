@@ -155,6 +155,12 @@
       "from": "wpf64f0e2d11fc1d4.53877837",
       "to": "place_city_oregon_portland",
       "type": "Location"
+    },
+    {
+      "id": "-2096701765635427162",
+      "from": "wpf64f0ec313abc09.35347094",
+      "to": "place_city_oregon_portland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -536,6 +542,27 @@
       "id": "place_city_oregon_portland",
       "label": "Portland, Oregon",
       "type": "Place"
+    },
+    {
+      "id": "wpf64f0ec313abc09.35347094",
+      "label": "Kiersten Rossing",
+      "email": "kierstenrossing@gmail.com",
+      "area": "Portland",
+      "bio": "Hey wonderful humans!\r\nMy name is Kiersten, and I\u2019m currently based in Portland. \r\nI am an artist, and am passionate about community uplifting and permaculture, and I\u2019m excited to learn and grow on this journey with you all! \r\nMy love for mother Gaia is expressed through permaculture, herbalism, bioregional regeneration, holistic wellness, song and dance, social forestry, and many many different forms of art.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Portland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Indigenous Sovereignties||Local / Organizing||Permaculture",
+      "work": "I am passionate about involving youth to discover their connection with earth and taking part in her regeneration. As a young person, it was synchronistic that I happened to meet the right folks at the right time to connect me with permaculture\u2026 I want other young folks emerging into this world to have easier and more mainstream access to permaculture/regenerative living education and experience opportunities.\r\n\r\nI am also very interested in and actively learning about herbalism and different holistic wellness practices. Healing our bodies, spirits, and minds is what makes the work we do rooted in an intention that will bring about beautiful changes into our world.\r\n\r\nI am an artist, and creative energy flows through me in many various forms! I think lots of community healing and placemaking can happen centered around creation and art, and I\u2019m excited to see how I can share the benefits of tapping into one\u2019s creative potential. I love to create murals, fiber arts, mosaics, natural building, jewelry making, etc. I love how creativity is a wonderful alternative to consumerism, and I think tapping into creative energy and art in different ways allows for beneficial trades and mutual aid to take place!\r\n\r\nI have some experience with permaculture gardening, and am continuing to grow in this skill. Tending the earth has opened me up to so much purpose and alignment with what feels like embodying my authentic self. I love community togetherness that occurs when tending the earth and therefore, tending to each other. Working with medicinal plants and herbs has been a wonderful practice for me to communicate and connect with our mother Gaia through these different plant spirits and energies. It\u2019s really amazing how these vessels we call our bodies respond to and communicate with the plant energies we introduce to it!",
+      "website": "https://kierstenmakesart.weebly.com/",
+      "linkedin": "",
+      "statement": "We each have a unique perspective to offer when creating the tapestry of our regenerative future here in Cascadia. Diversity within the experiences that are shared and heard is essential for creating the cultural scaffolding on which we will need to stand in order to build and thrive.\r\nThat being said, I want to offer my perspective to the mix, as a younger feminine energy in this space.\r\n\r\nI think so much healing can occur with creative practices, and my work with art and creative outlets can offer a way for solutions to be born, experiences to be heard, and expressions to be authentic and encouraged!\r\n\r\nMedicinal herbs and healing with foods is an important aspect I\u2019m excited to weave into the regeneration of Cascadia as well. Understanding the energy of food and plants, and how they affect us, can open us to a world of connectivity that is essential for saving our ecosystems that provide this healing for us.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/IMG_8239-d36c09ede986b49a52e2bcb4b43df9f9-scaled.jpeg"
+      ],
+      "type": "Person"
     }
   ]
 }
