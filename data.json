@@ -167,6 +167,18 @@
       "from": "wpf64f1091f04f6c6.68168335",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "Beaverton, Oregon",
+      "from": "place_city_oregon_beaverton",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "-2089408309008425481",
+      "from": "wpf64f1091f04f6c6.68168335",
+      "to": "place_city_oregon_beaverton",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -590,6 +602,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/IMG_3894-191004483d7aefc3f2c4ed73c83c77af-scaled.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf64f1091f04f6c6.68168335",
+      "label": "Thomas Harun",
+      "email": "thomas@branchoutnow.org",
+      "area": "Portland",
+      "bio": "Currently living in Beaverton/Chakeipi, Atfalati Kalapuya Land, Portland Tri-Met Area, Willamette Valley, Southern Cascadia. Interested in supporting bioregional megaquake resilience, regenerative livelihoods, and climate justice. Professional background as a teacher and in non-profit environmental media.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Beaverton",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Fundraising||Indigenous Sovereignties||Local / Organizing||Media||Permaculture||Tech / Digital Ecosystem",
+      "work": "I'm a director of Branch Out, non-profit publisher of online climate journalism, headquartered in Cascadia.\r\n\r\nOur newest project, Climate Wiki, is launching its public beta test tomorrow!\r\n\r\nYou are invited to collaborate with us to develop Climate Wiki's knowledge commons as a set of tools for effective activism and stewardship.",
+      "website": "branchoutnow.org",
+      "linkedin": "",
+      "statement": "The incoming Megaquake will strike across the Cascadia Bioregion and is a stunning example of why bioregional-scale regeneration is necessary for solidarity and adaptation. Everything from food sovereignty to watershed health, affordable housing, treaty rights, bioregional supply chains, and replacing fossil fuels is at stake.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Thomas-Profile-ff87fca13ec86ece0acb2af38c7f6e2d.png"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_beaverton",
+      "label": "Beaverton, Oregon",
+      "type": "Place"
     }
   ]
 }
