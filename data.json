@@ -179,6 +179,18 @@
       "from": "wpf64f1091f04f6c6.68168335",
       "to": "place_city_oregon_beaverton",
       "type": "Location"
+    },
+    {
+      "id": ", Online",
+      "from": "place_city_online_",
+      "to": "place_stateprov_online",
+      "type": "Location"
+    },
+    {
+      "id": "4072028804645383327",
+      "from": "wpf64f119c9296920.63979227",
+      "to": "place_city_online_",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -627,6 +639,30 @@
     {
       "id": "place_city_oregon_beaverton",
       "label": "Beaverton, Oregon",
+      "type": "Place"
+    },
+    {
+      "label": "Earth Regenerators",
+      "id": "wpf64f119c9296920.63979227",
+      "description": "",
+      "org_type": "Community / Digital",
+      "presenting": "No thanks",
+      "located_on_tour": "Not in the Area",
+      "stateorprov": "Online",
+      "city_wa": "",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "https://earth-regenerators.mn.co/",
+      "importence": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Earth-Regenerators-a508f8c5cbd7580e064bff881b114206.png"
+      ],
+      "type": "Organization"
+    },
+    {
+      "id": "place_city_online_",
+      "label": ", Online",
       "type": "Place"
     }
   ]
