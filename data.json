@@ -131,6 +131,12 @@
       "from": "wpf64f0d31f4df0d8.97162990",
       "to": "place_city_britishcolumbia_abbotsford",
       "type": "Location"
+    },
+    {
+      "id": "9043250329421522897",
+      "from": "wpf64f0d4082beba8.70532420",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -446,6 +452,27 @@
       "id": "place_city_britishcolumbia_abbotsford",
       "label": "Abbotsford, British Columbia",
       "type": "Place"
+    },
+    {
+      "id": "wpf64f0d4082beba8.70532420",
+      "label": "Benji Ross",
+      "email": "benjaminross1001@gmail.com",
+      "area": "Not in the Area",
+      "bio": "Creating space and processes within Earth Regenerators where we can self organize around the purpose of facilitating bioregional learning on a planetary scale. Also exploring ways in which we can create onboarding processes so that anyone seeking a regenerative profession can co-learn the role of the bioregional catalyst with the community and be supported in those efforts. I am designing and hosting sessions, writing posts, publishing videos, and forming connections to further our aims.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Colorado",
+      "interests": "Art||Economy||Fundraising||Indigenous Sovereignties||Local / Organizing||Media||Permaculture||Tech / Digital Ecosystem",
+      "work": "So far, life has largely been a meandering inquiry into how human cultures can better relate to our landscapes. That curiosity is why after graduating from business school I became a small scale farmer, rancher, and budding Permaculture practitioner.\r\n\r\nAfter a deep focus on understanding and stewarding landscapes, I came to realize that humans know how to cultivate abundant and resilient ecosystems. Despite our desperate need for that to happen, our ever expanding human built environment and our runaway cultural compulsion towards separation from nature and each other gets in our way.\r\n\r\nI am now exploring the ecology of social and cultural systems and how we can discover ways that Homo sapiens can adapt towards better relationships with Earth. Now I ask: How can we as a species rediscover our landscapes as home?\r\n\r\nCurrently I am part of a community called Earth Regenerators that is cultivating a learning and support ecosystem to explore questions like that. I founded a group within that community called Bioregional Catalysts that is searching for real world examples of communities coming together for landscape scale regeneration to distribute and facilitate replication of what we learn across the planet. We also support individuals and small groups who aspire to convene their communities to see their landscapes as a whole in order to enable local regeneration.\r\n\r\nI am a facilitator, a cultural scaffold builder, a content creator, an aspiring storyteller, and I am in service to the planetary scale community commons.",
+      "website": "https://design-school-for-regenerating-earth.mn.co/",
+      "linkedin": "https://www.linkedin.com/in/benji-ross-4a906a29/",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/1517535113264-b94e9f7dc295cc27a70c09e160840a4d.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
