@@ -107,6 +107,12 @@
       "from": "wpf64efff7eb20bc9.15548475",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "5386894458854159457",
+      "from": "wpf64f0c2ec2d5843.19367859",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -354,6 +360,27 @@
       "id": "place_city_other_",
       "label": ", Other",
       "type": "Place"
+    },
+    {
+      "id": "wpf64f0c2ec2d5843.19367859",
+      "label": "Christine Lorenz",
+      "email": "rosiebo2@gmail.com",
+      "area": "Eugene",
+      "bio": "Just starting to learn about regeneration.\r\nWorked in a nonprofit research group in the behavioral sciences.\r\nMassage therapist well.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Fundraising||Local / Organizing",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "Yes. That\u2019s why I wanted to join this group on the Cascadia tour.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/IMG_1574-5ebe64621281f755d502c4d2ba5e9b87.jpeg"
+      ],
+      "type": "Person"
     }
   ]
 }
