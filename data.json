@@ -191,6 +191,12 @@
       "from": "wpf64f119c9296920.63979227",
       "to": "place_city_online_",
       "type": "Organization To Place"
+    },
+    {
+      "id": "27044637791585861",
+      "from": "wpf64f1226fb2fc63.25689185",
+      "to": "place_city_online_",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -664,6 +670,25 @@
       "id": "place_city_online_",
       "label": ", Online",
       "type": "Place"
+    },
+    {
+      "label": "Vivero",
+      "id": "wpf64f1226fb2fc63.25689185",
+      "description": "Vivero is a trust-based regenerative finance platform that nurtures healthy community, people and projects. It changes the face of traditional economics by naming, encouraging and valuing many forms of capital flow between people, their programs and projects. Vivero members interact and collaborate directly with each other and decide collectively where gifts will go. Non-financial community contributors are recognised alongside those who give $s. Beneficiaries and their projects are visible in a mobile / web-based Vivero app which has been successfully prototyped in Earth Regenerators. Vivero giving and receiving is tracked transparently.",
+      "org_type": "Community / Digital",
+      "presenting": "Yes! That'd be great.",
+      "located_on_tour": "Not in the Area",
+      "stateorprov": "Online",
+      "city_wa": "",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "earthregenerators.org/Vivero",
+      "importence": "Vivero\u2019s open source architecture and technology is designed to branch and network out into bioregions, to be adapted and shaped to specific community needs and local contexts including \u2014 if desired \u2014 giving a bridge between fiat and crypto. Vivero project incubation and syntropic storytelling brings together diverse community voices to share and collaborate in a collective action-learning path that all members are welcomed to walk together. The app-based community noticeboard keeps people and projects connected.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/viverologo-dc78f939035632938716947701778d80.png"
+      ],
+      "type": "Organization"
     }
   ]
 }
