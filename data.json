@@ -161,6 +161,12 @@
       "from": "wpf64f0ec313abc09.35347094",
       "to": "place_city_oregon_portland",
       "type": "Location"
+    },
+    {
+      "id": "-2089408309008425481",
+      "from": "wpf64f1091f04f6c6.68168335",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -561,6 +567,27 @@
       "statement": "We each have a unique perspective to offer when creating the tapestry of our regenerative future here in Cascadia. Diversity within the experiences that are shared and heard is essential for creating the cultural scaffolding on which we will need to stand in order to build and thrive.\r\nThat being said, I want to offer my perspective to the mix, as a younger feminine energy in this space.\r\n\r\nI think so much healing can occur with creative practices, and my work with art and creative outlets can offer a way for solutions to be born, experiences to be heard, and expressions to be authentic and encouraged!\r\n\r\nMedicinal herbs and healing with foods is an important aspect I\u2019m excited to weave into the regeneration of Cascadia as well. Understanding the energy of food and plants, and how they affect us, can open us to a world of connectivity that is essential for saving our ecosystems that provide this healing for us.",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/IMG_8239-d36c09ede986b49a52e2bcb4b43df9f9-scaled.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf64f1091f04f6c6.68168335",
+      "label": "Steven Morris",
+      "email": "sjmvideo@mac.com",
+      "area": "Not in the Area",
+      "bio": "Grew up in New Jersey. As a teenager worked on a renewable energy aquaponics project at the Great Swamp Refuge in the 1970s. Got into technology, computers and electronics. Moved to Colorado late 1990s. Now doing work to support the Design School for Regenerating Earth, and living part time in Barichara Colombia.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Nomad - Colorado, Pennsylvania, Colombia",
+      "interests": "Art||Economy||Indigenous Sovereignties||Local / Organizing||Media||Tech / Digital Ecosystem",
+      "work": "I've been studying complexity with Joe Brewer and Nora Bateson. I've done extensive personal growth work (aka personal healing) and supported many workshops in the production and technology use of them. I also do hands on intuitive energy healing work. I've studied multiple different modalities and integrated them into my offering. I don't do it professionally at this time. Last year i retired from full time event audio / visual production work. I still do that occasionally as well as video recording and editing.",
+      "website": "https://twitter.com/lifesmyth",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/IMG_3894-191004483d7aefc3f2c4ed73c83c77af-scaled.jpeg"
       ],
       "type": "Person"
     }
