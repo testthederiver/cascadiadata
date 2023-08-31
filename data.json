@@ -113,6 +113,12 @@
       "from": "wpf64f0c2ec2d5843.19367859",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "-7825717122034541071",
+      "from": "wpf64f0d20c9d76f3.41372559",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -379,6 +385,27 @@
       "statement": "Yes. That\u2019s why I wanted to join this group on the Cascadia tour.",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/IMG_1574-5ebe64621281f755d502c4d2ba5e9b87.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf64f0d20c9d76f3.41372559",
+      "label": "Joe Brewer",
+      "email": "circlejoe@gmail.com",
+      "area": "Not in the Area",
+      "bio": "Joe has a unique background in physics, math, philosophy, atmospheric science, complexity, and cognitive linguistics. More than a decade ago, he left the academy to trail blaze a path for other practitioners to follow. Awakened to the threat of human-induced climate disruption while pursuing a Ph.D. in atmospheric science, he switched fields and began to work with scholars in the behavioral and cognitive sciences with the hope of helping create large-scale behavior change at the level of global civilization.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Barichara, Columbia",
+      "interests": "Art||Economy||Fundraising||Indigenous Sovereignties||Local / Organizing||Media||Permaculture||Tech / Digital Ecosystem",
+      "work": "He was active with the Center for Complex Systems Research at the University of Illinois studying pattern formation in physical and social systems before joining renowned linguist, George Lakoff, at the Rockridge Institute in Berkeley to analyze political discourse and reveal the structures of meaning in human language.\r\n\r\nWhen Rockridge closed 2008, Joe launched his first social enterprise\u2014a research consultancy called Cognitive Policy Works whose mission was to apply insights from cognitive science to social change. It was here that he built up a global network of collaborators in the nonprofit, governmental, and social impact business domains.\r\n\r\nFrom 2011 to 2017 he was research director at TheRules.org helping social movements as an expert in linguistic framing. He worked closely with Martin Kirk and Alnoor Ladha to coordinate with activists and movement leaders in the reframing of poverty, climate change, capitalism, and key issues around economic development.\r\n\r\nIn 2012 he joined Lazlo Karafiath to lay foundations for the new field of culture design, culminating in the birth of Culture2 Inc. Along the way, he has contributed to the formation of the International Centre for Earth Simulation\u2014a globally-focused research foundation dedicated to the integration of more than 100 sciences that study the changing Earth.\r\n\r\nIn 2019, he joined Capital Institute to help manage community relations for the Regenerative Communities Network. The focus was to help create a planetary network of regenerative economies organized at bioregional scales.\r\n\r\nIn 2020 he founded Earth Regenerators and launched an initiative to regenerate 500,000 hectares of land in Barichara, Colombia while helping seed the formation of the Design School for Regenerating Earth that was established in 2023.\r\n\r\nHe has spoken at many global conferences on the science of social change and human dimensions of planetary sustainability. And has given workshops on three continents about the workings of the human mind and the strategic tools for designing and enacting positive change in the world.",
+      "website": "https://design-school-for-regenerating-earth.mn.co/",
+      "linkedin": "https://www.linkedin.com/in/joe-brewer-4957925",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/photo_2023-08-20_04-18-47-6495d02314becff5316ec61441ed3453.jpg"
       ],
       "type": "Person"
     }
