@@ -137,6 +137,12 @@
       "from": "wpf64f0d4082beba8.70532420",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-7546899748091293473",
+      "from": "wpf64f0d5695cb931.21430121",
+      "to": "place_city_other_",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -473,6 +479,25 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/1517535113264-b94e9f7dc295cc27a70c09e160840a4d.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "label": "Design School for Regenerating Earth",
+      "id": "wpf64f0d5695cb931.21430121",
+      "description": "",
+      "org_type": "Community",
+      "presenting": "No thanks",
+      "located_on_tour": "Not in the Area",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_bc": "",
+      "where": "Online",
+      "website": "https://design-school-for-regenerating-earth.mn.co/feed",
+      "importence": "The challenges humanity and the Earth are facing now are extremely complex and unlike anything that has come before in the history of the planet. The good news is that it really is possible to regenerate the Earth at the scales needed. In order to do so, we must consciously and intentionally evolve humanity into a\u00a0<em>planetary species</em>\u00a0and learn to cooperate at unprecedented levels. We must organize ourselves around holistic, integrated landscapes known as bioregions, and connect those bioregions into a planetary network of learning exchanges.\r\n\r\nMembers of the Design School are working together on the ground in bioregions while simultaneously building a planetary network and community engaging in this kind of bioregional work. We are learning how to cooperate at the levels needed by practicing and working within Prosocial groups. This enables focused actions to arise with clear design and intent so that we can effectively regenerate at the bioregional scale and create interactions and supports between and across bioregions. All of this being done in service to the regeneration of the entire Planet.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/Logo-Symbol-Only-Cropped-bea71e91e17e4cf450e983c3873c4f27.jpg"
+      ],
+      "type": "Organization"
     }
   ]
 }
