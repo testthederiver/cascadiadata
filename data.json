@@ -197,6 +197,12 @@
       "from": "wpf64f1226fb2fc63.25689185",
       "to": "place_city_online_",
       "type": "Organization To Place"
+    },
+    {
+      "id": "8125987638320339298",
+      "from": "wpf64f15eddb9ab35.34362350",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -689,6 +695,27 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/viverologo-dc78f939035632938716947701778d80.png"
       ],
       "type": "Organization"
+    },
+    {
+      "id": "wpf64f15eddb9ab35.34362350",
+      "label": "Brad Sander",
+      "email": "bradismyfriend@gmail.com",
+      "area": "Not in the Area",
+      "bio": "Living in Colorado but connections to Cascadia through previous life as a Paraglider, interested to see if anyone from that world will come through this portal the way I have.. way better to live fully on the ground than fly through the sky.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Grand Junction Colorado",
+      "interests": "Economy||Indigenous Sovereignties||Permaculture",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "I'm not sure if my work is, other than the fractally of course, my work is connected to your work is connected to all work..",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/profile22-c27e5e03194dbc4daf114afe9002c879.png"
+      ],
+      "type": "Person"
     }
   ]
 }
