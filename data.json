@@ -203,6 +203,12 @@
       "from": "wpf64f15eddb9ab35.34362350",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-1563805529075288383",
+      "from": "wpf64f669fc1fd0d2.39403832",
+      "to": "place_city_oregon_portland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -714,6 +720,27 @@
       "statement": "I'm not sure if my work is, other than the fractally of course, my work is connected to your work is connected to all work..",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/08/profile22-c27e5e03194dbc4daf114afe9002c879.png"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf64f669fc1fd0d2.39403832",
+      "label": "Michkael Baker",
+      "email": "bluevoicemedia@gmail.com",
+      "area": "Portland",
+      "bio": "Greetings, I'm Michael Baker, also known as a Community Orchestrator. Over the past 15 years, my journey has been dedicated to understanding and designing communication, sharing, and exchange systems that empower individuals and local communities to establish decentralized economic systems. My passion lies in assisting fellow entrepreneurs in mastering the art of collaboration and creating innovative business models, open-source technologies, and social systems that benefit communities and their environment. Having had the privilege of founding and leading various businesses, my current focus centers on nurturing changemakers within local communities. I'm dedicated to leveraging community intelligence technologies to support locally connected, decentralized economic systems through initiatives like community innovation hubs or community action centers, with a focus on promoting regenerative agriculture, community entrepreneurship, immersive health education, and community-owned real estate development",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Portland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Fundraising||Indigenous Sovereignties||Local / Organizing||Media||Permaculture||Tech / Digital Ecosystem",
+      "work": "Our work revolves around empowering the creation and establishment of locally interconnected economic systems. Through the Community Resource Tree Foundation, I facilitate the development of innovative tools and technologies that enable communities to collaborate in real-time resource mapping. These technologies, such as the Community Intelligence Engine, act as a community and economic accelerator, harnessing the power of data and collaboration.\r\n\r\nWe provide a platform for communities to pool resources, exchange goods and services with a multi-currency approach, and address pressing issues collectively. Our vision is to create vibrant, self-sustaining local economies, fostering cooperative entrepreneurship and ownership. With a focus on education and engagement, we empower individuals to become catalysts for change within their communities.",
+      "website": "www.thecacoon.com",
+      "linkedin": "https://www.linkedin.com/in/michkael/",
+      "statement": "The significance of my work and how that applies to the principles of bioregionalism is in the impact on the future our natural ecosystems. By harnessing advanced technologies like the Community Resource Tree and Community Intelligence Engine, we unlock the potential to gather, analyze, and apply data in unprecedented ways. This real-time collaboration and resource mapping offer the region a powerful tool to address complex challenges, whether environmental, economic, or social.\r\n\r\nBioregionalism underscores the importance of understanding the unique characteristics and interconnectedness of the Cascadia bioregion. My work allows us to aggregate data from various regions, bringing together diverse perspectives and solutions. It fosters an ecosystem of cooperation, enabling resource exchange and problem-solving on a local and regional scale.\r\n\r\nIn essence, our collective mission aligns seamlessly with the principles of bioregionalism, providing the tools needed to build a sustainable and prosperous future for the Cascadia bioregion.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/MB-Head-Shot-83c1e02de3f72b8d05fdcf80e5bc45c0.png"
       ],
       "type": "Person"
     }
