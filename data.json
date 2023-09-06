@@ -209,6 +209,18 @@
       "from": "wpf64f669fc1fd0d2.39403832",
       "to": "place_city_oregon_portland",
       "type": "Location"
+    },
+    {
+      "id": "Olympia, Washington",
+      "from": "place_city_washington_olympia",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-3353436545372492067",
+      "from": "wpf64f90850eb8c96.25646183",
+      "to": "place_city_washington_olympia",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -743,6 +755,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/MB-Head-Shot-83c1e02de3f72b8d05fdcf80e5bc45c0.png"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf64f90850eb8c96.25646183",
+      "label": "Rick Lukens",
+      "email": "rick@unitedearth.net",
+      "area": "Port Townsend",
+      "bio": "Richard Lukens has spent the past four decades orchestrating world-class live events to support humanitarian, environmental and social causes. He has assisted in the production of some of some of the most important cause-related events in history, such as the first live interactive \"Space-Bridge\" between the former Soviet Union and the United States, the Live Aid concert, the White House Conference on Global Climate Change, events for the United Nations and many others.",
+      "stateorprov": "Washington",
+      "city_wa": "Olympia",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Local / Organizing",
+      "work": "Local and global special event production",
+      "website": "www.unitedearth.net",
+      "linkedin": "https://www.linkedin.com/in/richard-lukens-5603/",
+      "statement": "I am bringing climate change and sustainability educational programs and public events to Fort Worden in Port Townsend, Washington",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/img_011aa-78654cfe7a7ded8b9fcefce7452e7b8b.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_olympia",
+      "label": "Olympia, Washington",
+      "type": "Place"
     }
   ]
 }
