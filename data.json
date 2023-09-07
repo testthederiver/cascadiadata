@@ -221,6 +221,12 @@
       "from": "wpf64f90850eb8c96.25646183",
       "to": "place_city_washington_olympia",
       "type": "Location"
+    },
+    {
+      "id": "-6867498839278137819",
+      "from": "wpf64fa0002d8e245.16149282",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -781,6 +787,27 @@
       "id": "place_city_washington_olympia",
       "label": "Olympia, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf64fa0002d8e245.16149282",
+      "label": "Paul E Nelson",
+      "email": "pen@cascadiapoeticslab.org",
+      "area": "Seattle",
+      "bio": "Poet & interviewer Paul E. Nelson is the son of a labor activist father and Cuban immigrant mother. Born on Chicago\u2019s west side in 1961, he\u2019s lived in King County since 1988. He founded the Cascadia Poetics LAB (formerly SPLAB (Seattle Poetics LAB)) & the Cascadia Poetry Festival. Since 1993, CPL has produced hundreds of poetry events & 700 hours of interview programming with legendary poets & whole systems activists. https://PaulENelson.com",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Fundraising||Indigenous Sovereignties||Local / Organizing||Media||Permaculture",
+      "work": "Poet, interviewer, apprentice spiritual ecologist. https://cascadiapoeticslab.org/cascadia-poetry-festival-7/ October 6-8, 2023.\r\n\r\nhttps://cascadiapoeticslab.org/category/podcast/\r\n\r\nhttps://cascadiapoeticslab.org/watershed-press-home/ Cascadian Zen, Vol I, now available. Launch, Oct 6-8, 2023 at CPF7.",
+      "website": "https://cascadiapoeticslab.org",
+      "linkedin": "https://www.linkedin.com/in/paul-e-nelson/",
+      "statement": "I have been aware of bioregionalism since the mid-90s when I interviewed Peter Berg. That my organization exists at the intersection of place and poetics I think is rather potent. See both of my websites for more information. A lot more content and information.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/pen-Side-Mirror-6.25.2023-66116dd285b7d45b2c20dc1d97531dfd.jpeg"
+      ],
+      "type": "Person"
     }
   ]
 }
