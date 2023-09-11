@@ -227,6 +227,12 @@
       "from": "wpf64fa0002d8e245.16149282",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "-8633796652281532038",
+      "from": "wpf64fefdf763a8f4.75839210",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -806,6 +812,27 @@
       "statement": "I have been aware of bioregionalism since the mid-90s when I interviewed Peter Berg. That my organization exists at the intersection of place and poetics I think is rather potent. See both of my websites for more information. A lot more content and information.",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/pen-Side-Mirror-6.25.2023-66116dd285b7d45b2c20dc1d97531dfd.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf64fefdf763a8f4.75839210",
+      "label": "david burman",
+      "email": "dburman@web.net",
+      "area": "Not in the Area",
+      "bio": "- early adopter/ promoter of LETSystem in Toronto 1990-1998\r\n- co-chair Regenerating Toronto\r\n- active in promoting indigenous world view\r\n- involved in u-school for awareness based systems transformation",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "toronto",
+      "interests": "Economy||Indigenous Sovereignties||Permaculture",
+      "work": "tbd",
+      "website": "regenToronto.org",
+      "linkedin": "",
+      "statement": "tbd",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/20230429_184055_Edited-d278122e4756f5eaa038ffe3e0fafb04-scaled.jpg"
       ],
       "type": "Person"
     }
