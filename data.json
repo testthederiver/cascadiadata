@@ -233,6 +233,12 @@
       "from": "wpf64fefdf763a8f4.75839210",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "6598974502687397232",
+      "from": "wpf64ff11df6b1079.54923310",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -833,6 +839,27 @@
       "statement": "tbd",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/20230429_184055_Edited-d278122e4756f5eaa038ffe3e0fafb04-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf64ff11df6b1079.54923310",
+      "label": "Tricia Stapleton",
+      "email": "regenerosacollective@gmail.com",
+      "area": "Not in the Area",
+      "bio": "I am a resident of the Osa Peninsula Bioregion in the watershed of the Gulfo Dulce\u2026As a community weaver interested in connecting our small bioregion into a larger network of other activated bioregions I have had the honor of working with a number of key players in the Regenerate Cascadia activation through the Earth Regenerators Network.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Puerto Jimenez, Osa Peninsula, Costa Rica",
+      "interests": "Local / Organizing",
+      "work": "",
+      "website": "https://regenerosa.wixsite.com/regenerosacollective",
+      "linkedin": "https://www.linkedin.com/in/regenerosa-collective-96a071258",
+      "statement": "I believe in the strength of biomimicry and as such know that by weaving across bioregions to inform, inspire and connect we are stronger than if working in isolation.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/9224F3ED-87BE-4AB1-BC02-F93B5E1BD75F-869c231b8109260b07f4d75699ba8f3d.jpeg"
       ],
       "type": "Person"
     }
