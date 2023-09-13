@@ -251,6 +251,18 @@
       "from": "wpf65019f3ac67d74.36369099",
       "to": "place_city_oregon_centralpoint",
       "type": "Location"
+    },
+    {
+      "id": "Nelson, British Columbia",
+      "from": "place_city_britishcolumbia_nelson",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "5224645251256829841",
+      "from": "wpf6501d8a5514005.20518244",
+      "to": "place_city_britishcolumbia_nelson",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -899,6 +911,32 @@
     {
       "id": "place_city_oregon_centralpoint",
       "label": "Central Point, Oregon",
+      "type": "Place"
+    },
+    {
+      "id": "wpf6501d8a5514005.20518244",
+      "label": "Jan Inglis",
+      "email": "janinglis@telus.net",
+      "area": "Victoria",
+      "bio": "I live in the Upper Columbia Kootenay bioregion and also spend time in Victoria.  I have been involved in bioregionalism , sustainability, climate education, public engagement and community animation since the 1980's.both in grassroots and academic   spheres.  I also have been an Integrative Body Psychotherapist practitioner and teacher for many years. My MSc is in Holistic Science focused on Deliberative Democracy and my PhD focused on Commons Governance and Economics.  I have been active with Earth Regenerators for almost 3 years.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Nelson",
+      "where": "",
+      "interests": "Art||Economy||Indigenous Sovereignties||Local / Organizing||Permaculture",
+      "work": "",
+      "website": "https://facingachangingworld.org/2020/03/08/co-constructing-a-new-set-of-relations-among-ourselves-and-with-the-earth/",
+      "linkedin": "https://ca.linkedin.com/in/jan-inglis-24a05a30",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/20190910_091917-1-2-81f601ec1e23470a51ce18d5e11b2356-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_nelson",
+      "label": "Nelson, British Columbia",
       "type": "Place"
     }
   ]
