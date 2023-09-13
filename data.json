@@ -239,6 +239,18 @@
       "from": "wpf64ff11df6b1079.54923310",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "Central Point, Oregon",
+      "from": "place_city_oregon_centralpoint",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "2179530941288466337",
+      "from": "wpf65019f3ac67d74.36369099",
+      "to": "place_city_oregon_centralpoint",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -862,6 +874,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/9224F3ED-87BE-4AB1-BC02-F93B5E1BD75F-869c231b8109260b07f4d75699ba8f3d.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf65019f3ac67d74.36369099",
+      "label": "kenneth morales",
+      "email": "moraleskennethvil@gmail.com",
+      "area": "Salish Sea",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Central Point",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Indigenous Sovereignties",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/Joe-Portrait-for-Web@2x-16d25e804e6548ce874555d1a3c9db33.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_centralpoint",
+      "label": "Central Point, Oregon",
+      "type": "Place"
     }
   ]
 }
