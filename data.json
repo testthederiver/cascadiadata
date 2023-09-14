@@ -287,6 +287,18 @@
       "from": "wpf6502d42df19c95.95322751",
       "to": "place_city_oregon_centralpoint",
       "type": "Organization To Place"
+    },
+    {
+      "id": "Albany, Oregon",
+      "from": "place_city_oregon_albany",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "-6971029942421367473",
+      "from": "wpf6502d9aa7361e5.23255423",
+      "to": "place_city_oregon_albany",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -1044,6 +1056,30 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/Joe-Portrait-for-Web@2x-1ad37a4981113f93b6811858e8c4dc50.jpg"
       ],
       "type": "Organization"
+    },
+    {
+      "label": "kenneth test 2",
+      "id": "wpf6502d9aa7361e5.23255423",
+      "description": "test organiztion",
+      "org_type": "Business",
+      "presenting": "No thanks",
+      "located_on_tour": "Not in the Area",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Albany",
+      "city_bc": "",
+      "where": "",
+      "website": "",
+      "importence": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/Joe-Portrait-for-Web@2x-baaf1ffb8d261840c584c4bbd8519a62.jpg"
+      ],
+      "type": "Organization"
+    },
+    {
+      "id": "place_city_oregon_albany",
+      "label": "Albany, Oregon",
+      "type": "Place"
     }
   ]
 }
