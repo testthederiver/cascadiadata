@@ -299,6 +299,12 @@
       "from": "wpf6502d9aa7361e5.23255423",
       "to": "place_city_oregon_albany",
       "type": "Organization To Place"
+    },
+    {
+      "id": "-5981860470767482773",
+      "from": "wpf6502da893ed480.01380029",
+      "to": "place_city_britishcolumbia_abbotsford",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -1080,6 +1086,25 @@
       "id": "place_city_oregon_albany",
       "label": "Albany, Oregon",
       "type": "Place"
+    },
+    {
+      "label": "kenneth test 3",
+      "id": "wpf6502da893ed480.01380029",
+      "description": "",
+      "org_type": "",
+      "presenting": "No thanks",
+      "located_on_tour": "Not in the Area",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_bc": "Abbotsford",
+      "where": "",
+      "website": "",
+      "importence": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/Joe-Portrait-for-Web@2x-782ba36195d6216606b6689003c6000e.jpg"
+      ],
+      "type": "Organization"
     }
   ]
 }
