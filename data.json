@@ -281,6 +281,12 @@
       "from": "wpf65025a5546c429.42946181",
       "to": "place_city_britishcolumbia_victoria",
       "type": "Location"
+    },
+    {
+      "id": "-6067703806253310825",
+      "from": "wpf6502d42df19c95.95322751",
+      "to": "place_city_oregon_centralpoint",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -1019,6 +1025,25 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/IMG_9598-55248e200d51e45be4898c55d090d771.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "label": "kenneth test",
+      "id": "wpf6502d42df19c95.95322751",
+      "description": "test organization",
+      "org_type": "Community / Digital",
+      "presenting": "No thanks",
+      "located_on_tour": "Not in the Area",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Central Point",
+      "city_bc": "",
+      "where": "",
+      "website": "",
+      "importence": "test textfield",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/Joe-Portrait-for-Web@2x-1ad37a4981113f93b6811858e8c4dc50.jpg"
+      ],
+      "type": "Organization"
     }
   ]
 }
