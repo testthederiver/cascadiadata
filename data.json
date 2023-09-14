@@ -275,6 +275,12 @@
       "from": "wpf6501d8a5514005.20518244",
       "to": "place_city_britishcolumbia_nelson",
       "type": "Location"
+    },
+    {
+      "id": "-4773472176380252650",
+      "from": "wpf65025a5546c429.42946181",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -990,6 +996,27 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/20190910_091917-1-af4b9624e14d4097106a3a759ea912e3-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65025a5546c429.42946181",
+      "label": "Shera Potka",
+      "email": "potka.sheraa@gmail.com",
+      "area": "Victoria",
+      "bio": "Hello! I'm Shera Potka, a Computer Science PhD student hailing from the University of Victoria. My academic journey revolves around Data Analysis within Recommender Systems and Large Language Models. When I'm not diving into the world of research, I find solace in Web Design\u2014a passion nurtured during my undergrad and grad years in Germany, where I delved into Media Computer Science. Crafting web identities is more than a hobby; it's a testament to the significance of a digital presence.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Victoria",
+      "where": "",
+      "interests": "Media||Tech / Digital Ecosystem",
+      "work": "I specialize in the intricate realm of Data Analysis, particularly within Recommender Systems and Large Language Models. My work involves unraveling patterns in vast datasets to enhance recommendations and the capabilities of language models. Through rigorous research and innovation, I strive to harness the power of data and language to create smarter, more efficient systems for various applications. It's a thrilling journey of discovery and problem-solving that keeps me deeply engaged in the world of computer science.",
+      "website": "",
+      "linkedin": "",
+      "statement": "I think as a web designer, you play a vital role in promoting Cascadia Bioregion by creating online platforms that raise awareness, support local businesses, engage communities, and drive advocacy for a sustainable future.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/IMG_9598-55248e200d51e45be4898c55d090d771.jpeg"
       ],
       "type": "Person"
     }
