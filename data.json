@@ -305,6 +305,12 @@
       "from": "wpf6502da893ed480.01380029",
       "to": "place_city_britishcolumbia_abbotsford",
       "type": "Organization To Place"
+    },
+    {
+      "id": "-1054242162263092721",
+      "from": "wpf6503c7f5383c08.66633607",
+      "to": "place_city_britishcolumbia_abbotsford",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1105,6 +1111,27 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/Joe-Portrait-for-Web@2x-782ba36195d6216606b6689003c6000e.jpg"
       ],
       "type": "Organization"
+    },
+    {
+      "id": "wpf6503c7f5383c08.66633607",
+      "label": "Shawn Boles",
+      "email": "shawn.sustain@gmail.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Abbotsford",
+      "where": "",
+      "interests": "",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/S1c-9e41aa7d2461d45689dfc1f6bfb9e32c.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
