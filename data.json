@@ -431,6 +431,12 @@
       "from": "wpf651ce1eb81f686.18032261",
       "to": "place_city_washington_tacoma",
       "type": "Location"
+    },
+    {
+      "id": "-6070286486288366876",
+      "from": "wpf651cc8b783fda2.18181203",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1465,6 +1471,27 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/287460903_10107464872263125_5218909622823793597_n-26daa198bd9296cc83e23058d979596f.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf651cc8b783fda2.18181203",
+      "label": "Lansing Scott",
+      "email": "lanscot3@gmail.com",
+      "area": "Seattle",
+      "bio": "Learned about bioregionalism from Planet Drum & Gary Snyder while in college. Worked at RAIN magazine after college, which helped grow the Cascadia bioregional movement. Got involved in organizing Cascadia bioregional congresses after attending the first one in 1986 at Evergreen State College. Was lead organizer for the Bioregional Congress of Pacific Cascadia at Breitenbush in 1988, & the Mish Bioregional Gathering at Deception Pass in 1990. Been involved in various indy media projects since working at RAIN, including the Portland Alliance, Seattle Community Catalyst, the Seattle Independent Media Center, Eat the State!, & Catalytic Community. Was grateful to see the Cascadian bioregional resurgence in the 21st century, & connected with Brandon Letsinger several years ago to see how I could be of service. Helped launch Cascadia Spoke.",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Indigenous Sovereignties||Local / Organizing||Media",
+      "work": "Since 1990 I've worked as an independent contractor under the business name Catalytic Communications. Tagline: Affordable communications for a change. My work mostly serves progressive organizations, artists, &amp; small business owners in communicating their messages effectively &amp; affordably, in print and online.",
+      "website": "catalytic-communications.com",
+      "linkedin": "https://www.linkedin.com/in/lanscot/",
+      "statement": "Any viable future in Cascadia will need be bioregional, seems to me. We need to live rooted in place, and need to align all our institutions and cultural practices in harmony with the nature of our place.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/L-SpokeFall23-122678384b477bbcdfe4a8f6a8c94278.jpg"
       ],
       "type": "Person"
     }
