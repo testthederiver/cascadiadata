@@ -425,6 +425,12 @@
       "from": "wpf6516ed5d597147.64210760",
       "to": "place_city_washington_lynnwood",
       "type": "Location"
+    },
+    {
+      "id": "4008423177800656175",
+      "from": "wpf651ce1eb81f686.18032261",
+      "to": "place_city_washington_tacoma",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1440,6 +1446,27 @@
       "id": "place_city_washington_lynnwood",
       "label": "Lynnwood, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf651ce1eb81f686.18032261",
+      "label": "Natalie Bade",
+      "email": "testthederiver@gmail.com",
+      "area": "Vashon",
+      "bio": "I'm a fake account used for testing.",
+      "stateorprov": "Washington",
+      "city_wa": "Tacoma",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Indigenous Sovereignties||Tech / Digital Ecosystem",
+      "work": "",
+      "website": "https://github.com/testthederiver/",
+      "linkedin": "None",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/287460903_10107464872263125_5218909622823793597_n-26daa198bd9296cc83e23058d979596f.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
