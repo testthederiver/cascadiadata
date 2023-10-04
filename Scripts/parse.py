@@ -6,6 +6,7 @@ import json
 # %%
 data_path = "Data"
 file = "wpforms-305-Add-Yourself-to-the-Map-8211-Kumu-People-2023-10-03-19-02-40.xlsx"
+file = "wpforms-967-Add-Yourself-to-the-Map-8211-Kumu-People-8211-Multi-Step-2023-10-03-20-45-39.xlsx"
 # %%
 persons = pd.read_excel(os.path.join(data_path, file))
 persons["type"] = "Person"

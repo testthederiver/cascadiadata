@@ -311,6 +311,120 @@
       "from": "wpf6503c7f5383c08.66633607",
       "to": "place_city_britishcolumbia_abbotsford",
       "type": "Location"
+    },
+    {
+      "id": "Everett, Washington",
+      "from": "place_city_washington_everett",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-2252092093928441931",
+      "from": "wpf651c96223c5a77.46250924",
+      "to": "place_city_washington_everett",
+      "type": "Location"
+    },
+    {
+      "id": "Yakima, Washington",
+      "from": "place_city_washington_yakima",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "6903483532922829715",
+      "from": "wpf651c9129ebda58.86313469",
+      "to": "place_city_washington_yakima",
+      "type": "Location"
+    },
+    {
+      "id": "Parkland, Washington",
+      "from": "place_city_washington_parkland",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "2792048499795959140",
+      "from": "wpf651ba825364860.86475155",
+      "to": "place_city_washington_parkland",
+      "type": "Location"
+    },
+    {
+      "id": "Ashland, Oregon",
+      "from": "place_city_oregon_ashland",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "-7800649860901614260",
+      "from": "wpf651b920ba6b799.31627239",
+      "to": "place_city_oregon_ashland",
+      "type": "Location"
+    },
+    {
+      "id": "7064416557860216709",
+      "from": "wpf651b3dd8daaa28.84398289",
+      "to": "place_city_oregon_albany",
+      "type": "Location"
+    },
+    {
+      "id": "Sammamish, Washington",
+      "from": "place_city_washington_sammamish",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-429591754237749867",
+      "from": "wpf6518855e78c760.93578443",
+      "to": "place_city_washington_sammamish",
+      "type": "Location"
+    },
+    {
+      "id": "Bellingham, Washington",
+      "from": "place_city_washington_bellingham",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "5197356783091360700",
+      "from": "wpf651850cdce1176.08221816",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
+    },
+    {
+      "id": "Vancouver, Washington",
+      "from": "place_city_washington_vancouver",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-2549027306969630666",
+      "from": "wpf6518670d236454.47414612",
+      "to": "place_city_washington_vancouver",
+      "type": "Location"
+    },
+    {
+      "id": "9203271753986138773",
+      "from": "wpf651840da605189.69884588",
+      "to": "place_city_washington_olympia",
+      "type": "Location"
+    },
+    {
+      "id": "4236547935943350002",
+      "from": "wpf651762a5250fb0.08974704",
+      "to": "place_city_other_",
+      "type": "Location"
+    },
+    {
+      "id": "Lynnwood, Washington",
+      "from": "place_city_washington_lynnwood",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "3943525878284401070",
+      "from": "wpf6516ed5d597147.64210760",
+      "to": "place_city_washington_lynnwood",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1132,6 +1246,200 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/S1c-9e41aa7d2461d45689dfc1f6bfb9e32c.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "label": "Joy Shayne Laughter",
+      "email": "commonsdrive@gmail.com",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/ancient-chestnut-tree-df4a1a043e5651bc6c8fa02d7db2db0a.jpg",
+      "stateorprov": "Washington",
+      "city_wa": "Everett",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "work": "At heart I am a fiction writer, stepping into speculative or fantasy genres to live out choices that happen when doing the right thing looks totally wrong. I look for the discarded and rejected elements of a situation or society to find action pathways in fiction; the people everyone ignores, the tasks or objects that seem trivial hold the answers my characters seek. Be kind to ugly old women and listen to toads.\n\nIn non-fiction, in reporting and interviewing, find the kindest way in. Be a calm support to people speaking of troublesome topics.",
+      "statement": "I hope to find support for an alternative talk show that can be put out on broadcast radio as well as streaming and podcast, to increase the reach of bioregional topics in the Salish Sea area. It is possible, I feel, for community radio stations to be loosely networked with 5- to 15-minute modules of bioregional topics and voices.",
+      "id": "wpf651c96223c5a77.46250924",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_everett",
+      "label": "Everett, Washington",
+      "type": "Place"
+    },
+    {
+      "label": "Nina von Feldmann",
+      "email": "nina@urthaline.com",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/68134386254__3C1B9765-0206-485B-A5C8-2C177F27B2A1-31773e8b7cd689149455b645d98ff94d-scaled.jpeg",
+      "stateorprov": "Washington",
+      "city_wa": "Yakima",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "work": "",
+      "statement": "",
+      "id": "wpf651c9129ebda58.86313469",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_yakima",
+      "label": "Yakima, Washington",
+      "type": "Place"
+    },
+    {
+      "label": "Rich Jensen",
+      "email": "rich@richjensen.com",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/20230426_140253-926835f7a6c8b9e28c5b0824e8aa4d71-scaled.jpg",
+      "stateorprov": "Washington",
+      "city_wa": "Parkland",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "work": "Through critical listening and radical inclusion I have opened horizons, providing successful cultural development strategies for artists, brands and campaigns across diverse disciplines including music, publishing, social movements, product design and technology.",
+      "statement": "",
+      "id": "wpf651ba825364860.86475155",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_parkland",
+      "label": "Parkland, Washington",
+      "type": "Place"
+    },
+    {
+      "label": "Ingrid Edstrom",
+      "email": "ingabird@hotmail.com",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/1000000871-403ab2fc40fb1498c8049122fe25c0d4-scaled.jpg",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Ashland",
+      "city_BC": "",
+      "where": "",
+      "work": "",
+      "statement": "",
+      "id": "wpf651b920ba6b799.31627239",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_ashland",
+      "label": "Ashland, Oregon",
+      "type": "Place"
+    },
+    {
+      "label": "Nicole Cousino",
+      "email": "nicole@newledohub.org",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/NewledoWithLogo-ab3a8be77648d7b1a04962935c8e14cd.png",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Albany",
+      "city_BC": "",
+      "where": "",
+      "work": "We're creating a physical and social platform for regenerative practices that encourage an inclusive approach to building community, investigating the possible and engaging in continual learning for ourselves and others. We see our efforts as one node in a broader mobilization around regeneration, resiliency and thriving ecosystems.",
+      "statement": "I believe for true transformation to happen, many need to be part of the collective effort. And we strongly believe in the power of community and collaboration, whether that be local or distributed across physical and social geographies.",
+      "id": "wpf651b3dd8daaa28.84398289",
+      "type": "Person"
+    },
+    {
+      "label": "Keala Young",
+      "email": "younjust@gmail.com",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/Keala_WSR_2022_headshot-fae991173a9a4a48bad9ee1235748a8f.jpg",
+      "stateorprov": "Washington",
+      "city_wa": "Sammamish",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "work": "",
+      "statement": "",
+      "id": "wpf6518855e78c760.93578443",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_sammamish",
+      "label": "Sammamish, Washington",
+      "type": "Place"
+    },
+    {
+      "label": "Brian Kerkvliet",
+      "email": "info@inspirationfarm.com",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/IMG_6152-85c9827d122c8e80b0c1a64eb7ce4229.jpeg",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "work": "<p class=\"p1\">As a co-steward of Inspiration Farm for the past 20 + years, Brian has a wide breadth of practical knowledge on how to partner with natural systems to bring forth stability and abundance.</p>\n<p class=\"p1\">Being interested in gardening and appropriate technology since I was a kid, I have followed a path towards a regenerative lifestyle. Inspired by my grandpa Jerry who ran an integrated farm on<span class=\"Apple-converted-space\">\u00a0 </span>South Whidbey island. He was visited by Bill Mollison in the early 70's. After taking many short workshops on animals, grafting, gardening etc. my wife took a PDC with the Bullock brothers which I visited often. We held a PDC in 2009 here at Inspiration Farm featuring Robin Francis and Doug Bullock as instructors among others.</p>\n<p class=\"p1\">Inspiration Farm is an 13 acre homestead styled farm since 1994. Integrating Biodynamic and Permaculture practices in relation to annual & perennial food systems, animal husbandry, appropriate technology, land/water nutrient management. Currently we have 1.5 acres in annual production and 2 acres of fruit, nut and other perennials. We have chickens, milk cow, goats and raise turkeys and pigs most years. Our vision at Inspiration Farm is to co-create an environment to experiment and learn methods of creative and regenerative, resilient thriving.</p>\n<p class=\"p1\">Biodynamic farming is a type of organic farming that incorporates an understanding of natural dynamic forces not yet fully understood by science. By working creatively with these subtle energies, we are able to significantly enhance the health of our farm affecting the quality of the soil, nutrition and flavor of the food grown.</p>\n<p class=\"p1\">Throughout the year we have a variety of Events, Tours and Workshops. This year we are hosting several workshops on permaculture and sustainable practices. Contact us if you would like to be notified on workshops that we will be hosting or would like to bring a group for a experiential farm tour.</p>\n<p class=\"p1\">Are you interested in taking a Permaculture Design Certificate Course? We want to hear from you.<span class=\"Apple-converted-space\">\u00a0 </span>619 E Laurel rd.</p>\n<p class=\"p1\">Bellingham Wa 98226</p>\n<p class=\"p1\">360-319--2029</p>",
+      "statement": "",
+      "id": "wpf651850cdce1176.08221816",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_bellingham",
+      "label": "Bellingham, Washington",
+      "type": "Place"
+    },
+    {
+      "label": "Brennan Miller",
+      "email": "brennankmiller97@gmail.com",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/inbound1038427188675490371-166a9eb0239e60bf0c27c2d99299e286.jpg",
+      "stateorprov": "Washington",
+      "city_wa": "Vancouver",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "work": "",
+      "statement": "",
+      "id": "wpf6518670d236454.47414612",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_vancouver",
+      "label": "Vancouver, Washington",
+      "type": "Place"
+    },
+    {
+      "label": "Marcia Drake",
+      "email": "drakemj007@gmail.com",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/IMG_2218-94c5d2c43a667f600981cc606203d966-scaled.jpeg",
+      "stateorprov": "Washington",
+      "city_wa": "Olympia",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "work": "My passion is using data to solve real world problems and to save lives. I have an interest in networks, processes, emergency management and risk mitigation, economics, strategic planning and data-driven decision-making. I also have a love for nature based solutions having grown up playing in the wilderness of the Pacific Northwest.",
+      "statement": "I have a lot of skills to contribute to the cause",
+      "id": "wpf651840da605189.69884588",
+      "type": "Person"
+    },
+    {
+      "label": "Christina Bowen",
+      "email": "christina@knowledgeecologist.me",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/christina_bowen.thumbnail-524168d4ada77385c8d8316c3bd79088.jpg",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Columbia River Gorge",
+      "work": "",
+      "statement": "",
+      "id": "wpf651762a5250fb0.08974704",
+      "type": "Person"
+    },
+    {
+      "label": "Gabriel Lavalle",
+      "email": "gabbysgardening@gmail.com",
+      "Image": "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/09/75FBCB04-0844-471D-B8C3-BF912347AB17-7e4fe6f10969c92f207f89937916ca87-scaled.jpeg",
+      "stateorprov": "Washington",
+      "city_wa": "Lynnwood",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "work": "I currently work in horticulture for several private residences around the Puget sound area",
+      "statement": "Would prefer not write a novel. I care. I know what is happening. I want to do what I can.",
+      "id": "wpf6516ed5d597147.64210760",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_lynnwood",
+      "label": "Lynnwood, Washington",
+      "type": "Place"
     }
   ]
 }
