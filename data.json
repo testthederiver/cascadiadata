@@ -437,6 +437,12 @@
       "from": "wpf651cc8b783fda2.18181203",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "-4346617312506333809",
+      "from": "wpf651f06e26241c5.58208485",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1492,6 +1498,27 @@
       "statement": "Any viable future in Cascadia will need be bioregional, seems to me. We need to live rooted in place, and need to align all our institutions and cultural practices in harmony with the nature of our place.",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/L-SpokeFall23-122678384b477bbcdfe4a8f6a8c94278.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf651f06e26241c5.58208485",
+      "label": "Ben Moseley",
+      "email": "bengmoseley@gmail.com",
+      "area": "Eugene",
+      "bio": "20 Year background in internet consulting, marketing and development. Working towards building a sustainable livelihood in community with others. Currently, getting my permaculture design course certificate through OSU>",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Economy||Local / Organizing||Permaculture||Tech / Digital Ecosystem",
+      "work": "",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/moseleyb/",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/ben2021-1-462cce56c135f6f7be207e6e2a3be9ac.png"
       ],
       "type": "Person"
     }
