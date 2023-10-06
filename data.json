@@ -443,6 +443,12 @@
       "from": "wpf651f06e26241c5.58208485",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "5596257559448795023",
+      "from": "wpf65200c10b463d0.87577013",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1519,6 +1525,27 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/ben2021-1-462cce56c135f6f7be207e6e2a3be9ac.png"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65200c10b463d0.87577013",
+      "label": "Deborah A",
+      "email": "deborahatgvc@gmail.com",
+      "area": "Not in the Area",
+      "bio": "Having grown up on 3 different continents and observed the universal human trait of bias, I learned from experience to let go of the idea of 'normal'.\r\nA natural born Revolutionary, I struggled for decades to find my 'place'.\r\nNow, as a former minister and engineer turned holistic relationship and leadership mentor, I understand from the inside out the challenges sensitive leaders face trying to operate within societal norms - aka \u2018business as usual\u2019 practices - that ultimately are just plain unhealthy for humans. I believe that WE ALL - from CEOs to convicts - need and deserve a safe space!\r\n\r\nSome other 'labels' I go by: Advisor. Cocreative. The Peacemaker's Daughter. Igbo \"Daughter of My People\". Single Mother.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Phoenix, AZ",
+      "interests": "Economy||Fundraising||Local / Organizing",
+      "work": "I support sensitive leaders, through my holistic leadership development tools, to create environments of genuine psychological safety and trust, so they can be part of building the world we all want to see, while confidently navigating this period of global transition.",
+      "website": "globalvillagecampus.com",
+      "linkedin": "https://www.linkedin.com/in/therealdeboraha/",
+      "statement": "Without true shifts in consciousness/ awareness/ mindset/ meanings, we'll only use new technologies, even the",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/DA-Profile-3-22-bw-5a315a79e25557a6cb9af301223176f6.png"
       ],
       "type": "Person"
     }
