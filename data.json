@@ -449,6 +449,12 @@
       "from": "wpf65200c10b463d0.87577013",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-6071759259066018542",
+      "from": "wpf65255f22bd9464.87133502",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1546,6 +1552,27 @@
       "statement": "Without true shifts in consciousness/ awareness/ mindset/ meanings, we'll only use new technologies, even the",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/DA-Profile-3-22-bw-5a315a79e25557a6cb9af301223176f6.png"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65255f22bd9464.87133502",
+      "label": "Chuck Harrison",
+      "email": "cfharr@gmail.com",
+      "area": "Seattle",
+      "bio": "Retired design engineer, some software background, involved with SEEDS regenerative currency, blockchain dabbler.",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Economy||Tech / Digital Ecosystem",
+      "work": "Recently relevant work has been in local digital currency development, specifically the \"Rainbow token\" . ref. https://cc42.xyz/rainbo/manage.html\r\n\r\nA related project in the works is a local-currency swap contract https://docs.google.com/document/d/1ZglSqrfUC93UO6DqDn_0n4P2lc8a54-O8oEJgPq5lgc/edit\r\n\r\n&nbsp;",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/profilepic-0859c402be6d368d6201e684d6cdbfe4-scaled.jpg"
       ],
       "type": "Person"
     }
