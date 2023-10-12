@@ -455,6 +455,12 @@
       "from": "wpf65255f22bd9464.87133502",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "3553087988494392328",
+      "from": "wpf65276a6f66db02.44555698",
+      "to": "place_city_washington_everett",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1573,6 +1579,27 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/profilepic-0859c402be6d368d6201e684d6cdbfe4-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65276a6f66db02.44555698",
+      "label": "Deborah Koff Chapin",
+      "email": "deborah@touchdrawing.com",
+      "area": "Whidbey Island",
+      "bio": "I am an artist, sound healer and group facilitator. I teach the process of Touch Drawing and have published SoulCards 1&2, Portals of Presence, and books on creative process. I offer a weekly Song Bath Sanctuary.",
+      "stateorprov": "Washington",
+      "city_wa": "Everett",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Local / Organizing||Media",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "I sense the potency and potential of the Regeneration Movement and want to support its emergence. I bring a sensibility that that emphasizes the importance of activating more conscious relationship with the vast network of life beyond the human. We cannot find our way in isolation. I am a student of David Spangler and Associate of Lorian &lt;https://lorian.org/&gt;. The educational organization offers a contemporary ecological spirituality with practices to develop a whole relationship with the process of incarnation.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_4705-772d3c57b90467966f32e62f3ed402ab.jpeg"
       ],
       "type": "Person"
     }
