@@ -461,6 +461,18 @@
       "from": "wpf65276a6f66db02.44555698",
       "to": "place_city_washington_everett",
       "type": "Location"
+    },
+    {
+      "id": "Camas, Washington",
+      "from": "place_city_washington_camas",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "1874324947257538728",
+      "from": "wpf652902ca744a19.30620535",
+      "to": "place_city_washington_camas",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1602,6 +1614,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_4705-772d3c57b90467966f32e62f3ed402ab.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf652902ca744a19.30620535",
+      "label": "Kenneth Username Test Morales Test",
+      "email": "kenneth@markettt8.net",
+      "area": "Salish Sea",
+      "bio": "Write a short biography.",
+      "stateorprov": "Washington",
+      "city_wa": "Camas",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Indigenous Sovereignties||Permaculture",
+      "work": "",
+      "website": "Share your website address",
+      "linkedin": "and your Linkedin profile",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/donation-banner-plant-on-hand-35853ec09b697cdf8e87af923b88f9db-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_camas",
+      "label": "Camas, Washington",
+      "type": "Place"
     }
   ]
 }
