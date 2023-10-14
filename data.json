@@ -473,6 +473,18 @@
       "from": "wpf652902ca744a19.30620535",
       "to": "place_city_washington_camas",
       "type": "Location"
+    },
+    {
+      "id": "Mount Vernon, Washington",
+      "from": "place_city_washington_mountvernon",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "3521940344168959080",
+      "from": "wpf652b0841d5dfe5.08344852",
+      "to": "place_city_washington_mountvernon",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1639,6 +1651,32 @@
     {
       "id": "place_city_washington_camas",
       "label": "Camas, Washington",
+      "type": "Place"
+    },
+    {
+      "id": "wpf652b0841d5dfe5.08344852",
+      "label": "Larry Greene",
+      "email": "larry@navigatingourfuture.org",
+      "area": "Skagit",
+      "bio": "Founder and Director of Navigating Our Future (navigatingourfuture.org)\r\n Political Economic Systems Change Consultant and Social Impact Marketing Communications\r\nI am a whole community systems change consultant and Founder/Executive Director, Navigating Our Future,  a 501 (c) (3) organization. (navigatingourfuture.org).\r\n\r\nI work to develop specific elements of a new societal systemic design of our capitalistic, social and political systems to support values that our nation was built upon and move toward a society that realizes the dream of equality for all, strong, participatory democracy, liberty, social justice, regenerative community development and economics. \r\n\r\nI started as a marketing communications consultant who became interested in using my skills to effect social change.\r\n\r\nFollowing selling my business, Network Direct, Inc, after a successful 30+ year career in the call center services and direct marketing business, I retired to focus on cause-related work in education and building healthy, vital, sustainable communities and economies. \r\n\r\nMy skills include:\r\n- bringing people together around positive, hopeful, yet attainable visions and practical ways to implement them to attain a better future society;\r\n- expertise and experience in integrated, mass media direct response marketing to achieve socially responsible goals and objectives; \r\n- a passion about and understanding of subjects like systems change, sustainability, climate change, participatory democracy and education to create new forms for educating and engaging citizens.",
+      "stateorprov": "Washington",
+      "city_wa": "Mount Vernon",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Economy||Local / Organizing||Media",
+      "work": "",
+      "website": "www.navigatingourfuture.org",
+      "linkedin": "https://www.linkedin.com/in/larrygreene1/",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Larry-smiling-pix-d023c882cf32c749210ee02d7766b4bb-rotated.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_mountvernon",
+      "label": "Mount Vernon, Washington",
       "type": "Place"
     }
   ]
