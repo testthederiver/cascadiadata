@@ -491,6 +491,12 @@
       "from": "wpf652b0841d5dfe5.08344852",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "-5084826209782260844",
+      "from": "wpf652d436e075c45.98760268",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1703,6 +1709,27 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Hiking-in-adc912253d0e5c9a0148f4656289dde7-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf652d436e075c45.98760268",
+      "label": "David Witzel",
+      "email": "dwitzel@grc.earth",
+      "area": "Not in the Area",
+      "bio": "Supporting Regeneration Changemakers as an activator with the Global Regeneration CoLab.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "virginia",
+      "interests": "Media||Tech / Digital Ecosystem",
+      "work": "",
+      "website": "https://www.grc.earth/",
+      "linkedin": "https://www.linkedin.com/in/dwitzel/",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/DW-headshot2-SXSW-Day-2-130-4c7772b4ab3bbffebd0ff38d491ec516.jpg"
       ],
       "type": "Person"
     }
