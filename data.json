@@ -497,6 +497,18 @@
       "from": "wpf652d436e075c45.98760268",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "Duncan, British Columbia",
+      "from": "place_city_britishcolumbia_duncan",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "37652741371802505",
+      "from": "wpf652ea4d8977121.40843948",
+      "to": "place_city_britishcolumbia_duncan",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1732,6 +1744,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/DW-headshot2-SXSW-Day-2-130-4c7772b4ab3bbffebd0ff38d491ec516.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf652ea4d8977121.40843948",
+      "label": "Shawn Anderson",
+      "email": "shawn@longtailfinancial.com",
+      "area": "Victoria",
+      "bio": "Entrepreneurial Data Scientists, Yogi, Solarpunk designer. Working full time in web3 since 2018. MSc. Computing Science. Founder Longtail Financial. Currently with Kwaxala.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Duncan",
+      "where": "",
+      "interests": "Art||Economy||Fundraising||Indigenous Sovereignties||Local / Organizing||Media||Permaculture||Tech / Digital Ecosystem",
+      "work": "Design and modeling of tokenized ecosystems. ",
+      "website": "Longtailfinancial.com",
+      "linkedin": "https://www.linkedin.com/in/shawnwanderson",
+      "statement": "Decentralized, permissionless, financial sovereignty and community governance.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/FB_IMG_1697555763213-ce292dcf6ef02061cfe51d54a433e84b.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_duncan",
+      "label": "Duncan, British Columbia",
+      "type": "Place"
     }
   ]
 }
