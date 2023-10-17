@@ -509,6 +509,12 @@
       "from": "wpf652ea4d8977121.40843948",
       "to": "place_city_britishcolumbia_duncan",
       "type": "Location"
+    },
+    {
+      "id": "-431544240325579462",
+      "from": "wpf652ed00bbf61a4.02594156",
+      "to": "place_city_washington_bellingham",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -1770,6 +1776,25 @@
       "id": "place_city_britishcolumbia_duncan",
       "label": "Duncan, British Columbia",
       "type": "Place"
+    },
+    {
+      "label": "Sustainable Bellingham",
+      "id": "wpf652ed00bbf61a4.02594156",
+      "description": "Sustainable Bellingham is a group of individuals that aims to educate people and assist organizations that share a common concern for the health of our Bellingham and Whatcom County community.",
+      "org_type": "Community / Digital||501(c)3 Nonprofit||Organization",
+      "presenting": "No thanks",
+      "located_on_tour": "Bellingham",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "www.sustainablebellingham.org",
+      "importence": "<div class=\"boldgrid-section\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-md-6 col-sm-12 col-xs-12 col-lg-6\">\r\n<div>Community-building Events \u2013 We host regular events to enrich and enliven the community and increase networking among the many organizations and groups that contribute to the well-being of our community.</div>\r\n<div>Sustainable Bellingham\u2019s E-mail Announcement List is a vehicle for sharing information about news and community events related to sustainability.\u00a0 One reader calls it \u201cThe hub for information pertinent to conscious change.\u201d</div>\r\n<p class=\"\"><strong>Online Community:\u00a0</strong>\u00a0Our website has been created to be a central place for sustainability related resource sharing, a community calendar, an inventory of currently available human and natural resources, contact information and online forums, sustainability articles, and more.</p>\r\n\r\n<h4 class=\"\">Our Current Projects:</h4>\r\n<ul class=\"\">\r\n \t<li>Community\u00a0<a href=\"https://www.salishseed.org/seed-distribution-locations/\" target=\"_blank\" rel=\"noopener\">Seed swaps</a>\u00a0and distribution</li>\r\n \t<li><a href=\"http://www.salishseed.org/\" target=\"_blank\" rel=\"noopener\">Salish Seed Guild</a>\u00a0Garden</li>\r\n \t<li><a href=\"https://www.facebook.com/cascadiaskillshare\" target=\"_blank\" rel=\"noopener\">Cascadia Skill Share Fair</a></li>\r\n \t<li>Roving Garden Parties</li>\r\n \t<li>Yoga In The Parks</li>\r\n \t<li><a href=\"http://www.whatcompermaculture.com/\" target=\"_blank\" rel=\"noopener\">Whatcom Permaculture</a></li>\r\n \t<li><a href=\"http://transitionwhatcom.ning.com/\" target=\"_blank\" rel=\"noopener\">Transition Whatcom</a></li>\r\n</ul>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"boldgrid-section color4-background-color color4-text-default\">\r\n<div class=\"container\">\r\n<div class=\"row\">\r\n<div class=\"col-md-6 col-xs-12 col-sm-6 col-lg-6\">\r\n<p class=\"mod-reset\">Urban Gardening/Food Not Lawns \u2013 A Sub-Team actively engaged in urban garden and lawn to garden projects.</p>\r\n\r\n</div>\r\n<div class=\"col-md-6 col-sm-6 col-xs-12 col-lg-6\">\r\n<h4 class=\"color2-color\">Sustainable Bellingham is a Registered 501c3 Non- Profit</h4>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/SustainableBellinghamLogo.ai_-43ea9674c9d79b9030a74cd15ba36462.png"
+      ],
+      "type": "Organization"
     }
   ]
 }
