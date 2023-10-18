@@ -521,6 +521,18 @@
       "from": "wpf652f1d6e289836.81014054",
       "to": "place_city_washington_everett",
       "type": "Location"
+    },
+    {
+      "id": "Port Townsend, Washington",
+      "from": "place_city_washington_porttownsend",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "8620896831516130593",
+      "from": "wpf652f9d4e9278c3.27746729",
+      "to": "place_city_washington_porttownsend",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1822,6 +1834,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Kathy-Solber-high-Res-Head-Shot-85225559cdd4972011a7581f0cce72b2-scaled.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf652f9d4e9278c3.27746729",
+      "label": "Lisa Widner",
+      "email": "lisadesigns2001@yahoo.com",
+      "area": "Port Townsend",
+      "bio": "I am focused on promoting the best human practices in order to elevate our current mindset/reality.\r\nI enjoy boldly expressing myself in all the colors of the world, encourage others to do the same with their own palette, and especially enjoy working with kids and elders, engaging community in creative projects.",
+      "stateorprov": "Washington",
+      "city_wa": "Port Townsend",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Fundraising||Indigenous Sovereignties||Local / Organizing",
+      "work": "",
+      "website": "PTCommunityBENCHBUILDChallenge.com",
+      "linkedin": "",
+      "statement": "If my life experience can help build and support a healthy bioregion, then I will gladly lend my voice.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Scan-7f87c3fdec2076278dd348ed4204066c-scaled.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_porttownsend",
+      "label": "Port Townsend, Washington",
+      "type": "Place"
     }
   ]
 }
