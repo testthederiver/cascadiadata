@@ -533,6 +533,12 @@
       "from": "wpf652f9d4e9278c3.27746729",
       "to": "place_city_washington_porttownsend",
       "type": "Location"
+    },
+    {
+      "id": "-9141437534253805032",
+      "from": "wpf65300d3dda4d96.57575710",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1860,6 +1866,27 @@
       "id": "place_city_washington_porttownsend",
       "label": "Port Townsend, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf65300d3dda4d96.57575710",
+      "label": "Emma Waller",
+      "email": "emmajoydesignco@gmail.com",
+      "area": "Bellingham",
+      "bio": "I moved to Bellingham, WA from Tucson, AZ in September 2023. I have been educated in bioregional herbalism and received my permaculture design certification in the Sonoran Desert. I moved up here to be in a more abundant water environment and to be in closer relationship to the spectacular natural spaces of this area. I love to paint, draw, design, create... I have been doing this for as long as I can remember. My goal is to merge design and art with permaculture. I am also passionate about healing the body through the breath, movement, and artistic expression. My healing journey is directly reflective of my ability to contribute to healing the earth.",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Media||Permaculture",
+      "work": "I have a bachelor's degree in architecture from the University of Arizona, I did a 9-month bioregional herbalism apprenticeship with herbalist John Slattery, and received a permaculture design certification from the Sonoran Permaculture Guild. I now work as an illustrator, graphic designer, and website designer primarily in the science and technology sector. I love to translate complex topics into a visual format.",
+      "website": "emmajoydesign.com",
+      "linkedin": "https://www.linkedin.com/in/emmajoywaller/",
+      "statement": "Forging a deep relationship with the land beneath our feet is our only path towards species survival.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_1904-11aa44ca0c86e378d780ced7f5a2ea66-scaled.jpeg"
+      ],
+      "type": "Person"
     }
   ]
 }
