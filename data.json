@@ -515,6 +515,12 @@
       "from": "wpf652ed00bbf61a4.02594156",
       "to": "place_city_washington_bellingham",
       "type": "Organization To Place"
+    },
+    {
+      "id": "2645758815393783195",
+      "from": "wpf652f1d6e289836.81014054",
+      "to": "place_city_washington_everett",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1795,6 +1801,27 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/SustainableBellinghamLogo.ai_-43ea9674c9d79b9030a74cd15ba36462.png"
       ],
       "type": "Organization"
+    },
+    {
+      "id": "wpf652f1d6e289836.81014054",
+      "label": "Kathy Solberg",
+      "email": "kathys@commonunity-us.com",
+      "area": "Seattle",
+      "bio": "I bring people together for the greater good. I have run a leadership program, managed a foundation and worked in academics. I am currently devoted as a warrior for the human spirit and work to help others discover patterns with human systems dynamics. I am a weaver of community and a literal community weaver - helping others to see that they are part of something larger than themself.",
+      "stateorprov": "Washington",
+      "city_wa": "Everett",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Local / Organizing||Permaculture",
+      "work": "I convene, consult and facilitate. Community is my platform and i am beginning to bring weaving into my systems work to create a physical way of demonstrating our role in all of our life and work. I want my legacy to be seen in others realization of their own potential be it an individual, a business, an organization or a community",
+      "website": "www.commonunity-us.com",
+      "linkedin": "www.linkedin.com/in/kathy-solberg-98897730",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Kathy-Solber-high-Res-Head-Shot-85225559cdd4972011a7581f0cce72b2-scaled.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
