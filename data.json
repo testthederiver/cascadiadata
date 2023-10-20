@@ -539,6 +539,12 @@
       "from": "wpf65300d3dda4d96.57575710",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "6812304183720804810",
+      "from": "wpf6532d19cc89704.46424588",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1885,6 +1891,27 @@
       "statement": "Forging a deep relationship with the land beneath our feet is our only path towards species survival.",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_1904-11aa44ca0c86e378d780ced7f5a2ea66-scaled.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6532d19cc89704.46424588",
+      "label": "Tracey Abbott",
+      "email": "tracey@onpurposeleadership.co",
+      "area": "Victoria",
+      "bio": "Passionate about the intersection between systems change + collective leadership + consciousness.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Victoria",
+      "where": "",
+      "interests": "Indigenous Sovereignties||Local / Organizing",
+      "work": "My work is to support systems change leaders, teams, and movements to have greater impact. I do this through coaching and facilitation. ",
+      "website": "Www.onpurposeleadership.co",
+      "linkedin": "Www.linkedin.com/in/tracey-abbott",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_0374-16ff3c6c028b121faaabbaa7b866af23.jpeg"
       ],
       "type": "Person"
     }
