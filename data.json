@@ -545,6 +545,12 @@
       "from": "wpf6532d19cc89704.46424588",
       "to": "place_city_britishcolumbia_victoria",
       "type": "Location"
+    },
+    {
+      "id": "5369384985100312632",
+      "from": "wpf653449e8ba5e81.16940889",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1912,6 +1918,27 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_0374-16ff3c6c028b121faaabbaa7b866af23.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf653449e8ba5e81.16940889",
+      "label": "David MacLeod",
+      "email": "miles58@yahoo.com",
+      "area": "Bellingham",
+      "bio": "I live in Washington state and consider myself a social permaculturist (exploring \u201cinvisible structures\u201d), and am involved with the Transition Initiative movement as a co-initiator of Transition Whatcom.  Transition Training in 2008 from the original UK Trainers Sophy Banks and Naresh Giangrande, and Permaculture Design Certificate earned at Inspiration Farm (where I lived for about a year and a half), 2009.  I have a particular interest in what I call Integral Permaculture, as well as PatternDynamics (TM) (informed by both Integral theory and Permaculture) as a facilitator of the PatternDynamics workshop.\r\n\r\nI was excited to organize Joe Brewer's visit to Bellingham and Whatcom County in 2019, and am excited to to see the Bioregionalism Activation tour in 2023!",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Local / Organizing||Media||Permaculture",
+      "work": "",
+      "website": "https://integralpermaculture.wordpress.com/",
+      "linkedin": "https://www.linkedin.com/in/david-macleod-683b0a154/",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/option8-5d5270f20577e4c325cc269ec10b9d0b.png"
       ],
       "type": "Person"
     }
