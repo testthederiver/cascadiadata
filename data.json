@@ -575,6 +575,12 @@
       "from": "wpf653568f08699d0.45556542",
       "to": "place_city_britishcolumbia_burnaby",
       "type": "Location"
+    },
+    {
+      "id": "9110892787121315651",
+      "from": "wpf6536062ea09412.08668358",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2017,6 +2023,27 @@
       "id": "place_city_britishcolumbia_burnaby",
       "label": "Burnaby, British Columbia",
       "type": "Place"
+    },
+    {
+      "id": "wpf6536062ea09412.08668358",
+      "label": "Alan Stein Stein",
+      "email": "alan@stargateeugene.com",
+      "area": "Willamette Valley",
+      "bio": "I am the author & publisher of my book.\r\nHopi Prophecy Now: One Heart Awakening",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Indigenous Sovereignties||Media",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_2780-f301252240dc8d9bc5475d30000ff26d-scaled.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
