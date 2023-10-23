@@ -563,6 +563,18 @@
       "from": "wpf65358009706f50.00897266",
       "to": "place_city_washington_issaquah",
       "type": "Location"
+    },
+    {
+      "id": "Burnaby, British Columbia",
+      "from": "place_city_britishcolumbia_burnaby",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "-8422670258127349293",
+      "from": "wpf653568f08699d0.45556542",
+      "to": "place_city_britishcolumbia_burnaby",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -1978,6 +1990,32 @@
     {
       "id": "place_city_washington_issaquah",
       "label": "Issaquah, Washington",
+      "type": "Place"
+    },
+    {
+      "id": "wpf653568f08699d0.45556542",
+      "label": "Darlene Gering",
+      "email": "dgering@shaw.ca",
+      "area": "Vancouver",
+      "bio": "I am passionate about creating a regenerative new economy that empowers women and underrepresented populations. I love collaborating with kindred spirits to create new models for communities and the planet to thrive. Currently I'm on a journey to discover how my business and social impact background can best serve the future we are co-creating. My skills include scaling up organizations based on new models of operating. I'm keen to learn and collaborate with this community!",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Burnaby",
+      "where": "",
+      "interests": "Economy",
+      "work": "",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/darlene-gering-b47502b/",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/WP_20140117_001-0beaa892731db33bea6ca9b76f87d5b8.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_burnaby",
+      "label": "Burnaby, British Columbia",
       "type": "Place"
     }
   ]
