@@ -587,6 +587,12 @@
       "from": "wpf65381015eb4e99.69152523",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "3875559984946599014",
+      "from": "wpf65383beadcb4f5.11952000",
+      "to": "place_city_oregon_eugene",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -2071,6 +2077,25 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Mel-photos-large-7e06b58e0fcd9081a64e3b74a5bf2c1e.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "label": "ThePivot.Earth",
+      "id": "wpf65383beadcb4f5.11952000",
+      "description": "The Pivot.Earth (which I helped co-found) is all about creating community discovery and facilitation experiences which results in action plans to co-design living-soil food systems for regenerative impact that benefits all, no exceptions! \r\n\r\nWe model, and foster, deep-listening to help uncover individual and organizational values. We then approach core issues through those values revealing critical systems and culture changes the community identifies. Time after time, tapping into individual and group brilliance and stewarding what is uncovered is what glues communities together and drives enduring change. This is what identifies and address barriers and silos. This creates action plans that endure.\r\n\r\nThis is our superpower.",
+      "org_type": "Organization",
+      "presenting": "Yes! That'd be great.",
+      "located_on_tour": "Eugene",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_bc": "",
+      "where": "",
+      "website": "ThePivot.Earth",
+      "importence": "<p class=\"p1\">Thinking in a systems way and at the margins, outside of the box is what we do. Applying our 30+year tried and true pro-social process to this critical bioregional mapping and action planning would be a delight. Our design structure helps draw forward the people at the table, their values and the issues they collectively want to address, reminding and calling in their higher value set.<span class=\"Apple-converted-space\">\u00a0</span></p>\r\n<p class=\"p1\">This allows for a heart-centered full spectrum response to the changes we are generating. Emergence-process, curation and targeted follow through ensure greater impact and longevity for new initiatives and ones going through adaptive re-patterning. Even more refreshing, this approach addresses and <span class=\"s1\">celebrates</span> conflicts as committments to change.</p>\r\n<p class=\"p1\">By activating a systems-led full spectrum support of local food system producers, and their principled change makers, we can accelerate lasting community transformation by way of:</p>\r\n\r\n<ul class=\"ul1\">\r\n \t<li class=\"li1\">Systems thinking roadmaps</li>\r\n \t<li class=\"li1\">Facilitation and impact focus</li>\r\n \t<li class=\"li1\">Industry experts</li>\r\n \t<li class=\"li1\">Project management</li>\r\n \t<li class=\"li1\">Funding pathways</li>\r\n \t<li class=\"li1\">Impact driven media and storytelling components</li>\r\n</ul>",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_4049-9c71652c717541090753b5734d37339d-scaled.jpg"
+      ],
+      "type": "Organization"
     }
   ]
 }
