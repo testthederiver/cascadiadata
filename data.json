@@ -581,6 +581,12 @@
       "from": "wpf6536062ea09412.08668358",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "1260377483547587298",
+      "from": "wpf65381015eb4e99.69152523",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2042,6 +2048,27 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_2780-f301252240dc8d9bc5475d30000ff26d-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65381015eb4e99.69152523",
+      "label": "Melanie Carlone",
+      "email": "melanie@thepivot.earth",
+      "area": "Eugene",
+      "bio": "The alarming rise in chronic unexplained inflammation and autoimmune disease I have seen in 30+ years of clinical practice has made clear - we must restore the health of our soils if we are to regenerate human and community well-being. Bioregional, community-led, soil-first and regenerative food systems is a critical acupuncture point of transformation. It is key to a thriving  commons and our collective future.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Local / Organizing||Permaculture",
+      "work": "<p class=\"p1\">The Pivot.Earth (which I helped co-found) is all about creating community discovery and facilitation experiences which results in action plans to co-design living-soil food systems for regenerative impact that benefits all, no exceptions!<span class=\"Apple-converted-space\">\u00a0</span></p>\r\n<p class=\"p1\">We model, and foster, deep-listening to help uncover individual and organizational values. We then approach core issues through those values revealing critical systems and culture changes the community identifies. Time after time, tapping into individual and group brilliance and stewarding what is uncovered is what glues communities together and drives enduring change. This is what identifies and address barriers and silos. This creates action plans that endure.</p>\r\n<p class=\"p1\">This is our superpower.<span class=\"Apple-converted-space\">\u00a0</span></p>\r\n\r\n<pre></pre>",
+      "website": "ThePivot.Earth",
+      "linkedin": "https://www.linkedin.com/in/melaniecarlone/",
+      "statement": "<p class=\"p1\">The bioregional mapping and systems thinking is what we do. Our design structure is perfect to flesh out the people at the table, their values and the issues they would address always calling in their higher value set. This allows for a heart-centered full spectrum response to the changes we are generating. Emergence-process, curation and targeted follow through ensure greater impact and longevity for new initiatives and ones going through adaptive repatterining.</p>\r\n<p class=\"p1\">This approach addresses and celebrates conflicts as doorways to change.</p>\r\n<p class=\"p1\">By activating a systems-led full spectrum support of local food system producers, and their principled change makers, we can accelerate lasting community transformation by way of:</p>\r\n\r\n<ul class=\"ul1\">\r\n \t<li class=\"li1\">Systems thinking roadmaps</li>\r\n \t<li class=\"li1\">Facilitation and impact focus</li>\r\n \t<li class=\"li1\">Industry experts</li>\r\n \t<li class=\"li1\">Project management</li>\r\n \t<li class=\"li1\">Funding pathways</li>\r\n \t<li class=\"li1\">Impact driven media and storytelling components</li>\r\n</ul>",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Mel-photos-large-7e06b58e0fcd9081a64e3b74a5bf2c1e.jpg"
       ],
       "type": "Person"
     }
