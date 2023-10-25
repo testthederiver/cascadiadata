@@ -605,6 +605,12 @@
       "from": "wpf6539303e5dbd20.45797431",
       "to": "place_city_washington_anacortes",
       "type": "Location"
+    },
+    {
+      "id": "-6563291295752351980",
+      "from": "wpf6539515927c497.25836925",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2134,6 +2140,27 @@
       "id": "place_city_washington_anacortes",
       "label": "Anacortes, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf6539515927c497.25836925",
+      "label": "Sammy Davies",
+      "email": "sdeefay@gmail.com",
+      "area": "Victoria",
+      "bio": "Educator on a mission to reduce waste and enliven a climate conscious community. Some call me an enroller to composting too!\r\n\r\nTopics of interest:\r\n\u2022 Resource Recovery, Consumption Reduction, & Circular Economy\r\n\u2022 Soil Health, Food Systems & Regenerative Agriculture \r\n\u2022 Ocean Conservation & Blue Economy",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Victoria",
+      "where": "",
+      "interests": "Indigenous Sovereignties||Media||Permaculture||Tech / Digital Ecosystem",
+      "work": "As a Sustainability Programs Manager, understanding soil health and regeneration is at the center of what I do and is what drives me to educate and guide distribution networks on jump-starting commercial composting programs. I work for EcoSafe Zero Waste, a Canadian company that manufactures certified compostable bags with the mission to keep food out of landfills to reduce methane emissions and contribute to composting initiatives.\r\n\r\nAs a Social Media Lead, I work with Open Ocean Robotics to elevate their mission of using solar-powered autonomous boats for the purpose of sustainable ocean data collection.",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/sammy-davies/",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/SAM1274-61d346df79a67aefe0eaf36dc12e7d22-scaled.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
