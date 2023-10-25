@@ -593,6 +593,18 @@
       "from": "wpf65383beadcb4f5.11952000",
       "to": "place_city_oregon_eugene",
       "type": "Organization To Place"
+    },
+    {
+      "id": "Anacortes, Washington",
+      "from": "place_city_washington_anacortes",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "4567111754175988435",
+      "from": "wpf6539303e5dbd20.45797431",
+      "to": "place_city_washington_anacortes",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2096,6 +2108,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_4049-9c71652c717541090753b5734d37339d-scaled.jpg"
       ],
       "type": "Organization"
+    },
+    {
+      "id": "wpf6539303e5dbd20.45797431",
+      "label": "Hailey Lampe",
+      "email": "cruisingclimate@gmail.com",
+      "area": "Skagit",
+      "bio": "Hello! I am Hailey Lampe and I run Cruising Climate, a regenerative garden coaching and landscape design company in the Salish Sea bioregion.   Through 1:1 coaching, landscape re-designs, custom soil care routines, and garden planting schedules, I empower folks to achieve their backyard, garden, farm, and homestead goals, all while using regenerative methods.  Cultivating our soil lets us cultivate the community and the future that we want and is an action we can all take together!",
+      "stateorprov": "Washington",
+      "city_wa": "Anacortes",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Permaculture",
+      "work": "",
+      "website": "https://cruisingclimate.weebly.com/#/",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Latest-Logo-2-f4f68c5fbfdaf3f6c61ed1575d97cdc2.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_anacortes",
+      "label": "Anacortes, Washington",
+      "type": "Place"
     }
   ]
 }
