@@ -611,6 +611,18 @@
       "from": "wpf6539515927c497.25836925",
       "to": "place_city_britishcolumbia_victoria",
       "type": "Location"
+    },
+    {
+      "id": "Aberdeen, Washington",
+      "from": "place_city_washington_aberdeen",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-2891101583359221391",
+      "from": "wpf653966bd917745.27794728",
+      "to": "place_city_washington_aberdeen",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2161,6 +2173,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/SAM1274-61d346df79a67aefe0eaf36dc12e7d22-scaled.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf653966bd917745.27794728",
+      "label": "steve baker",
+      "email": "ptstevebaker@gmail.com",
+      "area": "Port Townsend",
+      "bio": "Steve is a passionate philosopher of life, who puts his energy into various types of arts; the culinary, landscape, foodscape, and building design kinds. He is a major community organizer and finds pleasure and purpose in helping to build and maintain healthy community relationships.",
+      "stateorprov": "Washington",
+      "city_wa": "Aberdeen",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Economy||Local / Organizing||Permaculture",
+      "work": "I run a 10 acre permaculture community, farm, and retreat center. We are passionate about forestry, perennial ag, superfoods, herbalism, smart building science, biohacking, and hosting guests.",
+      "website": "discoveryculture.net",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_7300-8e4e13a8c2fe5bce4497627551134045-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_aberdeen",
+      "label": "Aberdeen, Washington",
+      "type": "Place"
     }
   ]
 }
