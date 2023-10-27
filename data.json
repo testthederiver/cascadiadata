@@ -623,6 +623,12 @@
       "from": "wpf653966bd917745.27794728",
       "to": "place_city_washington_aberdeen",
       "type": "Location"
+    },
+    {
+      "id": "3924127287567813732",
+      "from": "wpf653bd7e242ee45.58669986",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2199,6 +2205,27 @@
       "id": "place_city_washington_aberdeen",
       "label": "Aberdeen, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf653bd7e242ee45.58669986",
+      "label": "Kamal Patel",
+      "email": "kamaldesigns@gmail.com",
+      "area": "Seattle",
+      "bio": "I'm a civic and service designer creating systems-based solutions to renewable energy transition, circular economy, and inclusive economic development. I use collaborative design techniques to create accessible and practical civic engagement tools. \r\n\r\nI help lead Circular PNW and NextCycle Washington and early stage for NextCycle Oregon",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Local / Organizing||Permaculture||Tech / Digital Ecosystem",
+      "work": "Systems based, participatory design.\r\n\r\n",
+      "website": "https://kamal.design/",
+      "linkedin": "https://www.linkedin.com/in/kamalrpatel/",
+      "statement": "I help map circular economies locally, I help lead a Hylo page for folks in the PNW.\u00a0 I also helped create the first Climate Assembly in American in Washington State.\r\n\r\n",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/KamalPatel_StickyPic_Sq-29a2fab5b03d2a19262c9415ee3fc15c.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
