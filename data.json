@@ -629,6 +629,12 @@
       "from": "wpf653bd7e242ee45.58669986",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "-5949122702768652041",
+      "from": "wpf653becd94ed825.34086522",
+      "to": "place_city_oregon_ashland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2224,6 +2230,27 @@
       "statement": "I help map circular economies locally, I help lead a Hylo page for folks in the PNW.\u00a0 I also helped create the first Climate Assembly in American in Washington State.\r\n\r\n",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/KamalPatel_StickyPic_Sq-29a2fab5b03d2a19262c9415ee3fc15c.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf653becd94ed825.34086522",
+      "label": "Kat Steele",
+      "email": "katsteelenow@gmail.com",
+      "area": "Eugene",
+      "bio": "Dedicated Permaculture trainer, Social Permaculture practitioner  and community organizer. Group facilitator &  integration coach.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Ashland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Permaculture",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/E9296331-9A54-4904-A69C-8A971ABB8B79-8abcb39a8d619e181dd792380f94bdba.jpeg"
       ],
       "type": "Person"
     }
