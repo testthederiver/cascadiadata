@@ -635,6 +635,18 @@
       "from": "wpf653becd94ed825.34086522",
       "to": "place_city_oregon_ashland",
       "type": "Location"
+    },
+    {
+      "id": "Powell River, British Columbia",
+      "from": "place_city_britishcolumbia_powellriver",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "-2435003683560016859",
+      "from": "wpf653d5ab1a93322.59019477",
+      "to": "place_city_britishcolumbia_powellriver",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2253,6 +2265,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/E9296331-9A54-4904-A69C-8A971ABB8B79-8abcb39a8d619e181dd792380f94bdba.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf653d5ab1a93322.59019477",
+      "label": "Marylou Hardy",
+      "email": "mljhardy@gmail.com",
+      "area": "Vancouver",
+      "bio": "Sunshine Coast based -work at the intersection of nature, tech, monetary reform, art and community. Interested beyond the visible.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Powell River",
+      "where": "",
+      "interests": "Art||Economy||Indigenous Sovereignties||Local / Organizing||Permaculture||Tech / Digital Ecosystem",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/030E61D5-E0C3-452E-AAE1-1E71883005D0-c234e7cd71a706d5e24cc3ca6cf99b01.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_powellriver",
+      "label": "Powell River, British Columbia",
+      "type": "Place"
     }
   ]
 }
