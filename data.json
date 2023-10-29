@@ -653,6 +653,18 @@
       "from": "wpf653dbad206a4a5.04842338",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "Snohomish, Washington",
+      "from": "place_city_washington_snohomish",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "1677613266350044786",
+      "from": "wpf653dbad206a4a5.04842338",
+      "to": "place_city_washington_snohomish",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2318,6 +2330,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_9365-c6c91c32e51946a91f6eba23c32e288b-scaled.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf653dbad206a4a5.04842338",
+      "label": "Jodi Meadows",
+      "email": "dreamseedcollective@gmail.com",
+      "area": "Seattle",
+      "bio": "Dreamseed is an arts collective and retreat center offering natural spaces to host healers, artists, yoga instructors, ceremony guides and teachers to share their gifts with eager participants. Dreamseed Arts Collective members also present their works at festivals and community dance events around the Cascadia region.",
+      "stateorprov": "Washington",
+      "city_wa": "Snohomish",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Fundraising||Local / Organizing||Permaculture",
+      "work": "Learn more about the history of Dreamseed, what the facility offers, and how you can get involved by watching this short video: https://youtu.be/hn05U6cmm7I?si=b-7jUrSt46nlIcN6\r\n\r\nfollow Dreamseed Collective on Facebook and instagram. The website will be live very soon! You may contact us at dreamseedcollective@gmail.com",
+      "website": "https://www.facebook.com/DreamseedCollective?mibextid=LQQJ4d",
+      "linkedin": "",
+      "statement": "<!--more-->",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/IMG_0784-1aab6a2a63742ec8a7596a8e1ea6eb52.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_snohomish",
+      "label": "Snohomish, Washington",
+      "type": "Place"
     }
   ]
 }
