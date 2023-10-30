@@ -665,6 +665,12 @@
       "from": "wpf653dbad206a4a5.04842338",
       "to": "place_city_washington_snohomish",
       "type": "Location"
+    },
+    {
+      "id": "-1369985535504124184",
+      "from": "wpf653ff0aa733676.51953103",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2356,6 +2362,27 @@
       "id": "place_city_washington_snohomish",
       "label": "Snohomish, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf653ff0aa733676.51953103",
+      "label": "Brad Smith",
+      "email": "bsmith.interplay@gmail.com",
+      "area": "Eugene",
+      "bio": "Chronologically in my life I have played overlapping roles as student, musician, spiritual aspirant, woodworker, sales and marketing representative, home improvement entrepreneur, husband, primary caregiver single father, caregiver for my own father, non-profit co-founder, and community organizer.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art||Economy||Local / Organizing||Permaculture",
+      "work": "I have studied the intentional communities and ecovillage movements for decades and founded or lived in a couple of them. I am currently leading the Resilient Communities Project in its formative stages. Our purpose is to create and enjoy practical prototypes of a convivial, equitable, and sustainable way of life. Our method is to develop small socially and economically cooperative communities that: \r\n \r\n\u2022\tlive in simple, affordable, low-impact dwellings in town or country \r\n\u2022\tregeneratively produce much or most of their own food and other basic needs\r\n\u2022\tnurture the healing and well-being of their members and the wider community\r\n\u2022\trejuvenate ecosystems while sequestering more carbon than they emit \r\n\r\nResilient Communities embody a systematic integrated approach to living \"the good life\" while establishing models for mitigating both the causes and effects of so many of our current crises. We have a strong support team and a number of landholders involved with from 14 to 120 acres. We are just starting to talk to prospective community members.",
+      "website": "",
+      "linkedin": "",
+      "statement": "Our Resilient Communities model represents one way to replace our detrimental impacts upon land in our bioregion and the rest of the world with regenerative ones. ",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Profile-pic-4b20985e2b9e067eedf3e64a4b73ad2b.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
