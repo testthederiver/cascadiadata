@@ -689,6 +689,12 @@
       "from": "wpf6540d240ba49e3.58218313",
       "to": "place_city_oregon_albany",
       "type": "Location"
+    },
+    {
+      "id": "-7412573762470560889",
+      "from": "wpf6540f6dd0aa638.01275302",
+      "to": "place_city_oregon_albany",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2433,6 +2439,25 @@
       "label": "Kenneth Morales",
       "email": "kenneth1@market8.net",
       "area": "Columbia River Gorge",
+      "bio": "Write a short biography.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Albany",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6540f6dd0aa638.01275302",
+      "label": "Kenneth Morales",
+      "email": "kenneth2@market8.net",
+      "area": "Bellingham",
       "bio": "Write a short biography.",
       "stateorprov": "Oregon",
       "city_wa": "",
