@@ -683,6 +683,12 @@
       "from": "wpf65406cfe0f5711.77380109",
       "to": "place_city_washington_sedro-woolley",
       "type": "Location"
+    },
+    {
+      "id": "2041053228333706831",
+      "from": "wpf6540d240ba49e3.58218313",
+      "to": "place_city_oregon_albany",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2421,6 +2427,25 @@
       "id": "place_city_washington_sedro-woolley",
       "label": "Sedro-Woolley, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf6540d240ba49e3.58218313",
+      "label": "Kenneth Morales",
+      "email": "kenneth1@market8.net",
+      "area": "Columbia River Gorge",
+      "bio": "Write a short biography.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Albany",
+      "city_BC": "",
+      "where": "",
+      "interests": "Art",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": "",
+      "type": "Person"
     }
   ]
 }
