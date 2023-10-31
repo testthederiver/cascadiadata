@@ -671,6 +671,18 @@
       "from": "wpf653ff0aa733676.51953103",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "Sedro-Woolley, Washington",
+      "from": "place_city_washington_sedro-woolley",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-3726153975522273326",
+      "from": "wpf65406cfe0f5711.77380109",
+      "to": "place_city_washington_sedro-woolley",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2383,6 +2395,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Profile-pic-4b20985e2b9e067eedf3e64a4b73ad2b.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf65406cfe0f5711.77380109",
+      "label": "Terri Wilde",
+      "email": "wildefoods@yahoo.com",
+      "area": "Skagit",
+      "bio": "Decades of work and study with plants and ecosystems. Community gardens, organic agriculture, permaculture, foraging, eating \"weeds\", landbased cooking, food preservation, herbal medicines, observation of natural cycles.",
+      "stateorprov": "Washington",
+      "city_wa": "Sedro-Woolley",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Local / Organizing||Permaculture",
+      "work": "Stewarding land in the Upper Skagit watershed with land wisdom and permaculture principles. Academy in gentle food growing, foraging, preserving, cooking, sharing. Herbal medicine. Mycophilia. Dancing with water. Growing toward land trust.",
+      "website": "www.vivaculture.org",
+      "linkedin": "",
+      "statement": "We are part of a grand unfolding of better ways to be a part of life. We need to relearn how to get sustenance and our needs in gentler, regenerative ways.\u00a0 We are part of a big movement of relearning, sharing, listening to grow towards this.\u00a0 I am interested in continuing to weave what I have gathered from my elders and from the land and plants, with others doing this work.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/10/Terri-photo-low-res-7d3a1ec2800ab408a426cb693c15abb9-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_sedro-woolley",
+      "label": "Sedro-Woolley, Washington",
+      "type": "Place"
     }
   ]
 }
