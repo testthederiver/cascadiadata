@@ -719,6 +719,12 @@
       "from": "wpf6542c6896f6cf9.21460590",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "438190137422298314",
+      "from": "wpf6542df3ea04942.85431819",
+      "to": "place_city_washington_anacortes",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2554,6 +2560,23 @@
       "where": "",
       "interests": "Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Permaculture, Regen Ag &amp; Food Systems",
       "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6542df3ea04942.85431819",
+      "label": "Andrew Tuttle",
+      "email": "andrew@edgeperma.com",
+      "area": "Skagit",
+      "bio": "A student of permaculture. Designer, educator, and developer of Edge Perma, a virtual permaculture learning platform. Designer at Redtail Edge Design.",
+      "stateorprov": "Washington",
+      "city_wa": "Anacortes",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Climate Activism||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Web 3, Digital Tools and Platforms",
+      "website": "https://www.edgeperma.com",
       "linkedin": "",
       "Image": "",
       "type": "Person"
