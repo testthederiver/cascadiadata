@@ -695,6 +695,12 @@
       "from": "wpf6540f6dd0aa638.01275302",
       "to": "place_city_oregon_albany",
       "type": "Location"
+    },
+    {
+      "id": "-2490926177258680893",
+      "from": "wpf65423453d71b84.82298524",
+      "to": "place_city_britishcolumbia_abbotsford",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2463,6 +2469,25 @@
       "city_wa": "",
       "city_or": "Albany",
       "city_BC": "",
+      "where": "",
+      "interests": "Art",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65423453d71b84.82298524",
+      "label": "Kenneth Morales",
+      "email": "kenneth3@market8.net",
+      "area": "Bellingham",
+      "bio": "Write a short biography.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Abbotsford",
       "where": "",
       "interests": "Art",
       "work": "",
