@@ -701,6 +701,18 @@
       "from": "wpf65423453d71b84.82298524",
       "to": "place_city_britishcolumbia_abbotsford",
       "type": "Location"
+    },
+    {
+      "id": "Centralia, Washington",
+      "from": "place_city_washington_centralia",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "7591373605121011249",
+      "from": "wpf6542a1628d8388.65938034",
+      "to": "place_city_washington_centralia",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2496,6 +2508,32 @@
       "statement": "",
       "Image": "",
       "type": "Person"
+    },
+    {
+      "id": "wpf6542a1628d8388.65938034",
+      "label": "Boone Bergsma",
+      "email": "boone@blockchainlaboratories.com",
+      "area": "Olympia",
+      "bio": "I have been in the Corporate Social Responsibility industry for 15 years, and has a passion for using business for good. As a technologist Boone started working on Proof of Concepts for high impact use cases of DLT and Tokenization in 2020. And in 2021 incorporated Blockchain Laboratories as a web3 venture studio to bring to market the next generation of dApps that have triple bottom line ROI.",
+      "stateorprov": "Washington",
+      "city_wa": "Centralia",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Economy||Fundraising||Permaculture||Tech / Digital Ecosystem",
+      "work": "",
+      "website": "https://blockchainlaboratories.com",
+      "linkedin": "https://www.linkedin.com/in/boonebergsma/",
+      "statement": "I was born and raised in PNW. And currently working to protect biodiversity, and create old growth forests for future generations.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/BooneBergsma-BlockchainLaboratories-4b5debdeccf33409c42e63eff595b378.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_centralia",
+      "label": "Centralia, Washington",
+      "type": "Place"
     }
   ]
 }
