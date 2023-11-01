@@ -713,6 +713,12 @@
       "from": "wpf6542a1628d8388.65938034",
       "to": "place_city_washington_centralia",
       "type": "Location"
+    },
+    {
+      "id": "-4294019079096005983",
+      "from": "wpf6542c6896f6cf9.21460590",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2534,6 +2540,23 @@
       "id": "place_city_washington_centralia",
       "label": "Centralia, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf6542c6896f6cf9.21460590",
+      "label": "Gema De Patricio",
+      "email": "gemadepatriciocasas@gmail.com",
+      "area": "Bellingham",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
     }
   ]
 }
