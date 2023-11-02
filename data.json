@@ -833,6 +833,12 @@
       "from": "wpf65442e93aee024.54603737",
       "to": "place_city_oregon_albany",
       "type": "Location"
+    },
+    {
+      "id": "3356532345611829233",
+      "from": "wpf6544309a5ee912.92931689",
+      "to": "place_city_washington_bellingham",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -2980,6 +2986,25 @@
       "linkedin": "https://www.linkedin.com/in/forest-resener/",
       "Image": "",
       "type": "Person"
+    },
+    {
+      "label": "Kulshan Carbon Trust",
+      "id": "wpf6544309a5ee912.92931689",
+      "description": "Our Mission: To conserve and sequester carbon through collaborative natural climate solutions in Northwest Washington.\r\n\r\nOur Vision:We envision people working together to drawdown carbon in ways that regenerate the land and build thrive ing communities.",
+      "org_type": "501(c)3 Nonprofit",
+      "presenting": "Maybe..!",
+      "located_on_tour": "Bellingham",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "www.kulshancarbontrust.org",
+      "importence": "Bellingham, WA, is home to the Kulshan Carbon Trust (KCT), founded in early 2021 as a new type of conservation trust and a vehicle for community engagement. Our mission is to conserve and sequester carbon through collaborative natural climate solutions in Northwest Washington. We promote adopting collaborative natural climate solutions (NCS) that reduce greenhouse gas (GHG) emissions, regenerate ecosystems, sequester carbon, and revitalize rural communities. As a positive response to climate change, we endeavor to grow and protect carbon reserves by systematically reducing carbon emissions attributable to agriculture and forestry. We selected these sectors because farms and forests are essential to our local economy and, overall, these land uses are responsible for one-quarter of GHG emissions. Rather than waiting for a top-down policy response, we are developing an adaptive, community-based, and incentive-driven approach to stimulate regenerative NCS. These down-to-earth actions harness life-giving physical and biochemical processes such as photosynthesis and soil microbial activity that cause ecosystems to thrive and grow carbon reserves. Ecological Forestry Agroforestry Biochar Regenerative Agriculture Blue Carbon KCT's role is to convene and facilitate stakeholder groups with complementary interests. We intend to organize at a meaningful scale the types of regenerative NCS projects that enable participants to earn a living and landscapes to thrive. We also want to help fund NCS projects by tapping traditional and regenerative financing. Our strategy involves propagating know-how, advancing a proper legal framework, and developing economic incentives for people interested in applying NCS to create a better future for themselves and their children. Considering threats related to climate change and the benefits of early action, KCT has identified the following nature-based solutions as appropriate for our service territory: We will work with diverse stakeholders to encourage land stewardship methods that stockpile carbon and promote vital ecosystem services. We focus on building resilience to help communities prepare for and respond to climate disruption. Our nonprofit aims to make forests and fields within our NW Washington service territory a living laboratory for regeneration.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Picture1-d46d4af099ad6dc4c00c6d5c4e54de93.png"
+      ],
+      "type": "Organization"
     }
   ]
 }
