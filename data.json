@@ -737,6 +737,12 @@
       "from": "wpf6542f8120420b2.02785897",
       "to": "place_city_washington_porttownsend",
       "type": "Location"
+    },
+    {
+      "id": "2238359324852038911",
+      "from": "wpf654399fb8093a6.84085169",
+      "to": "place_city_oregon_beaverton",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2622,6 +2628,23 @@
       "city_BC": "",
       "where": "",
       "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654399fb8093a6.84085169",
+      "label": "Nina Shapiro",
+      "email": "devaki1015@yahoo.com",
+      "area": "Portland",
+      "bio": "I am a white female, social worker by profession, activist, raised Jewish, currently identify as spiritual: meditation, yoga",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Beaverton",
+      "city_BC": "",
+      "where": "",
+      "interests": "Equity and Social Justice||Permaculture, Regen Ag &amp; Food Systems",
       "website": "",
       "linkedin": "",
       "Image": "",
