@@ -791,6 +791,18 @@
       "from": "wpf6543fe7e3548e2.07740813",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "Milwaukie, Oregon",
+      "from": "place_city_oregon_milwaukie",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "-1306628030891110592",
+      "from": "wpf6543bc5979a9c7.74450223",
+      "to": "place_city_oregon_milwaukie",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2835,6 +2847,30 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20230819_115912-84c8480674de6d4922b80bb54e53440b-rotated.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf6543bc5979a9c7.74450223",
+      "label": "Bodhi Hill",
+      "email": "nahla7@protonmail.ch",
+      "area": "Portland",
+      "bio": "I grew up in the suburban johnson creek watershed, with no deep sense of place. My adult life has been an exploration of what it means to be from here, how my relationships define my edges, and what my own gift to Cascadia could be. I am excited to realize new connections develop my sensitivity to the subtlety of our bioregion.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Milwaukie",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Climate Activism||Documentation, Cascadia Spoke + Bundle||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "instagram / @rootstodepths",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/72D91BB9-F7AC-4BAC-B0F6-374C201F1AF8-4a995a1452e5e5556401439d4b36b381.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_milwaukie",
+      "label": "Milwaukie, Oregon",
+      "type": "Place"
     }
   ]
 }
