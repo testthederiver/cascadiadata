@@ -761,6 +761,12 @@
       "from": "wpf6543eb8b964ba7.33843548",
       "to": "place_city_britishcolumbia_pender",
       "type": "Location"
+    },
+    {
+      "id": "-8702011598791193266",
+      "from": "wpf6543e67a267b56.99950892",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2710,6 +2716,25 @@
       "id": "place_city_britishcolumbia_pender",
       "label": "Pender, British Columbia",
       "type": "Place"
+    },
+    {
+      "id": "wpf6543e67a267b56.99950892",
+      "label": "Jeffree Mocniak",
+      "email": "jeffrey@melchemy.wine",
+      "area": "Columbia River Gorge",
+      "bio": "Doing community, expanding notions of what community entails, practicing permaculture and bioregionalism, co-learning a sense of place, establishing watershed governance, exploring the bioregion, seeking justice and reconciliation, being the change.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Wind River Watershed, Cascadia",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Celebration, Ceremony, Nature and Spirit||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "https://bee-folk.org/ www.melchemy.wine",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/willamette-lidar-4179f29887cbcfeea2c2124057573038.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
