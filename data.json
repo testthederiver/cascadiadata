@@ -779,6 +779,12 @@
       "from": "wpf6543e7c9e7cad9.80442221",
       "to": "place_city_britishcolumbia_vancouver",
       "type": "Location"
+    },
+    {
+      "id": "-203502213335417850",
+      "from": "wpf6543f0843b4b86.50346838",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2783,6 +2789,25 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/mgmHeadCrop-8010fee23d7f28f7be92fe4093349208.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6543f0843b4b86.50346838",
+      "label": "Lauren Minis",
+      "email": "lauren.minis@gmail.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Boise/NYC",
+      "interests": "Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "www.regenerationpollination.earth",
+      "linkedin": "https://www.linkedin.com/in/laurenminis/",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Screen-Shot-2021-02-22-at-3.29.36-PM-9296371f9c6d1f041f03f9d333536521.png"
       ],
       "type": "Person"
     }
