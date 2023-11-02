@@ -749,6 +749,18 @@
       "from": "wpf65439ea03d8758.04472593",
       "to": "place_city_washington_sedro-woolley",
       "type": "Location"
+    },
+    {
+      "id": "Pender, British Columbia",
+      "from": "place_city_britishcolumbia_pender",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "-3392485998512566078",
+      "from": "wpf6543eb8b964ba7.33843548",
+      "to": "place_city_britishcolumbia_pender",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2676,6 +2688,28 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/view-from-3rd-7c0084bef952a4e3afbe9f9a3f60f6a4-scaled.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf6543eb8b964ba7.33843548",
+      "label": "Ben Kadel",
+      "email": "ben@emotusoperandi.com",
+      "area": "Salish Sea",
+      "bio": "",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Pender",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Emergency Response and Mutual Aid||Equity and Social Justice||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_pender",
+      "label": "Pender, British Columbia",
+      "type": "Place"
     }
   ]
 }
