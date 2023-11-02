@@ -839,6 +839,12 @@
       "from": "wpf6544309a5ee912.92931689",
       "to": "place_city_washington_bellingham",
       "type": "Organization To Place"
+    },
+    {
+      "id": "-7926159717444927759",
+      "from": "wpf654432bb372260.47781890",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3005,6 +3011,27 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Picture1-d46d4af099ad6dc4c00c6d5c4e54de93.png"
       ],
       "type": "Organization"
+    },
+    {
+      "id": "wpf654432bb372260.47781890",
+      "label": "Philip Beer",
+      "email": "philip@advantagesofmediation.ca",
+      "area": "Victoria",
+      "bio": "I'm working as a mediator and counseling-specialist, focused on conflict resolution in businesses, families and communities. \r\n\r\nMy book 'Learning to Love' is a practical guide to unconditional acceptance and loving, and is just one of the 'tools' that I've developed for understanding and modifying individual and collective human behavior.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Victoria",
+      "where": "",
+      "interests": "Climate Activism",
+      "work": "",
+      "website": "www.advantagesofmediation.ca",
+      "linkedin": "www.linkedin.com/in/philip-be-er-6b32a4299",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/MRP3726resized-35d5a3197ccde9145402f6e4fbd24ea0.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
