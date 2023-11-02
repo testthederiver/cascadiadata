@@ -785,6 +785,12 @@
       "from": "wpf6543f0843b4b86.50346838",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "5425670504986987366",
+      "from": "wpf6543fe7e3548e2.07740813",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2808,6 +2814,25 @@
       "linkedin": "https://www.linkedin.com/in/laurenminis/",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Screen-Shot-2021-02-22-at-3.29.36-PM-9296371f9c6d1f041f03f9d333536521.png"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6543fe7e3548e2.07740813",
+      "label": "Danny Breiwick",
+      "email": "dannyjbre@gmail.com",
+      "area": "Bellingham",
+      "bio": "I just moved to place I am designing for just outside of Bellingham Washington. I am looking for inspiration and connection in growing this project- to provide for the family, repair the earth, grow community, and provide an example of permaculture in action.",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||First Nation Landback, Partnership and Sovereignty||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20230819_115912-84c8480674de6d4922b80bb54e53440b-rotated.jpg"
       ],
       "type": "Person"
     }
