@@ -731,6 +731,12 @@
       "from": "wpf6542fde6a14a77.57207387",
       "to": "place_city_washington_aberdeen",
       "type": "Location"
+    },
+    {
+      "id": "4964693436986267245",
+      "from": "wpf6542f8120420b2.02785897",
+      "to": "place_city_washington_porttownsend",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2599,6 +2605,23 @@
       "city_BC": "",
       "where": "",
       "interests": "",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6542f8120420b2.02785897",
+      "label": "Heather Moore",
+      "email": "withfireandflow@pm.me",
+      "area": "Port Townsend",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Port Townsend",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
       "website": "",
       "linkedin": "",
       "Image": "",
