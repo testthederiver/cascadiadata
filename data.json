@@ -773,6 +773,12 @@
       "from": "wpf6543eb8b964ba7.33843548",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "-2620382353523124273",
+      "from": "wpf6543e7c9e7cad9.80442221",
+      "to": "place_city_britishcolumbia_vancouver",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2757,6 +2763,27 @@
       "website": "",
       "linkedin": "shansen5",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6543e7c9e7cad9.80442221",
+      "label": "Megan in Vancouver",
+      "email": "moser.megan@gmail.com",
+      "area": "Vancouver",
+      "bio": "Having long exercised intentional community and chosen family, and now with grown children, I think anew about how daily life can better match my values and how to explore this across generations. My work-for-pay focus started in AI and linguistics then migrated to sustainable economic development, which led me to green building in Pittsburgh, and to salmon and watershed restoration in BC. Did some work in healthcare, some training in ecological restoration. Now, rather than participate in work-for-pay, I pursue my interests in permaculture, soil restoration, earth-based spirituality, and bioregionalizing. The places I have called home: now Vancouver BC and before that Pittsburgh, Philadelphia, Boston, Providence, Hagerstown MD and St Louis. Plus I have touched some other good places by traveling.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Vancouver",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Permaculture, Regen Ag &amp; Food Systems",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/mgmHeadCrop-8010fee23d7f28f7be92fe4093349208.jpg"
+      ],
       "type": "Person"
     }
   ]
