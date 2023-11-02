@@ -767,6 +767,12 @@
       "from": "wpf6543e67a267b56.99950892",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-887740233075864505",
+      "from": "wpf6543eb8b964ba7.33843548",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2734,6 +2740,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/willamette-lidar-4179f29887cbcfeea2c2124057573038.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6543eb8b964ba7.33843548",
+      "label": "Steve Hansen Hansen",
+      "email": "steven.e.hansen@gmail.com",
+      "area": "Bellingham",
+      "bio": "I am a retired software developer, living in a cohousing community in Bellingham. I am an avid practitioner of Buddhist meditation and philosophy,",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Mapping||Forest Restoration||Web 3, Digital Tools and Platforms",
+      "website": "",
+      "linkedin": "shansen5",
+      "Image": "",
       "type": "Person"
     }
   ]
