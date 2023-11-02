@@ -803,6 +803,12 @@
       "from": "wpf6543bc5979a9c7.74450223",
       "to": "place_city_oregon_milwaukie",
       "type": "Location"
+    },
+    {
+      "id": "-4278244401017934462",
+      "from": "wpf6543fbea5718a7.16580969",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2871,6 +2877,27 @@
       "id": "place_city_oregon_milwaukie",
       "label": "Milwaukie, Oregon",
       "type": "Place"
+    },
+    {
+      "id": "wpf6543fbea5718a7.16580969",
+      "label": "Clare Strawn Strawn",
+      "email": "clarestrawn@gmail.com",
+      "area": "Eugene",
+      "bio": "I currently work with the PROUT Institute and with my neighborhood association hoping to  instill a =n understanding of holistic systems  change in community activities.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Regenerative Finance &amp; Fundraising",
+      "work": "a lot of zoom meetings.",
+      "website": "www.proutinstitute.org",
+      "linkedin": "current profile is too old",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/FB-Profile-image-6de06d530452b58d3fe7fda6eda915c8.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
