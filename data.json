@@ -809,6 +809,18 @@
       "from": "wpf6543fbea5718a7.16580969",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "Lynden, Washington",
+      "from": "place_city_washington_lynden",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-4716036038318282636",
+      "from": "wpf65440eccd49481.46704700",
+      "to": "place_city_washington_lynden",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2898,6 +2910,28 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/FB-Profile-image-6de06d530452b58d3fe7fda6eda915c8.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf65440eccd49481.46704700",
+      "label": "Simon Vlas",
+      "email": "simonvlas1@gmail.com",
+      "area": "Bellingham",
+      "bio": "I grew up on a farm in Lynden, Washington. Attended WSU to study Agriculture Technology and am now I am the Vice President of Planet One Solutions. I am starting a Food Forest / Permaculture Design and Install Company and am looking to partner with and learn from entrepreneurs and enthusiasts.",
+      "stateorprov": "Washington",
+      "city_wa": "Lynden",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Media||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "https://planetonesolutions.org/",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_lynden",
+      "label": "Lynden, Washington",
+      "type": "Place"
     }
   ]
 }
