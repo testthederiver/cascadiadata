@@ -821,6 +821,12 @@
       "from": "wpf65440eccd49481.46704700",
       "to": "place_city_washington_lynden",
       "type": "Location"
+    },
+    {
+      "id": "-7808245293412436951",
+      "from": "wpf65442b25bb6912.15700895",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2932,6 +2938,25 @@
       "id": "place_city_washington_lynden",
       "label": "Lynden, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf65442b25bb6912.15700895",
+      "label": "Howard Sharfstein",
+      "email": "howard@kulshancarbontrust.org",
+      "area": "Bellingham",
+      "bio": "Howard Sharfstein is a co-founder and serves as President of the Kulshan Carbon Trust. He is a retired environmental attorney, having worked as legal counsel to Kimberly-Clark\u2019s environmental, energy, safety, and sustainability teams for nearly 25 years. He is also a former corporate sustainability leader. In fact, Howard was a charter member of the Atlanta Sustainability Leadership Forum. \r\n\r\nAfter his retirement in 2017, Howard taught Environmental Law and Energy Policy at Western Washington University and is a climate resilience and restoration advisor in his hometown of Bellingham, WA.",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Forest Restoration||Governance||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "www.kulshancarbontrust.org",
+      "linkedin": "https://www.linkedin.com/in/howard-sharfstein-1a861211/",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_1837-08b592272715f1a1eb8bbba84b08923b-scaled.jpeg"
+      ],
+      "type": "Person"
     }
   ]
 }
