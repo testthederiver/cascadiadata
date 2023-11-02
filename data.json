@@ -827,6 +827,12 @@
       "from": "wpf65442b25bb6912.15700895",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "8157187184502237763",
+      "from": "wpf65442e93aee024.54603737",
+      "to": "place_city_oregon_albany",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2956,6 +2962,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_1837-08b592272715f1a1eb8bbba84b08923b-scaled.jpeg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65442e93aee024.54603737",
+      "label": "Forest Resener",
+      "email": "forestresener@gmail.com",
+      "area": "Eugene",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Albany",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/forest-resener/",
+      "Image": "",
       "type": "Person"
     }
   ]
