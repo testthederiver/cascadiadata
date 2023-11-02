@@ -743,6 +743,12 @@
       "from": "wpf654399fb8093a6.84085169",
       "to": "place_city_oregon_beaverton",
       "type": "Location"
+    },
+    {
+      "id": "670798001078608116",
+      "from": "wpf65439ea03d8758.04472593",
+      "to": "place_city_washington_sedro-woolley",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -2648,6 +2654,27 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65439ea03d8758.04472593",
+      "label": "Larry Iaccino",
+      "email": "lliaccino@comcast.net",
+      "area": "Skagit",
+      "bio": "I worked in the Houston area for a major corporation for 34 years leading R&D programs but retired at the end of 2021.\u00a0 My partner and I relocated to this area to be able to do more outdoor activities and live a healthier, more sustainable lifestyle.\u00a0 We purchased a 34-acre property that had originally been a dairy farm (homesteaded in 1878).\u00a0 The property had been severely abused by the previous owner for the past 40 years.\u00a0 We are working to regenerate the property for both agricultural use and natural habitats.\u00a0 In our first two years, most of our effort has been:\r\n\r\n   + removing trash and invasive species;\r\n   + beginning to improve soil quality with organic material (ag and forestry waste), cover crops and biochar;\r\n   + beginning to plant fruit trees, berries, grapes, native plants and seasonal gardens.\r\n\r\nBeing new to the PNW, we are on a steep learning curve: climate, flora, fauna, etc.",
+      "stateorprov": "Washington",
+      "city_wa": "Sedro-Woolley",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Bioregional Mapping||Climate Activism||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Transportation||Water Stewardship",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/view-from-3rd-7c0084bef952a4e3afbe9f9a3f60f6a4-scaled.jpeg"
+      ],
       "type": "Person"
     }
   ]
