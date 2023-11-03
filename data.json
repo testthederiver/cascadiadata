@@ -1085,6 +1085,12 @@
       "from": "wpf65457a2bc66b71.97007451",
       "to": "place_city_washington_olympia",
       "type": "Location"
+    },
+    {
+      "id": "4488158284673323133",
+      "from": "wpf65458089d61497.25646197",
+      "to": "place_city_washington_mountvernon",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3957,6 +3963,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_3570-ebd65a60414c04e00ff0072baac013e6-scaled.jpeg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65458089d61497.25646197",
+      "label": "jay bowen",
+      "email": "jaybowen.art@gmail.com",
+      "area": "Skagit",
+      "bio": "i am a full time artist, scultper, writing , jewelry, painter, and public speaker on environmental issues and and cross cultural commincations.",
+      "stateorprov": "Washington",
+      "city_wa": "Mount Vernon",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Equity and Social Justice||Water Stewardship",
+      "website": "jaybowen-art@gmail.com",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
