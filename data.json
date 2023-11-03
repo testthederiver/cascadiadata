@@ -959,6 +959,12 @@
       "from": "wpf654514ff883491.82778569",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "-6128769427934748906",
+      "from": "wpf65451883e81727.15795908",
+      "to": "place_city_britishcolumbia_nelson",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3458,6 +3464,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Africadian-Logo-11-fe0c8835d5f14523b748f1f32e3866f6.png"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65451883e81727.15795908",
+      "label": "Margaret Steele",
+      "email": "mjsteele67@icloud.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Nelson",
+      "where": "",
+      "interests": "",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
