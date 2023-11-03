@@ -893,6 +893,18 @@
       "from": "wpf654465d8d4af45.38177652",
       "to": "place_city_washington_mountvernon",
       "type": "Location"
+    },
+    {
+      "id": "Springfield, Oregon",
+      "from": "place_city_oregon_springfield",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "-6773157470027903812",
+      "from": "wpf65447a50693090.77310089",
+      "to": "place_city_oregon_springfield",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3208,6 +3220,28 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_0720-c07a5db70ccc10533274ec75b484595a.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf65447a50693090.77310089",
+      "label": "Thomas Arnold",
+      "email": "trainsong@tuta.io",
+      "area": "Not in the Area",
+      "bio": "I don't have a lot of time and have some health challenges, but this work makes sense to me and want to spend time with it in whatever way. I find that reading about regenerative work informs my internal healing and discovery process.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Springfield",
+      "city_BC": "",
+      "where": "",
+      "interests": "",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_springfield",
+      "label": "Springfield, Oregon",
+      "type": "Place"
     }
   ]
 }
