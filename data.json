@@ -1079,6 +1079,12 @@
       "from": "wpf65457a64eeb493.10612177",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "-9155919342649776029",
+      "from": "wpf65457a2bc66b71.97007451",
+      "to": "place_city_washington_olympia",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3932,6 +3938,25 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65457a2bc66b71.97007451",
+      "label": "Drisana Malaambo",
+      "email": "drisanamalaambo@yahoo.com",
+      "area": "Olympia",
+      "bio": "My connection with the world is deep and individual. I strive to learn and teach and constantly seek out the latest and greatest.  I bring an open and inquisitive mind while remaining a calm and grounding force. I intuitively determine what works effectively and what will not. Straightforward in my communication, my nature tends to get to the point. I establish direct contacts and lay foundations for future cooperation. At the same time I immerse myself in research and know how to break out of general conversation. I seek impressions and new people.",
+      "stateorprov": "Washington",
+      "city_wa": "Olympia",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Climate Activism||Equity and Social Justice||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "https://www.facebook.com/drisana.malaambo",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_3570-ebd65a60414c04e00ff0072baac013e6-scaled.jpeg"
+      ],
       "type": "Person"
     }
   ]
