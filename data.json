@@ -923,6 +923,12 @@
       "from": "wpf65447b87e9d139.28775556",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "-4368380598094813270",
+      "from": "wpf6544a87b041cf6.78778819",
+      "to": "place_city_britishcolumbia_abbotsford",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3312,6 +3318,25 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6544a87b041cf6.78778819",
+      "label": "Pamela Pascual",
+      "email": "ppascual26@gmail.com",
+      "area": "Not in the Area",
+      "bio": "Pamela Pascual is an emergent strategist and designer working in the intersection of Web3 and biodesigned experiments.\r\n\r\nShe is the founder of Amber Initiative, a non-profit that uses Web3 tools to re-imagine how we create and exchange value for cooperative communities and living systems. These community-led projects range from village rebuilds, architectural ecologies and floating citizen science labs.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Abbotsford",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Regenerative Finance &amp; Fundraising||Web 3, Digital Tools and Platforms",
+      "website": "https://amberinitiative.com/",
+      "linkedin": "https://www.linkedin.com/in/pamela-pascual/",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Pamelapascual-2ce9ecf980086e56bce71368cc09edd7.jpg"
+      ],
       "type": "Person"
     }
   ]
