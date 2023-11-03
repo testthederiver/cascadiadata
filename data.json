@@ -965,6 +965,12 @@
       "from": "wpf65451883e81727.15795908",
       "to": "place_city_britishcolumbia_nelson",
       "type": "Location"
+    },
+    {
+      "id": "-8048966796433142625",
+      "from": "wpf654529aace7771.81874836",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3481,6 +3487,25 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654529aace7771.81874836",
+      "label": "Megan Nowak",
+      "email": "mnowak@cuningham.com",
+      "area": "Bellingham",
+      "bio": "I am an architectural designer looking to further connect with the ecosystem I am a part of. This connection could be through physical labor, design efforts, or other miscellaneous collaborations.",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/megan-nowak-a20561b9/",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/linked-0fb0f82994d9e5c3d9be8aec67108cc7.jpg"
+      ],
       "type": "Person"
     }
   ]
