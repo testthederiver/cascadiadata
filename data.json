@@ -869,6 +869,12 @@
       "from": "wpf65445882b2a783.90897823",
       "to": "place_city_washington_bremerton",
       "type": "Location"
+    },
+    {
+      "id": "-4742659125237813154",
+      "from": "wpf6544524772fd38.68145625",
+      "to": "place_city_britishcolumbia_duncan",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3112,6 +3118,25 @@
       "id": "place_city_washington_bremerton",
       "label": "Bremerton, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf6544524772fd38.68145625",
+      "label": "Sally Adnams Jones",
+      "email": "sally@sallyadnamsjones.com",
+      "area": "Victoria",
+      "bio": "podcaster, educator, therapist, eco-lover, artist, writer,",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Duncan",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Being a part of a Watershed Team||Celebration, Ceremony, Nature and Spirit",
+      "website": "sallyadnamsjones.com radicalemergence.org",
+      "linkedin": "sally adnams jones",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/323060856_1321926075249106_1370544953903449351_n-b648be68c4e40da1f991b204e4f56e89.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
