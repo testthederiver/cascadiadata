@@ -947,6 +947,12 @@
       "from": "wpf6544fdcf9dd109.73557174",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "-6336723204881612155",
+      "from": "wpf6545008fd15630.94640829",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3405,6 +3411,23 @@
       "city_BC": "",
       "where": "",
       "interests": "",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545008fd15630.94640829",
+      "label": "Gary Miciunas",
+      "email": "gmiciunas@cuningham.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Colorado",
+      "interests": "Bioregional Mapping||Climate Activism||Equity and Social Justice||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising",
       "website": "",
       "linkedin": "",
       "Image": "",
