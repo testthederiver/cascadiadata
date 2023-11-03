@@ -1013,6 +1013,12 @@
       "from": "wpf654558b376cf13.43833067",
       "to": "place_city_oregon_portland",
       "type": "Location"
+    },
+    {
+      "id": "-3162084309174684648",
+      "from": "wpf654558b376cf13.43833067",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3664,6 +3670,25 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/image-ef44a46a03d5a1a27e18b09c84e0acf4-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654558b376cf13.43833067",
+      "label": "Kaleb Hoeffgen",
+      "email": "hoeffgen.pt@gmail.com",
+      "area": "Not in the Area",
+      "bio": "Hello! I am a bioregionalist dedicated to the transformation of our institutions toward  sustainable and equitable Bioregional nationhood.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "NV-Reno",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Climate Activism||Documentation, Cascadia Spoke + Bundle||Emergency Response and Mutual Aid||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Helping with the Website||Water Stewardship",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/kaleb-h-1a58a01b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_1034-1c2bfa1b52dfe19375747391e862d8d3-scaled.jpeg"
       ],
       "type": "Person"
     }
