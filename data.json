@@ -887,6 +887,12 @@
       "from": "wpf654474904500b2.66813502",
       "to": "place_city_washington_tacoma",
       "type": "Location"
+    },
+    {
+      "id": "2599829672961004174",
+      "from": "wpf654465d8d4af45.38177652",
+      "to": "place_city_washington_mountvernon",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3182,6 +3188,25 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654465d8d4af45.38177652",
+      "label": "Phoebe Barnard",
+      "email": "phoebe.barnard@stableplanetalliance.org",
+      "area": "Skagit",
+      "bio": "Global change scientist, filmmaker, policymaker, environmental and societal futurist.  \r\n\r\nSpecifics: biodiversity, climate, land use change, population, community and evolutionary behavioral ecology, ornithology",
+      "stateorprov": "Washington",
+      "city_wa": "Mount Vernon",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Celebration, Ceremony, Nature and Spirit||Climate Activism||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "www.PhoebeBarnard.com",
+      "linkedin": "https://www.linkedin.com/in/phoebe-barnard",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_0720-c07a5db70ccc10533274ec75b484595a.jpeg"
+      ],
       "type": "Person"
     }
   ]
