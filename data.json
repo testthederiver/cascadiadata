@@ -1097,6 +1097,12 @@
       "from": "wpf654585072f5683.77684040",
       "to": "place_city_washington_olympia",
       "type": "Location"
+    },
+    {
+      "id": "-1567298020647199028",
+      "from": "wpf654585b0985001.67280331",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4004,6 +4010,25 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Lazar-d04ae7243c55411b2a0f6935ba2a5e4e.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654585b0985001.67280331",
+      "label": "Rieki Cordon",
+      "email": "rieki.cordon@gmail.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Katuah Bioregion",
+      "interests": "Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Climate Activism||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_20230809_143229_878-dd0c71d25e296511f8c0dfb57d43eb6b.jpg"
       ],
       "type": "Person"
     }
