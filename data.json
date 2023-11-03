@@ -971,6 +971,12 @@
       "from": "wpf654529aace7771.81874836",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "-9209209355756996139",
+      "from": "wpf6545398ea9d9b4.83110251",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3505,6 +3511,25 @@
       "linkedin": "https://www.linkedin.com/in/megan-nowak-a20561b9/",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/linked-0fb0f82994d9e5c3d9be8aec67108cc7.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545398ea9d9b4.83110251",
+      "label": "Annelieke Verkerk",
+      "email": "anneliekeverkerk@gmail.com",
+      "area": "Not in the Area",
+      "bio": "My personal calling is to champion inclusive and regenerative living systems and to support the inner development and resilience of change makers and their projects and initiatives. \r\nCurrently I facilitate Regenerative Constellations on environmental, social, economic, organizational, ancestral and leadership / personal issues, for bioregions and other regenerative initiatives around the globe\r\nAs an international Leadership, Team and Organizational Coach and Consultant I am passionate about developing conscious, embodied and regenerative leadership, working with team and organizational dynamics and facilitating transformation and culture change.\r\nBesides 20+ years of (eco)systemic coaching education and experience along all scales, I bring 15 years of experience in staff and leadership positions with the University of Groningen and Dutch Government, as Head of the Insurance Division of the Ministry of Finance and as Deputy Director-General of the Dutch Competition Authority.\r\nI love to dance, also with the paradoxes of life.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "The Netherlands",
+      "interests": "",
+      "website": "thrivingvirtualteams.com",
+      "linkedin": "https://www.linkedin.com/in/anneliekeverkerk",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20220418_215031-c3a58daa503b02dd17b1e9554b825ff1.jpg"
       ],
       "type": "Person"
     }
