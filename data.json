@@ -1073,6 +1073,12 @@
       "from": "wpf6545753f4c4f50.17870639",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-3424028412162821814",
+      "from": "wpf65457a64eeb493.10612177",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3909,6 +3915,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_3294-f686f6a942bc3e7d6ddd51d61dc516f0-scaled.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65457a64eeb493.10612177",
+      "label": "Carl Wassilie",
+      "email": "carlwassilie.acyn@gmail.com",
+      "area": "Vashon",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
