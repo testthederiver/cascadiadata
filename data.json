@@ -1019,6 +1019,12 @@
       "from": "wpf654558b376cf13.43833067",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-7102308088532146548",
+      "from": "wpf654556499e4361.29745562",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3689,6 +3695,25 @@
       "linkedin": "https://www.linkedin.com/in/kaleb-h-1a58a01b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_1034-1c2bfa1b52dfe19375747391e862d8d3-scaled.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654556499e4361.29745562",
+      "label": "Sheri Sophia Herndon",
+      "email": "sheri.herndon777@gmail.com",
+      "area": "Vashon",
+      "bio": "I'm passionate about designing a brighter future for our world. As a cultural architect, I'm committed to nurturing a regenerative and enlightened civilization.\r\n\r\nI believe in the power of synergy, collaboration, and innovation. My work is grounded in the principles of living systems and the profound intelligence of the cosmos.\r\n\r\nWith over three decades of experience at the intersection of consciousness, storytelling, and social potential, I've dedicated my career to fostering evolutionary culture, regenerative technologies, feminine intelligence, and the wisdom of indigenous knowledge.\r\n\r\nMy Professional Journey:\r\n- Host of the \"Awakening Together\" Podcast\r\n- Member of the Steward's Council for the Earthwise Constitution for a Planetary Civilization\r\n- Designing an incubator for social profit and regenerative initiatives with Commons Engine, focused on the new economic paradigm\r\n- Co-author of a chapter in a book titled, \"The Holomovement: Embracing Our Collective Purpose to Unite Humanity\"\r\n- Co-founder of Indymedia.org in 1999, a global media network with 250+ centers worldwide that pioneered global citizen journalism and global-local coordination.\r\n\r\nConvening & Facilitation Work: Tribalize Summits, Puerto Rico Mastermind, Wheel of Cocreation Community Convergence; Awakening Leadership Retreat; Open Money Mexico (origins of MetaCurrency/Holochain); Journalism That Matters PNW; Images of the Future; Storyfield Conference; Evolutionary Salons (Cultivating Social Creativity); Reclaim the Media, a national 5-day conference that had significant impact on national media policy; Indymedia Charter Summit, and more (ranging from 10-90 participants), and more.\r\n\r\nOver 25 years, I cultivated an extensive toolkit of extensive and advanced training and practice in social transformation processes in creativity, collaboration, mindfulness, innovation, and collective intelligence and wisdom; leadership development; dialogue and circle practices.\r\n\r\nAcademic Background: Master of Arts in Interdisciplinary Studies; Specialization in Organizational Systems Renewal; Rooted in the Design Principles of Natural Law.\r\n\r\nBeyond Work: I'm a mystic at heart, finding solace in nature's embrace and exploring hidden pockets of wildness and ecstasy. I cherish harmonious relationships and am deeply connected to the Earth.\r\n\r\nI aspire to be a clear channel for the divine, dedicated to midwifing heaven on earth.\r\n\r\nLet's connect and co-create to make a positive transformational impact on our world!\r\n\r\nwww.awakeningtogether.one",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Media||Celebration, Ceremony, Nature and Spirit||Climate Activism||Emergency Response and Mutual Aid||Governance||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "https://www.awakeningtogether.one/",
+      "linkedin": "https://www.linkedin.com/in/sheri-herndon/",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Sheri-at-sunset-41be11fad6690de5a9faf863066ff643.jpeg"
       ],
       "type": "Person"
     }
