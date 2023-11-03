@@ -1049,6 +1049,12 @@
       "from": "wpf65455d9383f8c4.27074046",
       "to": "place_city_washington_everett",
       "type": "Location"
+    },
+    {
+      "id": "-6348282554381761084",
+      "from": "wpf6545770ff412f9.97837251",
+      "to": "place_city_oregon_beaverton",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3811,6 +3817,25 @@
       "website": "Instagram #dorisoliversart",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545770ff412f9.97837251",
+      "label": "Thomas Palmer",
+      "email": "teachthom@me.com",
+      "area": "Portland",
+      "bio": "I am a migrant to Cascadia from New England, and have made my home here, first as a front-line transit worker, but now as a personal trainer and nutrition coach. My focus is equitable strength and nutrition for my community and those at the margins.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Beaverton",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Media||Equity and Social Justice",
+      "website": "http://spark.fit",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_0417-1b9803bcfaa98667855466e106a9e640-scaled.jpeg"
+      ],
       "type": "Person"
     }
   ]
