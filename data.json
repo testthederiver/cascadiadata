@@ -1025,6 +1025,12 @@
       "from": "wpf654556499e4361.29745562",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "1625262161892489289",
+      "from": "wpf6545538a6937f3.40167369",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3714,6 +3720,27 @@
       "linkedin": "https://www.linkedin.com/in/sheri-herndon/",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Sheri-at-sunset-41be11fad6690de5a9faf863066ff643.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545538a6937f3.40167369",
+      "label": "Gaby De Freitas",
+      "email": "gaby@wadalo.co",
+      "area": "Not in the Area",
+      "bio": "My background is in the field of IT, which has caused me to think of life in terms of systems.  I understand how a small change in one place, can have a big impact in another.  I support my local farmers, and I grow what we can in our small garden, enthusiastic about learning how to work with nature to optimize food availability and nutrition.  My healthcare is supported through homeopathy, and I have gained a energetic perspective of the world through long discussions with my doctor over the years.  I believe that with all the chaos that appears to surround us, our first step towards a solution is always love.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Trinidad",
+      "interests": "Celebration, Ceremony, Nature and Spirit||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Web 3, Digital Tools and Platforms",
+      "work": "",
+      "website": "",
+      "linkedin": "www.linkedin.com/in/gabrielle-de-freitas-7929a06",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Gaby-De-Freitas-3842Best-copy-2-539d2ff0935f9e4f64785aceae356ede.jpg"
       ],
       "type": "Person"
     }
