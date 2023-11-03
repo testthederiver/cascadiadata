@@ -857,6 +857,18 @@
       "from": "wpf6544524772fd38.68145625",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "Bremerton, Washington",
+      "from": "place_city_washington_bremerton",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "4156332951715986867",
+      "from": "wpf65445882b2a783.90897823",
+      "to": "place_city_washington_bremerton",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3078,6 +3090,28 @@
       "linkedin": "https://www.linkedin.com/in/starrsum/",
       "Image": "",
       "type": "Person"
+    },
+    {
+      "id": "wpf65445882b2a783.90897823",
+      "label": "Aven Frey",
+      "email": "avenkristine@gmail.com",
+      "area": "Salish Sea",
+      "bio": "Building a permaculture-based urban ecovillage in Bremerton",
+      "stateorprov": "Washington",
+      "city_wa": "Bremerton",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Climate Activism||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_bremerton",
+      "label": "Bremerton, Washington",
+      "type": "Place"
     }
   ]
 }
