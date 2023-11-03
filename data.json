@@ -845,6 +845,12 @@
       "from": "wpf654432bb372260.47781890",
       "to": "place_city_britishcolumbia_victoria",
       "type": "Location"
+    },
+    {
+      "id": "8971400266436756733",
+      "from": "wpf65444ebdc692d9.38106752",
+      "to": "place_city_washington_aberdeen",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3031,6 +3037,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/MRP3726resized-35d5a3197ccde9145402f6e4fbd24ea0.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65444ebdc692d9.38106752",
+      "label": "Sheila B\u00e9langer",
+      "email": "truenature22@gmail.com",
+      "area": "Whidbey Island",
+      "bio": "Sheila B\u00e9langer is a dynamic and catalyzing guide to your transformation journey at the inner edge territories. She has over 40 years effectively translating consciousness-shifting inner work practices into life-changing ways.",
+      "stateorprov": "Washington",
+      "city_wa": "Aberdeen",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Celebration, Ceremony, Nature and Spirit||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty",
+      "website": "https://ontheedgesofchange.com/",
+      "linkedin": "https://www.linkedin.com/in/sheilabelanger/",
+      "Image": "",
       "type": "Person"
     }
   ]
