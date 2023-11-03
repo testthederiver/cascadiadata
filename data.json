@@ -911,6 +911,12 @@
       "from": "wpf6544826c469b94.14127372",
       "to": "place_city_washington_sedro-woolley",
       "type": "Location"
+    },
+    {
+      "id": "2473722713613558312",
+      "from": "wpf65449174b3b102.48883165",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3266,6 +3272,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/A40AE356-BFD8-4BEB-89AB-3D09B22BAD76-c12bdf478338931380708f96478ae182-scaled.jpeg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65449174b3b102.48883165",
+      "label": "Jillian Froebe",
+      "email": "jillianfroebe@gmail.com",
+      "area": "Bellingham",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Climate Activism||First Nation Landback, Partnership and Sovereignty||Forest Restoration",
+      "website": "turtlehavensanctuary.com",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
