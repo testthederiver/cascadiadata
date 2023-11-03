@@ -977,6 +977,18 @@
       "from": "wpf6545398ea9d9b4.83110251",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "Estacada, Oregon",
+      "from": "place_city_oregon_estacada",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "3807909894315178725",
+      "from": "wpf65454490535645.45529470",
+      "to": "place_city_oregon_estacada",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3532,6 +3544,28 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20220418_215031-c3a58daa503b02dd17b1e9554b825ff1.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf65454490535645.45529470",
+      "label": "Ron Hays",
+      "email": "eaglecreeknb@gmail.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Estacada",
+      "city_BC": "",
+      "where": "",
+      "interests": "Celebration, Ceremony, Nature and Spirit",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_estacada",
+      "label": "Estacada, Oregon",
+      "type": "Place"
     }
   ]
 }
