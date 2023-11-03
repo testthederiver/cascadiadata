@@ -1031,6 +1031,12 @@
       "from": "wpf6545538a6937f3.40167369",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-5138676372331399125",
+      "from": "wpf6545689451deb1.82796656",
+      "to": "place_city_britishcolumbia_nelson",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3742,6 +3748,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Gaby-De-Freitas-3842Best-copy-2-539d2ff0935f9e4f64785aceae356ede.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545689451deb1.82796656",
+      "label": "Jacqueline Stoeckler",
+      "email": "wkwatershedcollaborative@gmail.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Nelson",
+      "where": "",
+      "interests": "Bioregional Mapping||Bioregional Media||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Water Stewardship",
+      "website": "westkootenaywater.ca",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
