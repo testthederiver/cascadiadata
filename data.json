@@ -1043,6 +1043,12 @@
       "from": "wpf654558b376cf13.43833067",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "-3631882657157376700",
+      "from": "wpf65455d9383f8c4.27074046",
+      "to": "place_city_washington_everett",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3786,6 +3792,23 @@
       "where": "",
       "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Bioregional Media||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
       "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65455d9383f8c4.27074046",
+      "label": "Doris Olivers",
+      "email": "dolivers@colivers.com",
+      "area": "Not in the Area",
+      "bio": "I grow food and study organics, permaculture, and regenerative practices.\r\nI am a global trade activist and a Proutist. \r\nI am an artist and share at Instagram #dorisoliversart. \r\nI have kids and grands. \r\nI\u2019m a sustainable community steward.",
+      "stateorprov": "Washington",
+      "city_wa": "Everett",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "Instagram #dorisoliversart",
       "linkedin": "",
       "Image": "",
       "type": "Person"
