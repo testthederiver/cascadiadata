@@ -1037,6 +1037,12 @@
       "from": "wpf6545689451deb1.82796656",
       "to": "place_city_britishcolumbia_nelson",
       "type": "Location"
+    },
+    {
+      "id": "-7212642957955862365",
+      "from": "wpf654558b376cf13.43833067",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3763,6 +3769,23 @@
       "where": "",
       "interests": "Bioregional Mapping||Bioregional Media||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Water Stewardship",
       "website": "westkootenaywater.ca",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654558b376cf13.43833067",
+      "label": "Mary Bush",
+      "email": "mary.bush@hey.com",
+      "area": "Seattle",
+      "bio": "I\u2019m here mostly to listen, learn, and be adjacent to this community. My family moved here, from Louisiana, when I was a baby; I\u2019ve grown up and made a home here ever since. Because of the slight cultural dissonance between the South and the PNW, and my affinity for this area, I\u2019ve always been searching for more rootedness here.\r\n\r\nI have a practical interest in affordable and climate friendly building methods, an intellectual interest in permaculture, and much concern for the overall welfare of the bioregion.",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Bioregional Media||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
       "linkedin": "",
       "Image": "",
       "type": "Person"
