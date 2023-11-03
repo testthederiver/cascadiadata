@@ -1007,6 +1007,12 @@
       "from": "wpf654545eea89875.50422030",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "-3162084309174684648",
+      "from": "wpf654558b376cf13.43833067",
+      "to": "place_city_oregon_portland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3639,6 +3645,25 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/720FB735-7E0E-4B9A-9B18-641D3B6A6D8F-92b1e83b6ed7651f056e39bdb4a12800.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654558b376cf13.43833067",
+      "label": "Kalimah Abioto",
+      "email": "kalimah.abioto@gmail.com",
+      "area": "Portland",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Portland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Water Stewardship",
+      "website": "Www.KalimahAbioto.com",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/image-ef44a46a03d5a1a27e18b09c84e0acf4-scaled.jpg"
       ],
       "type": "Person"
     }
