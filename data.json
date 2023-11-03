@@ -905,6 +905,12 @@
       "from": "wpf65447a50693090.77310089",
       "to": "place_city_oregon_springfield",
       "type": "Location"
+    },
+    {
+      "id": "-4863941155225791837",
+      "from": "wpf6544826c469b94.14127372",
+      "to": "place_city_washington_sedro-woolley",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3242,6 +3248,25 @@
       "id": "place_city_oregon_springfield",
       "label": "Springfield, Oregon",
       "type": "Place"
+    },
+    {
+      "id": "wpf6544826c469b94.14127372",
+      "label": "Nicole Tilson",
+      "email": "nikkirati83@gmail.com",
+      "area": "Skagit",
+      "bio": "I am Nicole, a massage/craniosacral therapist interested in all things nature. My partner and I are opening a healing retreat center on a piece of forested property on the Skagit River. I have just recently been turned on to permaculture, and am now investigating how to incorporate it into our project.",
+      "stateorprov": "Washington",
+      "city_wa": "Sedro-Woolley",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/A40AE356-BFD8-4BEB-89AB-3D09B22BAD76-c12bdf478338931380708f96478ae182-scaled.jpeg"
+      ],
+      "type": "Person"
     }
   ]
 }
