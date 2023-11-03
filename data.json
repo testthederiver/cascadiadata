@@ -851,6 +851,12 @@
       "from": "wpf65444ebdc692d9.38106752",
       "to": "place_city_washington_aberdeen",
       "type": "Location"
+    },
+    {
+      "id": "4946415854269509964",
+      "from": "wpf6544524772fd38.68145625",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3053,6 +3059,23 @@
       "interests": "Celebration, Ceremony, Nature and Spirit||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty",
       "website": "https://ontheedgesofchange.com/",
       "linkedin": "https://www.linkedin.com/in/sheilabelanger/",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6544524772fd38.68145625",
+      "label": "SUMMER STARR",
+      "email": "starrsum@gmail.com",
+      "area": "Bellingham",
+      "bio": "I'm an ancestral lineage healer and weaver between the seen and unseen worlds, including the nature spirits and beings of the land. I also work in peer-led mental health and believe that connection to place is the foundation to good mental health",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Celebration, Ceremony, Nature and Spirit",
+      "website": "www.makingkin.com",
+      "linkedin": "https://www.linkedin.com/in/starrsum/",
       "Image": "",
       "type": "Person"
     }
