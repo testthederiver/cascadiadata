@@ -995,6 +995,12 @@
       "from": "wpf654545eea89875.50422030",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-8563383937471396128",
+      "from": "wpf654545eea89875.50422030",
+      "to": "place_city_washington_anacortes",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3589,6 +3595,25 @@
       "linkedin": "https://www.linkedin.com/in/dariales/",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/3O1A5853-a1d98cefcaa8784d000ff711be7f6ace.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654545eea89875.50422030",
+      "label": "Sharon Abreu",
+      "email": "sharmuse@gmail.com",
+      "area": "Salish Sea",
+      "bio": "We, Sharon Abreu and Michael Hurwicz, are musicians, singer-songwriters and environmental educators living together on Orcas Island for 22 years. In 2002, we started Irthlingz Arts-Based Environmental Education 501(c)(3) to engage, inspire and empower people to become active stewards of the Earth. Most recently, we've been working to highlight the connection between war/peace and environmental issues, in particular the climate crisis.",
+      "stateorprov": "Washington",
+      "city_wa": "Anacortes",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Climate Activism||Equity and Social Justice||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Transportation||Water Stewardship",
+      "website": "https://irthlingz.org",
+      "linkedin": "https://www.linkedin.com/in/sharon-abreu-b52100b",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/school_cafeteria_concert_111522-106030419184f6ed6b0c340172a2061a.png"
       ],
       "type": "Person"
     }
