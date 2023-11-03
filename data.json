@@ -989,6 +989,12 @@
       "from": "wpf65454490535645.45529470",
       "to": "place_city_oregon_estacada",
       "type": "Location"
+    },
+    {
+      "id": "-8563383937471396128",
+      "from": "wpf654545eea89875.50422030",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3566,6 +3572,25 @@
       "id": "place_city_oregon_estacada",
       "label": "Estacada, Oregon",
       "type": "Place"
+    },
+    {
+      "id": "wpf654545eea89875.50422030",
+      "label": "Daria Les",
+      "email": "soldatovadaria@gmail.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Latvia",
+      "interests": "Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Governance",
+      "website": "http://windsoffields.tilda.ws/",
+      "linkedin": "https://www.linkedin.com/in/dariales/",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/3O1A5853-a1d98cefcaa8784d000ff711be7f6ace.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
