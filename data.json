@@ -881,6 +881,12 @@
       "from": "wpf654461aae43708.63736008",
       "to": "place_city_oregon_portland",
       "type": "Location"
+    },
+    {
+      "id": "-6663394161869913242",
+      "from": "wpf654474904500b2.66813502",
+      "to": "place_city_washington_tacoma",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3156,6 +3162,23 @@
       "city_BC": "",
       "where": "",
       "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Regenerative Finance &amp; Fundraising",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654474904500b2.66813502",
+      "label": "Sue Letsinger",
+      "email": "letsing@gmail.com",
+      "area": "Vashon",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Tacoma",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Documentation, Cascadia Spoke + Bundle||Emergency Response and Mutual Aid||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
       "website": "",
       "linkedin": "",
       "Image": "",
