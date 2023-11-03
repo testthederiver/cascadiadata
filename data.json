@@ -935,6 +935,12 @@
       "from": "wpf6544d9af59a4f9.39188760",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "6763093281784640543",
+      "from": "wpf6544d9af59a4f9.39188760",
+      "to": "place_city_britishcolumbia_vancouver",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3360,6 +3366,25 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6544d9af59a4f9.39188760",
+      "label": "Marianne Wyne",
+      "email": "marianne@thepivot.earth",
+      "area": "Not in the Area",
+      "bio": "I am a co-founder of ThePivot.Earth, a young startup focused on living soil and regeneration. Check us out at thepivot.earth. 25+ years deep experience in leadership, system optimization, and organizational change management. I worked in numerous industries from start-ups to large enterprises, working around the globe. I am passionate about healing our gorgeous planet and figuring out how to create syntropic enterprises - that work for everyone, everywhere, with no exceptions. I'd love to connect!",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Vancouver",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||Equity and Social Justice||Forest Restoration||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "website": "https://thepivot.earth/",
+      "linkedin": "linkedin.com/in/mariannewyne",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Portrait.MW_.Hike_-c3fc2a475ddc0c8ab60417aec6db765b.jpg"
+      ],
       "type": "Person"
     }
   ]
