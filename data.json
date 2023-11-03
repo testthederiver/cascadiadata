@@ -941,6 +941,12 @@
       "from": "wpf6544d9af59a4f9.39188760",
       "to": "place_city_britishcolumbia_vancouver",
       "type": "Location"
+    },
+    {
+      "id": "-3356733170369309784",
+      "from": "wpf6544fdcf9dd109.73557174",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3385,6 +3391,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Portrait.MW_.Hike_-c3fc2a475ddc0c8ab60417aec6db765b.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6544fdcf9dd109.73557174",
+      "label": "Ruth Wren",
+      "email": "ruthearthling@gmail.com",
+      "area": "Eugene",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
