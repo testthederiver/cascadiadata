@@ -1061,6 +1061,12 @@
       "from": "wpf65457079688bb0.45475218",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "-5526365036707280490",
+      "from": "wpf65457237a1f872.29949792",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3861,6 +3867,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_1817-3807f80471d272a2152e02625581f2d0.png"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65457237a1f872.29949792",
+      "label": "Ronald (Ravi) Logan",
+      "email": "rlogan@igc.org",
+      "area": "Eugene",
+      "bio": "I've been involved with bioregional counter-cultural and permacultural activity since 1974. In 1976 I was a lead organizer of a bioregional gathering intended to establish a regional federation of cooperatives. I'm the fc0-ounder and program director of the Dharmalaya Center in Eugene, the Director of the PROUT Institute (proutinstitute.org), and the primary instructor for Transformation Education (https://transformation-education.teachable.com/). A primary hat I wear is that of an ordained meditation teacher in the yogic tradition. I've authored four books on new paradigm political theory, including \"Transformation to a New Era.\" I lectured extensively internationally as well as giving many webinars. In 1993 I was invited  by the Governor of the Russian Far East state of Khabarovsk to draft a development plan based on the post-capitalist social philosophy, PROUT. I was the lead organizer for three regional permaculture gatherings in the early 2000s. Dharmalaya, where I live is a model of sustinable living. Dharmalaya has held many trainings, including a summer program called \"Community Transformations\" that gave participants an integrated vision of regenerative communities. Dharmalaya is in the heart of the \"River Road permaculture zone\" in Eugene and has involved in many permaculture and regenerative community initiatives and gatherings.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Bioregional Mapping||Emergency Response and Mutual Aid||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "proutinstitute.org",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
