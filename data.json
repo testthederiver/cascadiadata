@@ -917,6 +917,12 @@
       "from": "wpf65449174b3b102.48883165",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "3905670084988213020",
+      "from": "wpf65447b87e9d139.28775556",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3287,6 +3293,23 @@
       "where": "",
       "interests": "Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Climate Activism||First Nation Landback, Partnership and Sovereignty||Forest Restoration",
       "website": "turtlehavensanctuary.com",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65447b87e9d139.28775556",
+      "label": "Mel Hoover",
+      "email": "melhoover164@gmail.com",
+      "area": "Bellingham",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Climate Activism||Equity and Social Justice||Local, Circular &amp; Zero Waste Economies||Regenerative Finance &amp; Fundraising",
+      "website": "",
       "linkedin": "",
       "Image": "",
       "type": "Person"
