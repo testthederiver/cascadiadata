@@ -1091,6 +1091,12 @@
       "from": "wpf65458089d61497.25646197",
       "to": "place_city_washington_mountvernon",
       "type": "Location"
+    },
+    {
+      "id": "8430415303898194265",
+      "from": "wpf654585072f5683.77684040",
+      "to": "place_city_washington_olympia",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3980,6 +3986,25 @@
       "website": "jaybowen-art@gmail.com",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654585072f5683.77684040",
+      "label": "Lazar Crawford",
+      "email": "lazarc@pm.me",
+      "area": "Olympia",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Olympia",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Forest Restoration||Helping with the Website||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Lazar-d04ae7243c55411b2a0f6935ba2a5e4e.jpg"
+      ],
       "type": "Person"
     }
   ]
