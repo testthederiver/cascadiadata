@@ -929,6 +929,12 @@
       "from": "wpf6544a87b041cf6.78778819",
       "to": "place_city_britishcolumbia_abbotsford",
       "type": "Location"
+    },
+    {
+      "id": "-7122779402075737504",
+      "from": "wpf6544d9af59a4f9.39188760",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3337,6 +3343,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Pamelapascual-2ce9ecf980086e56bce71368cc09edd7.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6544d9af59a4f9.39188760",
+      "label": "james brown",
+      "email": "jamesbrown@browns.ca",
+      "area": "Not in the Area",
+      "bio": "Community, nature and regenerative connections orientation.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Ontario",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
