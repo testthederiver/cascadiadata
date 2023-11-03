@@ -1067,6 +1067,12 @@
       "from": "wpf65457237a1f872.29949792",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "18431822928203900",
+      "from": "wpf6545753f4c4f50.17870639",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3884,6 +3890,25 @@
       "website": "proutinstitute.org",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545753f4c4f50.17870639",
+      "label": "donna luckey",
+      "email": "donnal@ku.edu",
+      "area": "Not in the Area",
+      "bio": "I am an elder dwelling on the traditional lands of the Wiyot people, Humboldt Bay, California (Arcata). I have taught about bioregions and watersheds for decades, and have worked on land trust boards since the early 1990s.  Currently that means serving as president of the Jacoby Creek Land Trust, exploring mapping and relationships to other-than-human (Kin) members of the watershed. I am also active with Pachamama Alliance: a global organization with the mission of living on the earth through environmental sustainability, social justice, and spiritual growth. Other commitments to community show up by living in cohousing (currently at Arcata Marsh Cohousing) and singing in a Threshold choir.\r\nI have been retired for 12 years having taught architecture and environmental planning for 28+ years at the University of Kansas in Lawrence.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Arcata, CA - Wiyot traditional lands surrounding Humboldt Bay",
+      "interests": "Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_3294-f686f6a942bc3e7d6ddd51d61dc516f0-scaled.jpg"
+      ],
       "type": "Person"
     }
   ]
