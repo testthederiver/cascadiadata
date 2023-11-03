@@ -1001,6 +1001,12 @@
       "from": "wpf654545eea89875.50422030",
       "to": "place_city_washington_anacortes",
       "type": "Location"
+    },
+    {
+      "id": "-8563383937471396128",
+      "from": "wpf654545eea89875.50422030",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3614,6 +3620,25 @@
       "linkedin": "https://www.linkedin.com/in/sharon-abreu-b52100b",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/school_cafeteria_concert_111522-106030419184f6ed6b0c340172a2061a.png"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654545eea89875.50422030",
+      "label": "Janaki Kilgore",
+      "email": "janaki@wonder-flora.com",
+      "area": "Bellingham",
+      "bio": "Landscape Designer, consultant and educator with 20+ years experience of making food forests, native plant and rain gardens in Whatcom County, Washington. Her training includes rain garden design and low impact development (Department of Ecology), Permaculture Design Certification (Earth Activist Training), & B.A. in Art & Design from Hampshire College. In 2014 Janaki completed an internship at Cloud Mountain Farm Center and has been a rain garden educator at various events, including the Whatcom County Master Gardeners Advanced Training. She is now an ecoPRO Certified Professional offering comprehensive design services through her business Wonder-Flora Landscape Designs. Janaki's five year position as Landscape Specialist at The Willows Inn on Lummi Island, WA focused on culinary plants and sustainable systems.",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Climate Activism||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "https://www.wonder-flora.com/regenerating-cascadia.html",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/720FB735-7E0E-4B9A-9B18-641D3B6A6D8F-92b1e83b6ed7651f056e39bdb4a12800.jpeg"
       ],
       "type": "Person"
     }
