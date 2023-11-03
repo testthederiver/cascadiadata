@@ -875,6 +875,12 @@
       "from": "wpf6544524772fd38.68145625",
       "to": "place_city_britishcolumbia_duncan",
       "type": "Location"
+    },
+    {
+      "id": "-1739196593453590537",
+      "from": "wpf654461aae43708.63736008",
+      "to": "place_city_oregon_portland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3136,6 +3142,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/323060856_1321926075249106_1370544953903449351_n-b648be68c4e40da1f991b204e4f56e89.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654461aae43708.63736008",
+      "label": "Margaret Sanger",
+      "email": "pdxmarge@gmail.com",
+      "area": "Portland",
+      "bio": "Great granddaughter of Oregon homesteaders/colonizers who\u2019s lived mostly in the PNW with time NM, CO and TX. Queer, white, middle aged human endeavoring to learn and share and connect. I have professional backgrounds in Chinese Medicine and public service. Traveled for most of the pandemic and am now settling back into life in Portland.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Portland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Regenerative Finance &amp; Fundraising",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
