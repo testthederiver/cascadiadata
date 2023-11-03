@@ -1055,6 +1055,12 @@
       "from": "wpf6545770ff412f9.97837251",
       "to": "place_city_oregon_beaverton",
       "type": "Location"
+    },
+    {
+      "id": "-2942656481655985775",
+      "from": "wpf65457079688bb0.45475218",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3835,6 +3841,25 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_0417-1b9803bcfaa98667855466e106a9e640-scaled.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65457079688bb0.45475218",
+      "label": "Yogi Uriah",
+      "email": "vvanir16@gmail.com",
+      "area": "Seattle",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Equity and Social Justice||Governance||Web 3, Digital Tools and Platforms",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_1817-3807f80471d272a2152e02625581f2d0.png"
       ],
       "type": "Person"
     }
