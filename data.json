@@ -953,6 +953,12 @@
       "from": "wpf6545008fd15630.94640829",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "6731227003449167549",
+      "from": "wpf654514ff883491.82778569",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -3431,6 +3437,27 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654514ff883491.82778569",
+      "label": "Zaylan Jacobsen",
+      "email": "zaylan@cascadia.world",
+      "area": "Seattle",
+      "bio": "I am a Cascadian who loves the mountains of Cascadia and works in technology in Seattle",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Celebration, Ceremony, Nature and Spirit||Documentation, Cascadia Spoke + Bundle||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Helping with the Website||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Transportation||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "work": "",
+      "website": "www.cascadia.world",
+      "linkedin": "https://www.linkedin.com/in/zaylan-jacobsen/",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Africadian-Logo-11-fe0c8835d5f14523b748f1f32e3866f6.png"
+      ],
       "type": "Person"
     }
   ]
