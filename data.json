@@ -1205,6 +1205,12 @@
       "from": "wpf6545ac64c02d33.04596232",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "628277678577792661",
+      "from": "wpf6545b10fb80364.72765815",
+      "to": "place_city_oregon_ashland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4406,6 +4412,23 @@
       "interests": "",
       "website": "",
       "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545b10fb80364.72765815",
+      "label": "Christine Brautigam",
+      "email": "christinebrautigam@icloud.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Ashland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Climate Activism||Documentation, Cascadia Spoke + Bundle||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Transportation||Water Stewardship",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/christinebrautigam",
       "Image": "",
       "type": "Person"
     }
