@@ -1235,6 +1235,12 @@
       "from": "wpf65463a4c7c9bd6.69275780",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-5894633336479324070",
+      "from": "wpf654648012bfd33.15472032",
+      "to": "place_city_washington_anacortes",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4527,6 +4533,25 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_3156-cdd8804d1323736378042675ffabb1d7-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654648012bfd33.15472032",
+      "label": "donna hasbrouck",
+      "email": "authenticstonedonna@gmail.com",
+      "area": "Not in the Area",
+      "bio": "Deep connection to the natural environment, science educated",
+      "stateorprov": "Washington",
+      "city_wa": "Anacortes",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||First Nation Landback, Partnership and Sovereignty||Forest Restoration",
+      "website": "www.authenticstone.com",
+      "linkedin": "yes",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/hammer-and-chisel-4929293f463689b38263f8cece09020c-scaled.jpg"
       ],
       "type": "Person"
     }
