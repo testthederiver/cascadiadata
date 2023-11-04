@@ -1349,6 +1349,12 @@
       "from": "wpf6546ac517fe4d6.19536046",
       "to": "place_city_washington_aberdeen",
       "type": "Location"
+    },
+    {
+      "id": "-3542011039512999",
+      "from": "wpf6546bfe4759cb2.22582825",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4958,6 +4964,23 @@
       "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Web 3, Digital Tools and Platforms",
       "website": "",
       "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6546bfe4759cb2.22582825",
+      "label": "JP Parker",
+      "email": "jp@infinitesolutions.org",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Western Australia",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Celebration, Ceremony, Nature and Spirit||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Transportation||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/parkerjp",
       "Image": "",
       "type": "Person"
     }
