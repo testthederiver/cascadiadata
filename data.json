@@ -1139,6 +1139,18 @@
       "from": "wpf65458be43e3b27.53027766",
       "to": "place_city_oregon_thedalles",
       "type": "Location"
+    },
+    {
+      "id": "Bainbridge Island, Washington",
+      "from": "place_city_washington_bainbridgeisland",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-2851794086509812199",
+      "from": "wpf65458d5e343022.29229530",
+      "to": "place_city_washington_bainbridgeisland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4164,6 +4176,30 @@
     {
       "id": "place_city_oregon_thedalles",
       "label": "The Dalles, Oregon",
+      "type": "Place"
+    },
+    {
+      "id": "wpf65458d5e343022.29229530",
+      "label": "Marc Zocher",
+      "email": "marc.zocher@gmail.com",
+      "area": "Salish Sea",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Bainbridge Island",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Being a part of a Watershed Team||Bioregional Mapping||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "Threads @marc.zocher",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_5313-67d9a59a704a3c4769e1ecc556d0916d.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_bainbridgeisland",
+      "label": "Bainbridge Island, Washington",
       "type": "Place"
     }
   ]
