@@ -1121,6 +1121,12 @@
       "from": "wpf65458a7a71aa87.61905470",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "4624824589522388274",
+      "from": "wpf65458be43e3b27.53027766",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4105,6 +4111,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20231103_154851-4346b77c6dffe74786ffe1c773058b31-scaled.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65458be43e3b27.53027766",
+      "label": "Maria Hunter",
+      "email": "maria@soundhealthclinic.com",
+      "area": "Bellingham",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Celebration, Ceremony, Nature and Spirit||Equity and Social Justice||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
