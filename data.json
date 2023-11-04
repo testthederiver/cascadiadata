@@ -1127,6 +1127,18 @@
       "from": "wpf65458be43e3b27.53027766",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "The Dalles, Oregon",
+      "from": "place_city_oregon_thedalles",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "-3125604650296433567",
+      "from": "wpf65458be43e3b27.53027766",
+      "to": "place_city_oregon_thedalles",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4129,6 +4141,30 @@
       "linkedin": "",
       "Image": "",
       "type": "Person"
+    },
+    {
+      "id": "wpf65458be43e3b27.53027766",
+      "label": "Kris Fade",
+      "email": "kris@analemmawines.com",
+      "area": "Columbia River Gorge",
+      "bio": "Inspired by regenerative farming practices that bring to life the true character of a distinct site, Kris shepherds some of the nation's first Biodynamic(R) certified Mencia, Godello, and Albarino--fantastic additions to the diverse portfolio that Oregon's terroir has to offer. After studying Applied Biodyamics in New Zealand, she co-founded Analemma Wines in 2010 and found her home and heart in the Mosier Hills of the Columbia Gorge. Kris is dedicated to a vision of diversified farming and defines herself by a deep connection to the land and community she is cultivating.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "The Dalles",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Celebration, Ceremony, Nature and Spirit||Climate Activism||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Transportation||Water Stewardship",
+      "website": "https://analemmawines.com/",
+      "linkedin": "https://www.linkedin.com/in/kris-fade-287b20b3/",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/KrisHeadshot-ddd9735d0f3cd59b350113e39b739e6d.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_thedalles",
+      "label": "The Dalles, Oregon",
+      "type": "Place"
     }
   ]
 }
