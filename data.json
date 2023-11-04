@@ -1343,6 +1343,12 @@
       "from": "wpf6546953c28f232.26828899",
       "to": "place_city_washington_anacortes",
       "type": "Location"
+    },
+    {
+      "id": "-120862583267863130",
+      "from": "wpf6546ac517fe4d6.19536046",
+      "to": "place_city_washington_aberdeen",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4936,6 +4942,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/selfie-laurie-bd4086e4cc80fda342de47b74f722e84-rotated.jpeg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6546ac517fe4d6.19536046",
+      "label": "Ronald ONeil",
+      "email": "ronald.a.oneil@gmail.com",
+      "area": "Olympia",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Aberdeen",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Web 3, Digital Tools and Platforms",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
