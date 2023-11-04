@@ -1355,6 +1355,12 @@
       "from": "wpf6546bfe4759cb2.22582825",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-8531624393565364108",
+      "from": "wpf6546c6920cc347.50875750",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4982,6 +4988,25 @@
       "website": "",
       "linkedin": "https://www.linkedin.com/in/parkerjp",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6546c6920cc347.50875750",
+      "label": "Kim Chapple",
+      "email": "kimberly.chapple@case.edu",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Great Lakes Bioregion ~ Ohio",
+      "interests": "Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Media||Celebration, Ceremony, Nature and Spirit||Climate Activism||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/23D39911-3713-4DB5-A301-DF0BA3DD4AD8-52b76b4d2ffcbdb7e37a172db2ee852e.jpeg"
+      ],
       "type": "Person"
     }
   ]
