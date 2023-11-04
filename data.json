@@ -1229,6 +1229,12 @@
       "from": "wpf6546136672fd05.56126053",
       "to": "place_city_washington_mountvernon",
       "type": "Location"
+    },
+    {
+      "id": "6207919374421421348",
+      "from": "wpf65463a4c7c9bd6.69275780",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4500,6 +4506,27 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_4010-000baa8d7c54ee2284bf64d6a8413f5a-scaled.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65463a4c7c9bd6.69275780",
+      "label": "Michelle Bisset",
+      "email": "mbiss001@gmail.com",
+      "area": "Not in the Area",
+      "bio": ".",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "NZ",
+      "interests": "Bioregional Education &amp; Learning Centers||Bioregional Mapping||Governance",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_3156-cdd8804d1323736378042675ffabb1d7-scaled.jpg"
       ],
       "type": "Person"
     }
