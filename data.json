@@ -1163,6 +1163,12 @@
       "from": "wpf65458f3f6db9f4.55193345",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "763151722953327195",
+      "from": "wpf65458f3f6db9f4.55193345",
+      "to": "place_city_oregon_beaverton",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4245,6 +4251,23 @@
       "interests": "",
       "website": "",
       "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65458f3f6db9f4.55193345",
+      "label": "Muneeb Kalenandi",
+      "email": "alhurrah@protonmail.com",
+      "area": "Portland",
+      "bio": "My career as a DV/SA Social Worker/Admin ended with a car accident, and then being struck by a car 2 years later, as a pedestrian. Lifelong environmentalist and social justice activist. Currently severely disabled, but active on citizen boards and commissions with Metro and City of Beaverton. Former Co-Chair of Unite Oregon Washington County Leadership Council.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Beaverton",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Media||Celebration, Ceremony, Nature and Spirit||Climate Activism||Documentation, Cascadia Spoke + Bundle||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Transportation",
+      "website": "@lucwinterwolf (twitter, insta) lucwinterwolf.bsky.social (blue sky)",
+      "linkedin": "Muni Kalenandi",
       "Image": "",
       "type": "Person"
     }
