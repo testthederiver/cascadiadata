@@ -1313,6 +1313,12 @@
       "from": "wpf65467923a47887.05968362",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "3862063363005616696",
+      "from": "wpf65468d3db75fd2.62140189",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4813,6 +4819,25 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65468d3db75fd2.62140189",
+      "label": "Gertie Jocksch",
+      "email": "gajocksch@gmail.com",
+      "area": "Victoria",
+      "bio": "I facilitate Programs in Earth Literacies.  We take our vision from Thomas Berry.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Victoria",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||First Nation Landback, Partnership and Sovereignty||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "earthliteracies.org",
+      "linkedin": "earthliteracies.org",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Gertie-2425x7-e295a1b396bb02882418f4fee5f6dd09.jpg"
+      ],
       "type": "Person"
     }
   ]
