@@ -1199,6 +1199,12 @@
       "from": "wpf65459bd0bfb621.65986758",
       "to": "place_city_washington_porttownsend",
       "type": "Location"
+    },
+    {
+      "id": "9136651715533113862",
+      "from": "wpf6545ac64c02d33.04596232",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4381,6 +4387,23 @@
       "city_BC": "",
       "where": "",
       "interests": "Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545ac64c02d33.04596232",
+      "label": "Jenna Hiott",
+      "email": "jennahiott@gmail.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "New Mexico",
+      "interests": "",
       "website": "",
       "linkedin": "",
       "Image": "",
