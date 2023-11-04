@@ -1175,6 +1175,12 @@
       "from": "wpf654590c7cc1837.06601299",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "-6452202108652250175",
+      "from": "wpf6545950b950132.38233624",
+      "to": "place_city_washington_aberdeen",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4289,6 +4295,23 @@
       "city_BC": "",
       "where": "",
       "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||First Nation Landback, Partnership and Sovereignty||Transportation",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545950b950132.38233624",
+      "label": "Leila Jerene",
+      "email": "beyondwords@whidbey.com",
+      "area": "Whidbey Island",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Aberdeen",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Equity and Social Justice||Water Stewardship",
       "website": "",
       "linkedin": "",
       "Image": "",
