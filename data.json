@@ -1253,6 +1253,12 @@
       "from": "wpf65464d6c27af10.53153900",
       "to": "place_city_washington_aberdeen",
       "type": "Location"
+    },
+    {
+      "id": "-4530660965127780021",
+      "from": "wpf654660a5e7eea4.75103969",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4600,6 +4606,25 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/burn-IMG_2568-5cf8249bf7e5f5619b5075ca61e1a76e-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654660a5e7eea4.75103969",
+      "label": "Diane Dew Dew",
+      "email": "diane@dianedewphotography.com",
+      "area": "Not in the Area",
+      "bio": "I am a nonprofit worker, parent, intentional community member. I'm dismayed by the direction the US is going, and their complete inaction around climate change.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "California",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Mapping||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Local, Circular &amp; Zero Waste Economies",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/2023-07-Ecotopia-Ernest-Callenbach-f8a1e5a934a8339fbabc856724547fae.jpg"
       ],
       "type": "Person"
     }
