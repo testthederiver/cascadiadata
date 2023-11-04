@@ -1337,6 +1337,12 @@
       "from": "wpf654695876d5607.53537363",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-6415775231044585042",
+      "from": "wpf6546953c28f232.26828899",
+      "to": "place_city_washington_anacortes",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4908,6 +4914,27 @@
       "linkedin": "Look me up",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20230805_154417-fa4b94ece4961893c3dfe204db3cbca4-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6546953c28f232.26828899",
+      "label": "Laurie Sherman",
+      "email": "shermanpt@gmail.com",
+      "area": "Skagit",
+      "bio": "I serve on the board of TRANSITION FIDALGO. WE are part of the Salish Sea Hub and work to build community resilience through leading projects focused on enrolling community and building self reliance here on our island. Our projects include: Seed Share library, locally grown open pollinated heritage varieties of seed. Fix it Days to build a repair and restore economy. Forest Monitoring to measure the changes caused by climate change in our local forest lands.  Garden to Kitchen class at our middle school. Mentoring the high school Green Club.  Share the Bounty organizing local farmers to serve the community with fresh harvested organic food at give away stations.",
+      "stateorprov": "Washington",
+      "city_wa": "Anacortes",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Permaculture, Regen Ag &amp; Food Systems",
+      "work": "I co lead the Garden to Kitchen Class at the Anacortes Middle School. This is an all year round program; the students plant, maintain, harvest, cook and eat their garden. IN the summer it supplies food for the Share the Bounty Boxes in our community-free organic food for those in need and enrolls local farmers to share their bounty as well. This program is volunteer led and supported. Funds to support it have been sourced from local grant programs and Anacortes Schools Foundation.\r\n\r\n&nbsp;",
+      "website": "transitionfidalgo.org",
+      "linkedin": "",
+      "statement": "WE are all working on similar objectives independently of each other. WE need a way to become more collaborative and therefore more successful in our approaches.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/selfie-laurie-bd4086e4cc80fda342de47b74f722e84-rotated.jpeg"
       ],
       "type": "Person"
     }
