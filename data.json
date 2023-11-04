@@ -1181,6 +1181,12 @@
       "from": "wpf6545950b950132.38233624",
       "to": "place_city_washington_aberdeen",
       "type": "Location"
+    },
+    {
+      "id": "-3629431989819034731",
+      "from": "wpf6545990bf25596.17331348",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4312,6 +4318,23 @@
       "city_BC": "",
       "where": "",
       "interests": "Affordable Homes, Green Building &amp; Real Estate||Equity and Social Justice||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545990bf25596.17331348",
+      "label": "Alberta Pedroja",
+      "email": "apedroja@gmail.com",
+      "area": "Eugene",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Climate Activism",
       "website": "",
       "linkedin": "",
       "Image": "",
