@@ -1217,6 +1217,12 @@
       "from": "wpf6545c8eb171e54.68494319",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "5125971424491638891",
+      "from": "wpf6545d1802c9125.57645234",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4450,6 +4456,23 @@
       "city_BC": "",
       "where": "Humboldt County, CA",
       "interests": "Celebration, Ceremony, Nature and Spirit||Climate Activism||First Nation Landback, Partnership and Sovereignty||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545d1802c9125.57645234",
+      "label": "Denise Henrikson",
+      "email": "denise.henrikson@gmail.com",
+      "area": "Seattle",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Emergency Response and Mutual Aid||Equity and Social Justice",
       "website": "",
       "linkedin": "",
       "Image": "",
