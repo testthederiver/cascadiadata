@@ -1109,6 +1109,12 @@
       "from": "wpf654585be4491f5.98295886",
       "to": "place_city_washington_sedro-woolley",
       "type": "Location"
+    },
+    {
+      "id": "-4414602683583340438",
+      "from": "wpf654585072f5683.77684040",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4057,6 +4063,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20231022_153738-dc2fe8d8eb5add9c138679b98537a40f-scaled.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654585072f5683.77684040",
+      "label": "Margo Martinez",
+      "email": "margo.martinez@gmail.com",
+      "area": "Bellingham",
+      "bio": "I am an Education and Earth advocate. At this point in my learning journey I am trying to better understand how to live in harmony with nature, learning from others who have been on that journey longer than I have. I also have a background in technology and organization. I am passionate about the ocean as well and have volunteered for ocean education programs. I am also passionate about the arts as a beginner musician and volunteer in several arts related projects and non profits.",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Emergency Response and Mutual Aid||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Regenerative Finance &amp; Fundraising||Water Stewardship",
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/margo-martinez/",
+      "Image": "",
       "type": "Person"
     }
   ]
