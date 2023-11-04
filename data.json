@@ -1241,6 +1241,12 @@
       "from": "wpf654648012bfd33.15472032",
       "to": "place_city_washington_anacortes",
       "type": "Location"
+    },
+    {
+      "id": "-1344771765365043996",
+      "from": "wpf65464d6c27af10.53153900",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4553,6 +4559,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/hammer-and-chisel-4929293f463689b38263f8cece09020c-scaled.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65464d6c27af10.53153900",
+      "label": "Martin Kirk",
+      "email": "martin372@gmail.com",
+      "area": "Not in the Area",
+      "bio": "I am interested in bio regional regeneration globally",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "New York",
+      "interests": "Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Celebration, Ceremony, Nature and Spirit||First Nation Landback, Partnership and Sovereignty||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
