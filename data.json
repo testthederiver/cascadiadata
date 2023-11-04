@@ -1193,6 +1193,12 @@
       "from": "wpf6545990bf25596.17331348",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "-6071565413071156306",
+      "from": "wpf65459bd0bfb621.65986758",
+      "to": "place_city_washington_porttownsend",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4359,6 +4365,23 @@
       "where": "",
       "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
       "website": "https://www.backpocketconfidante.com/",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65459bd0bfb621.65986758",
+      "label": "Katherine Baril",
+      "email": "lkatherinebaril@gmail.com",
+      "area": "Port Townsend",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Port Townsend",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit",
+      "website": "",
       "linkedin": "",
       "Image": "",
       "type": "Person"
