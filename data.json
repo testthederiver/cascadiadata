@@ -1151,6 +1151,12 @@
       "from": "wpf65458d5e343022.29229530",
       "to": "place_city_washington_bainbridgeisland",
       "type": "Location"
+    },
+    {
+      "id": "-3125604650296433567",
+      "from": "wpf65458be43e3b27.53027766",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4201,6 +4207,23 @@
       "id": "place_city_washington_bainbridgeisland",
       "label": "Bainbridge Island, Washington",
       "type": "Place"
+    },
+    {
+      "id": "wpf65458be43e3b27.53027766",
+      "label": "Susan Haddon",
+      "email": "susan.haddon2@gmail.com",
+      "area": "Victoria",
+      "bio": "Grandparent interested in how I and others can come together to preserve, restore, and advocate for protection of our natural world in all aspects",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Victoria",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Climate Activism||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
     }
   ]
 }
