@@ -1259,6 +1259,12 @@
       "from": "wpf654660a5e7eea4.75103969",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "7067195067625895585",
+      "from": "wpf65466329ecf555.18597102",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4625,6 +4631,25 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/2023-07-Ecotopia-Ernest-Callenbach-f8a1e5a934a8339fbabc856724547fae.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65466329ecf555.18597102",
+      "label": "Val Murray",
+      "email": "valmail@telus.net",
+      "area": "Victoria",
+      "bio": "Born in the West End of Vancouver in 1948, at home with cedar, squirrel, ocean air and pea soup fogs, walking everywhere with my grandmother, my bones are steeped in West Coast essence.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Victoria",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/P1010078-e0b4a626e4db48e50719cbde8f6781e0.jpeg"
       ],
       "type": "Person"
     }
