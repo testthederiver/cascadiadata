@@ -1271,6 +1271,12 @@
       "from": "wpf6546690cdca2f4.08200224",
       "to": "place_city_washington_aberdeen",
       "type": "Location"
+    },
+    {
+      "id": "-5212076581806150178",
+      "from": "wpf6546704a9dea92.23570296",
+      "to": "place_city_washington_anacortes",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4671,6 +4677,23 @@
       "city_BC": "",
       "where": "",
       "interests": "",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6546704a9dea92.23570296",
+      "label": "DAVID GEIST",
+      "email": "davidcharlesgeist@gmail.com",
+      "area": "Skagit",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Anacortes",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Media||Permaculture, Regen Ag &amp; Food Systems",
       "website": "",
       "linkedin": "",
       "Image": "",
