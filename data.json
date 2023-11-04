@@ -1187,6 +1187,12 @@
       "from": "wpf6545990bf25596.17331348",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "5555084245649245648",
+      "from": "wpf6545990bf25596.17331348",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4336,6 +4342,23 @@
       "where": "",
       "interests": "Bioregional Education &amp; Learning Centers||Climate Activism",
       "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545990bf25596.17331348",
+      "label": "amy painter",
+      "email": "amylpainter@yahoo.com",
+      "area": "Bellingham",
+      "bio": "I am a transplant from the east coast, and couldn't be more delighted to call the PNW home. I have always loved farms, plants, nature, and animals of all kinds. I'd like to learn as much about regenerative agricultural practices as I can, and hope to own a farm/animal rescue/sanctuary one day. Also available to volunteer to help someone with their land/practices and to learn.",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "https://www.backpocketconfidante.com/",
       "linkedin": "",
       "Image": "",
       "type": "Person"
