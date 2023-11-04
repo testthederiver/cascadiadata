@@ -1157,6 +1157,12 @@
       "from": "wpf65458be43e3b27.53027766",
       "to": "place_city_britishcolumbia_victoria",
       "type": "Location"
+    },
+    {
+      "id": "-6577793602016227488",
+      "from": "wpf65458f3f6db9f4.55193345",
+      "to": "place_city_washington_bellingham",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4220,6 +4226,23 @@
       "city_BC": "Victoria",
       "where": "",
       "interests": "Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Climate Activism||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65458f3f6db9f4.55193345",
+      "label": "Peg Hope Hope",
+      "email": "phope@springstreet.org",
+      "area": "Salish Sea",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "",
       "website": "",
       "linkedin": "",
       "Image": "",
