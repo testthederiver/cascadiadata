@@ -1319,6 +1319,12 @@
       "from": "wpf65468d3db75fd2.62140189",
       "to": "place_city_britishcolumbia_victoria",
       "type": "Location"
+    },
+    {
+      "id": "1999129210030936701",
+      "from": "wpf65468ffa15e121.91214453",
+      "to": "place_city_oregon_eugene",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4838,6 +4844,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Gertie-2425x7-e295a1b396bb02882418f4fee5f6dd09.jpg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65468ffa15e121.91214453",
+      "label": "John Linkhart",
+      "email": "linkhartjohn3@gmail.com",
+      "area": "Eugene",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Eugene",
+      "city_BC": "",
+      "where": "",
+      "interests": "",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
