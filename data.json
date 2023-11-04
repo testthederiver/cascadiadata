@@ -1211,6 +1211,12 @@
       "from": "wpf6545b10fb80364.72765815",
       "to": "place_city_oregon_ashland",
       "type": "Location"
+    },
+    {
+      "id": "5685697331959718863",
+      "from": "wpf6545c8eb171e54.68494319",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4429,6 +4435,23 @@
       "interests": "Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Climate Activism||Documentation, Cascadia Spoke + Bundle||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Transportation||Water Stewardship",
       "website": "",
       "linkedin": "https://www.linkedin.com/in/christinebrautigam",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6545c8eb171e54.68494319",
+      "label": "Ryan Van Lenning",
+      "email": "ryan@wildnatureheart.com",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Humboldt County, CA",
+      "interests": "Celebration, Ceremony, Nature and Spirit||Climate Activism||First Nation Landback, Partnership and Sovereignty||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "",
+      "linkedin": "",
       "Image": "",
       "type": "Person"
     }
