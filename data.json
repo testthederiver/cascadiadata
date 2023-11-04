@@ -1247,6 +1247,12 @@
       "from": "wpf65464d6c27af10.53153900",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-1344771765365043996",
+      "from": "wpf65464d6c27af10.53153900",
+      "to": "place_city_washington_aberdeen",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4576,6 +4582,25 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65464d6c27af10.53153900",
+      "label": "Riki Ott",
+      "email": "rikiott@gmail.com",
+      "area": "Vashon",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Aberdeen",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Equity and Social Justice||Governance||Water Stewardship",
+      "website": "www.ultimatecivics.org, www.alertproject.org",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/burn-IMG_2568-5cf8249bf7e5f5619b5075ca61e1a76e-scaled.jpg"
+      ],
       "type": "Person"
     }
   ]
