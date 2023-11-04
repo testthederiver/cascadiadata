@@ -1325,6 +1325,12 @@
       "from": "wpf65468ffa15e121.91214453",
       "to": "place_city_oregon_eugene",
       "type": "Location"
+    },
+    {
+      "id": "5622306995431741614",
+      "from": "wpf6546980e5ede48.02947476",
+      "to": "place_city_washington_mountvernon",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4859,6 +4865,23 @@
       "where": "",
       "interests": "",
       "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6546980e5ede48.02947476",
+      "label": "Aviathar PEMBERTON",
+      "email": "aviathar@gmail.com",
+      "area": "Skagit",
+      "bio": "My name is Aviathar and I am an \"institutionalized communitarian\" . This means that I have lived in different community systems over a 45 year period. ( Im 69).  I am presently the president of The Evergreen Land trust listed below. We have five urban properties and three rural ones.  This includes Prag Farm 20 acres in Snohomish county( A vital part of the Tilth movement), River Farm 65 plus acres in Whatcom county, and my home Walker creek in Skagit county.  Looking forward to seeing the direction this movement goes.\r\nAviathar Pemberton",
+      "stateorprov": "Washington",
+      "city_wa": "Mount Vernon",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Governance",
+      "website": "https://www.evergreenlandtrust.org/",
       "linkedin": "",
       "Image": "",
       "type": "Person"
