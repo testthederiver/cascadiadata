@@ -1265,6 +1265,12 @@
       "from": "wpf65466329ecf555.18597102",
       "to": "place_city_britishcolumbia_victoria",
       "type": "Location"
+    },
+    {
+      "id": "-4579845750658969842",
+      "from": "wpf6546690cdca2f4.08200224",
+      "to": "place_city_washington_aberdeen",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4651,6 +4657,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/P1010078-e0b4a626e4db48e50719cbde8f6781e0.jpeg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6546690cdca2f4.08200224",
+      "label": "David Haskell",
+      "email": "davidhaskell89@yahoo.com",
+      "area": "Whidbey Island",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Aberdeen",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
