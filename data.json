@@ -1223,6 +1223,12 @@
       "from": "wpf6545d1802c9125.57645234",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "-2010957403335397106",
+      "from": "wpf6546136672fd05.56126053",
+      "to": "place_city_washington_mountvernon",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4476,6 +4482,25 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf6546136672fd05.56126053",
+      "label": "Sarah Finkbeiner",
+      "email": "finkybee@gmail.com",
+      "area": "Skagit",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Mount Vernon",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Climate Activism||Documentation, Cascadia Spoke + Bundle||Emergency Response and Mutual Aid||Equity and Social Justice||Forest Restoration||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_4010-000baa8d7c54ee2284bf64d6a8413f5a-scaled.jpeg"
+      ],
       "type": "Person"
     }
   ]
