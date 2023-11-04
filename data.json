@@ -1331,6 +1331,12 @@
       "from": "wpf6546980e5ede48.02947476",
       "to": "place_city_washington_mountvernon",
       "type": "Location"
+    },
+    {
+      "id": "5832224588304765821",
+      "from": "wpf654695876d5607.53537363",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4884,6 +4890,25 @@
       "website": "https://www.evergreenlandtrust.org/",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654695876d5607.53537363",
+      "label": "Rita Marsh",
+      "email": "ritaecm@hotmail.com",
+      "area": "Not in the Area",
+      "bio": "Retired FNP  co founder The Center for Human Flourishing carbondale co \r\nResident of Roaring Fork Valley watershed since 1965. Bioregional fanatic since meeting Joe Brewer November 2022",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Colorado",
+      "interests": "Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "Https://thecenterforhumanflourishing.org",
+      "linkedin": "Look me up",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20230805_154417-fa4b94ece4961893c3dfe204db3cbca4-scaled.jpg"
+      ],
       "type": "Person"
     }
   ]
