@@ -1307,6 +1307,12 @@
       "from": "wpf65467923a47887.05968362",
       "to": "place_city_oregon_coquille",
       "type": "Location"
+    },
+    {
+      "id": "6929359282671385717",
+      "from": "wpf65467923a47887.05968362",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4791,6 +4797,23 @@
       "id": "place_city_oregon_coquille",
       "label": "Coquille, Oregon",
       "type": "Place"
+    },
+    {
+      "id": "wpf65467923a47887.05968362",
+      "label": "Barbee Seiser",
+      "email": "bbseiser@frontiernet.net",
+      "area": "Not in the Area",
+      "bio": "",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Redding, CA",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Equity and Social Justice||Forest Restoration||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
     }
   ]
 }
