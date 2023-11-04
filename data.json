@@ -1103,6 +1103,12 @@
       "from": "wpf654585b0985001.67280331",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "7363164768402518869",
+      "from": "wpf654585be4491f5.98295886",
+      "to": "place_city_washington_sedro-woolley",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4029,6 +4035,27 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_20230809_143229_878-dd0c71d25e296511f8c0dfb57d43eb6b.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654585be4491f5.98295886",
+      "label": "Cindy Bjorklund",
+      "email": "cindy.bjorklund@gmail.com",
+      "area": "Skagit",
+      "bio": "Retired retired park ranger naturalist master gardener regional ecotourism expert.\r\nOwns and operates Childs Creek farm arts and ecology gardens. Planted and maintained Skagit County's first conservation reserve enhancement project started  along Childs creek in the middle Skagit Valley. 1999...much more support for local conservation organizations and community.",
+      "stateorprov": "Washington",
+      "city_wa": "Sedro-Woolley",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20231022_153738-dc2fe8d8eb5add9c138679b98537a40f-scaled.jpg"
       ],
       "type": "Person"
     }
