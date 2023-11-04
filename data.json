@@ -1295,6 +1295,18 @@
       "from": "wpf65467923a47887.05968362",
       "to": "place_city_oregon_portland",
       "type": "Location"
+    },
+    {
+      "id": "Coquille, Oregon",
+      "from": "place_city_oregon_coquille",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "-7441238671927699319",
+      "from": "wpf65467923a47887.05968362",
+      "to": "place_city_oregon_coquille",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4757,6 +4769,28 @@
       "linkedin": "",
       "Image": "",
       "type": "Person"
+    },
+    {
+      "id": "wpf65467923a47887.05968362",
+      "label": "Alexa Bernard Bernard",
+      "email": "permacamper@gmail.com",
+      "area": "Eugene",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Coquille",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Mapping||Emergency Response and Mutual Aid||Equity and Social Justice||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "",
+      "linkedin": "Alexa Bernard",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_coquille",
+      "label": "Coquille, Oregon",
+      "type": "Place"
     }
   ]
 }
