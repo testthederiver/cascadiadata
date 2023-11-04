@@ -1289,6 +1289,12 @@
       "from": "wpf6546704a9dea92.23570296",
       "to": "place_city_britishcolumbia_whiterock",
       "type": "Location"
+    },
+    {
+      "id": "-7441238671927699319",
+      "from": "wpf65467923a47887.05968362",
+      "to": "place_city_oregon_portland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4734,6 +4740,23 @@
       "id": "place_city_britishcolumbia_whiterock",
       "label": "White Rock, British Columbia",
       "type": "Place"
+    },
+    {
+      "id": "wpf65467923a47887.05968362",
+      "label": "Teala Smith",
+      "email": "missteala@gmail.com",
+      "area": "Portland",
+      "bio": "",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Portland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Equity and Social Justice||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
     }
   ]
 }
