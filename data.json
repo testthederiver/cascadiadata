@@ -1115,6 +1115,12 @@
       "from": "wpf654585072f5683.77684040",
       "to": "place_city_washington_bellingham",
       "type": "Location"
+    },
+    {
+      "id": "-5427713726387039689",
+      "from": "wpf65458a7a71aa87.61905470",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -4080,6 +4086,25 @@
       "website": "",
       "linkedin": "https://www.linkedin.com/in/margo-martinez/",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65458a7a71aa87.61905470",
+      "label": "K Forrayi",
+      "email": "kforrayi@gmail.com",
+      "area": "Seattle",
+      "bio": "I am a teacher and student, lifelong Cascadia resident and mother of two.",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising",
+      "website": "Orangeteaschool.com",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20231103_154851-4346b77c6dffe74786ffe1c773058b31-scaled.jpg"
+      ],
       "type": "Person"
     }
   ]
