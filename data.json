@@ -1427,6 +1427,12 @@
       "from": "wpf6547cbf02b1879.06983885",
       "to": "place_city_britishcolumbia_pender",
       "type": "Location"
+    },
+    {
+      "id": "122471659723532385",
+      "from": "wpf6547c2ed4e1992.23018655",
+      "to": "place_city_washington_porttownsend",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5233,6 +5239,27 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Hand-3-6fca7e68068ad60302fe1d1de5e95401.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6547c2ed4e1992.23018655",
+      "label": "Rose Madrone",
+      "email": "madrone@tidepool.com",
+      "area": "Port Townsend",
+      "bio": "Working at the intersection of community building, filmmaking, sustainability, and education,\u00a0Rose has created some effective tools with which to reinforce the importance of understanding how interconnected our world really is. Her film series of shorts, Connectivity Project,  weaves together voice such as Fritjof Capra, Indigenous Wisdom Keepers, scientists, activists, and much more, empowering an understanding that our actions indeed make a huge difference in the world. Along with curricula that accompanies this work, schools and focus groups from 5th grade through adulthood have benefited from the conversations that are sparked by the this deeper way of understanding. \r\nShe is seeking ways for these films to be useful in the world, so please reach out if you want to learn more.\r\nYou can see the trailers on the website. \r\n\r\nWith a background in Botany, Herbal Medicine and sustainability, a sense of place has always been forefront, informing her actions. She has taken that sense of place and the importance of understanding how our actions impact others, and created tools to inspire awe, interconnections and a sense of responsibility.",
+      "stateorprov": "Washington",
+      "city_wa": "Port Townsend",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Climate Activism||Equity and Social Justice||Permaculture, Regen Ag &amp; Food Systems",
+      "work": "Along with the work of the films and accompanying curricula, I have a wonderful packet of effective tools to offer to whomever is interested, for ways that organizations,\u00a0villages and cities all around our bioregion can connect more deeply. In my local community of Port Townsend a cadre of dedicated leaders from local organizations came together and created a Connectivity Fair that was wildly successful in bringing our community together to be even more aligned with itself to be able to go deeper in working together and effect the changes that we want to impact in our region. We brought hundreds of people together for a one day event, to connect and learn and be inspired by the work that is already happening in our community as well as the ability to find out more about where you could go to plug in to be even more connected and engaged. As we know, when we feel connected, it encourages a desire to act in a more effective manner, building stronger ties in order to be able to work together. \u00a0I'd love to share this info with any of you who might like to learn from and emulate what we did in your communities, we already did a lot of the hard work and would love to share some of this info with you free of charge, so don't have to reinvent the wheel. We want to encourage deeper connections where you live too. After all, when other places in our bioregion are healthy, whole and well connected, then we are too. Please reach out with your interest and I'd be happy \u00a0to share this work with you. Please reach out to me at madrone@tidepool.com\r\n\r\nAlong with this previous information, I am currently working with United Earth Networks (UEN), who hosted the Regenerate Cascadia Bioregional Tour\u00a0here at Fort Worden. We are committed to help raise awareness and provide effective ways for our community to be empowered to move to a more sustainable and regenerative community, locally and bioregionally.\r\n\r\n&nbsp;",
+      "website": "www.connectivityproject.com",
+      "linkedin": "linkedin.com/in/rose-madrone-86314270",
+      "statement": "After all, when other places in our bioregion are healthy, whole and well connected, then we are too. Please connect with me if you'd like to learn more about the free materials for how to produce and fun and useful Connectivity Fair in your area.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Rose-w-hat-sm-file-0eba1ef562f6af27b406a16fe018b48a-scaled.jpg"
       ],
       "type": "Person"
     }
