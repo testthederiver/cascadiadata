@@ -1403,6 +1403,18 @@
       "from": "wpf6547b3f6ad2f91.15479196",
       "to": "place_city_washington_oakharbor",
       "type": "Location"
+    },
+    {
+      "id": "Nanaimo, British Columbia",
+      "from": "place_city_britishcolumbia_nanaimo",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "-8541947129096581287",
+      "from": "wpf6547c64554ba61.05162530",
+      "to": "place_city_britishcolumbia_nanaimo",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5150,6 +5162,28 @@
     {
       "id": "place_city_washington_oakharbor",
       "label": "Oak Harbor, Washington",
+      "type": "Place"
+    },
+    {
+      "id": "wpf6547c64554ba61.05162530",
+      "label": "Guy Prouty",
+      "email": "guyprouty@gmail.com",
+      "area": "Salish Sea",
+      "bio": "I am a member of the Prout Institute located in Eugene, Oregon and a yogic meditation teacher (acharya) for Ananda Seva (www.anandaseva.org).",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Nanaimo",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Bioregional Media||Celebration, Ceremony, Nature and Spirit||Climate Activism||Equity and Social Justice||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "www.proutinstitute.org",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_nanaimo",
+      "label": "Nanaimo, British Columbia",
       "type": "Place"
     }
   ]
