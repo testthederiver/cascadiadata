@@ -1391,6 +1391,18 @@
       "from": "wpf65470e1c41e264.40506700",
       "to": "place_city_washington_olympia",
       "type": "Organization To Place"
+    },
+    {
+      "id": "Oak Harbor, Washington",
+      "from": "place_city_washington_oakharbor",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "1141837677339040785",
+      "from": "wpf6547b3f6ad2f91.15479196",
+      "to": "place_city_washington_oakharbor",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5117,6 +5129,28 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/317-11024_2-8f6c5253ce8a7e3f3d75dccf2e44bdbf.jpg"
       ],
       "type": "Organization"
+    },
+    {
+      "id": "wpf6547b3f6ad2f91.15479196",
+      "label": "Fritz Hull",
+      "email": "fritz@whidbeyinstitute.org",
+      "area": "Whidbey Island",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Oak Harbor",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Forest Restoration",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_washington_oakharbor",
+      "label": "Oak Harbor, Washington",
+      "type": "Place"
     }
   ]
 }
