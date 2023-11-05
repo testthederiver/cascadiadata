@@ -1415,6 +1415,12 @@
       "from": "wpf6547c64554ba61.05162530",
       "to": "place_city_britishcolumbia_nanaimo",
       "type": "Location"
+    },
+    {
+      "id": "-7321451620474488526",
+      "from": "wpf6547c6a0b79259.65369652",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5185,6 +5191,25 @@
       "id": "place_city_britishcolumbia_nanaimo",
       "label": "Nanaimo, British Columbia",
       "type": "Place"
+    },
+    {
+      "id": "wpf6547c6a0b79259.65369652",
+      "label": "Amber Kennedy",
+      "email": "akennedy4@mail.coloradomtn.edu",
+      "area": "Not in the Area",
+      "bio": "I am a student of environmental stewardship and striving everyday to learn more about how I can be a part of the movement to search for our place as humans beside the animals that have occupied Earth far longer then we have. I enjoy envisioning a future that utilizes modern technology and embraces the natural world in such a way that it builds our character to become stewards, seek peace within our culture to minimize economical gain and focus on internal development.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "Colorado",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Equity and Social Justice||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Transportation||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_0953-5b1c33cfb2c6e45bd0b3cb4b8fda3514.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
