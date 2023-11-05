@@ -1385,6 +1385,12 @@
       "from": "wpf65470aa0ec1312.14710970",
       "to": "place_city_washington_porttownsend",
       "type": "Location"
+    },
+    {
+      "id": "-2951585667404944797",
+      "from": "wpf65470e1c41e264.40506700",
+      "to": "place_city_washington_olympia",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -5092,6 +5098,25 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/317-11024_2-82cda145365d8c93aa7571e4a56895c8.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "label": "White Lotus Farm & Inn",
+      "id": "wpf65470e1c41e264.40506700",
+      "description": "White Lotus Farm & Inn is a collaborative, diverse, integrated regenerative farm, bakery, farm stay, venue, budding education center, and home.",
+      "org_type": "Community / Digital||A Physical Learning Site||Business",
+      "presenting": "No thanks",
+      "located_on_tour": "Port Townsend",
+      "stateorprov": "Washington",
+      "city_wa": "Olympia",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "www.whitelotusfarmandinn.com",
+      "importence": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/317-11024_2-8f6c5253ce8a7e3f3d75dccf2e44bdbf.jpg"
+      ],
+      "type": "Organization"
     }
   ]
 }
