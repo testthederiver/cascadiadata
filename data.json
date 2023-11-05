@@ -1373,6 +1373,12 @@
       "from": "wpf6546d69a3f0916.66907881",
       "to": "place_city_britishcolumbia_newwestminster",
       "type": "Location"
+    },
+    {
+      "id": "-3290658798707118625",
+      "from": "wpf6546eb858b3894.62642275",
+      "to": "place_city_britishcolumbia_duncan",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5042,6 +5048,23 @@
       "id": "place_city_britishcolumbia_newwestminster",
       "label": "New Westminster, British Columbia",
       "type": "Place"
+    },
+    {
+      "id": "wpf6546eb858b3894.62642275",
+      "label": "Jennifer Shepherd",
+      "email": "jshepherd@uvic.ca",
+      "area": "Victoria",
+      "bio": "",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Duncan",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Being a part of a Watershed Team||Celebration, Ceremony, Nature and Spirit||Water Stewardship",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
     }
   ]
 }
