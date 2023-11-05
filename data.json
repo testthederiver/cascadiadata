@@ -1421,6 +1421,12 @@
       "from": "wpf6547c6a0b79259.65369652",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "4279007279521983038",
+      "from": "wpf6547cbf02b1879.06983885",
+      "to": "place_city_britishcolumbia_pender",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5208,6 +5214,25 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_0953-5b1c33cfb2c6e45bd0b3cb4b8fda3514.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6547cbf02b1879.06983885",
+      "label": "Roland Maurice",
+      "email": "rolandmaurice@yahoo.ca",
+      "area": "Victoria",
+      "bio": "",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Pender",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Celebration, Ceremony, Nature and Spirit||Climate Activism||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Transportation||Water Stewardship",
+      "website": "lifeboat.academy, https://www.facebook.com/TheLifeboatAcademy",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Hand-3-6fca7e68068ad60302fe1d1de5e95401.jpg"
       ],
       "type": "Person"
     }
