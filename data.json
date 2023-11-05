@@ -1361,6 +1361,18 @@
       "from": "wpf6546c6920cc347.50875750",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "New Westminster, British Columbia",
+      "from": "place_city_britishcolumbia_newwestminster",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "-633400950052440741",
+      "from": "wpf6546d69a3f0916.66907881",
+      "to": "place_city_britishcolumbia_newwestminster",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5008,6 +5020,28 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/23D39911-3713-4DB5-A301-DF0BA3DD4AD8-52b76b4d2ffcbdb7e37a172db2ee852e.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf6546d69a3f0916.66907881",
+      "label": "Virginia Ayers",
+      "email": "ginnyayers@hotmail.com",
+      "area": "Vancouver",
+      "bio": "Elder, lived on an island without electricity 14 years; returned to urban life to be near grown children and to advocate for permaculture and regeneration of ecosystems",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "New Westminster",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||First Nation Landback, Partnership and Sovereignty||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "fb - Virginia Ginny Ayers, manage rb page - New Westminster Environmental Partners",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_newwestminster",
+      "label": "New Westminster, British Columbia",
+      "type": "Place"
     }
   ]
 }
