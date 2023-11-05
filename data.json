@@ -1379,6 +1379,12 @@
       "from": "wpf6546eb858b3894.62642275",
       "to": "place_city_britishcolumbia_duncan",
       "type": "Location"
+    },
+    {
+      "id": "-6222018404389121894",
+      "from": "wpf65470aa0ec1312.14710970",
+      "to": "place_city_washington_porttownsend",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5064,6 +5070,27 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf65470aa0ec1312.14710970",
+      "label": "Niall Motson",
+      "email": "nsmotson@gmail.com",
+      "area": "Port Townsend",
+      "bio": "Co-steward of White Lotus Farm & Inn, nestled at the headwaters of Ludlow and Chimacum creeks at the heart of Beaver Valley in Chimacum, WA. Land, water, perennial and animal caretaker, place based educator, connective event coordinator, farm stay host, regional networker and weaver.",
+      "stateorprov": "Washington",
+      "city_wa": "Port Townsend",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||Emergency Response and Mutual Aid||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Water Stewardship",
+      "work": "",
+      "website": "www.whitelotusfarmandinn.com",
+      "linkedin": "",
+      "statement": "<blockquote>&nbsp;</blockquote>",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/317-11024_2-82cda145365d8c93aa7571e4a56895c8.jpg"
+      ],
       "type": "Person"
     }
   ]
