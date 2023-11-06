@@ -1433,6 +1433,12 @@
       "from": "wpf6547c2ed4e1992.23018655",
       "to": "place_city_washington_porttownsend",
       "type": "Location"
+    },
+    {
+      "id": "9205419334028760907",
+      "from": "wpf6547c2ed4e1992.23018655",
+      "to": "place_city_washington_mountvernon",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5260,6 +5266,27 @@
       "statement": "After all, when other places in our bioregion are healthy, whole and well connected, then we are too. Please connect with me if you'd like to learn more about the free materials for how to produce and fun and useful Connectivity Fair in your area.",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Rose-w-hat-sm-file-0eba1ef562f6af27b406a16fe018b48a-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6547c2ed4e1992.23018655",
+      "label": "Cory Sevin",
+      "email": "corybsevin@gmail.com",
+      "area": "Skagit",
+      "bio": "I am \"retired\" from a 45 year career in healthcare.  A nursing background was a foundation for finding and creating new ways to provide healthcare to teens, migrant families, individuals, families and communities; and new ways to provide care that were generative and life giving to those giving and recieving the care.  A desire to help create environments where all can thrive-not just select few-was and is a directional force in my life.  I am looking for communtiy to bring my energies, skills, and more to help craft a future that is life giving to all.",
+      "stateorprov": "Washington",
+      "city_wa": "Mount Vernon",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Climate Activism||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty",
+      "work": "I am \"retired\" from a 45 year career in healthcare. A nursing background was a foundation for finding and creating new ways to provide healthcare to teens, migrant families, individuals, families and communities; and new ways to provide care that were generative and life giving to those giving and recieving the care. A desire to help create environments where all can thrive-not just select few-was and is a directional force in my life. I am looking for communtiy to bring my energies, skills, and more to help craft a future that is life giving to all.",
+      "website": "",
+      "linkedin": "",
+      "statement": "As stated, I am looking for community to engage with and contribute.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/wws-1_17_23-small-410175535dbac95b662d2d4e17c235f6.jpg"
       ],
       "type": "Person"
     }
