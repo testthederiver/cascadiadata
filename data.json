@@ -1493,6 +1493,12 @@
       "from": "wpf6548e26c9a6780.60954767",
       "to": "place_city_other_",
       "type": "Location"
+    },
+    {
+      "id": "-3475092912647974939",
+      "from": "wpf6548f7a886f5d9.13167980",
+      "to": "place_city_britishcolumbia_victoria",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5470,6 +5476,25 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/inbound5332779896970723404-4236bc9aa69bd056403cb06e0e54f90b-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6548f7a886f5d9.13167980",
+      "label": "Arnica Ste Marie",
+      "email": "thistlewitchcollective@gmail.com",
+      "area": "Victoria",
+      "bio": "All about permaculture and local, regenerative food systems and would like to participate more in creating local (urban)  food systems that EVERYONE can participate in/have access to. Community heals \u2764\ufe0f I\u2019m also a  Reiki practitioner and healer. The collective trauma and grief everyone is experiencing on this planet right now is something I also feel called to address and be of service to help heal.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Victoria",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Being a part of a Watershed Team||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "website": "Thistlewitchcollective",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/206B3AA4-36C3-4A8F-B87F-9961DFB29861-447b8050473cafdf83c86d1b9fd70895-scaled.jpeg"
       ],
       "type": "Person"
     }
