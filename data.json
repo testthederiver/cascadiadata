@@ -1475,6 +1475,18 @@
       "from": "wpf65486fc08b36a2.06859750",
       "to": "place_city_oregon_oregoncity",
       "type": "Location"
+    },
+    {
+      "id": "Quesnel, British Columbia",
+      "from": "place_city_britishcolumbia_quesnel",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "5479952684890729144",
+      "from": "wpf6548bafb793e69.40154003",
+      "to": "place_city_britishcolumbia_quesnel",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5410,6 +5422,30 @@
     {
       "id": "place_city_oregon_oregoncity",
       "label": "Oregon City, Oregon",
+      "type": "Place"
+    },
+    {
+      "id": "wpf6548bafb793e69.40154003",
+      "label": "douglas gook",
+      "email": "gookmirth60@gmail.com",
+      "area": "Not in the Area",
+      "bio": "Third generation settler rooted in Lhatako Dene traditional territory in the Quesnel  River Watershed.\r\nNatural Selection Forestry practitioner who works to end short rotation corporate industrial fibre mining FOREVER!\r\nChaga wildcrafter, small scale biodynamic grower, mouth drum musician and hula hoop maker.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Quesnel",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Climate Activism||Equity and Social Justice||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/D1472F75-294E-4B99-AC39-A50082342509-0dc02ffbdbd1ceb167114c24f1d7dae3.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_quesnel",
+      "label": "Quesnel, British Columbia",
       "type": "Place"
     }
   ]
