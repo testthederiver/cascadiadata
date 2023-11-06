@@ -1439,6 +1439,12 @@
       "from": "wpf6547c2ed4e1992.23018655",
       "to": "place_city_washington_mountvernon",
       "type": "Location"
+    },
+    {
+      "id": "7493975197547010681",
+      "from": "wpf6548303ce38b56.08740555",
+      "to": "place_city_washington_porttownsend",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5287,6 +5293,27 @@
       "statement": "As stated, I am looking for community to engage with and contribute.",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/wws-1_17_23-small-410175535dbac95b662d2d4e17c235f6.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf6548303ce38b56.08740555",
+      "label": "Dawn Szombathy",
+      "email": "matterofnow@gmail.com",
+      "area": "Port Townsend",
+      "bio": "I'm a transplant from Austin, Texas. Happy to be here, connect with like minded folks and collaborate. Hoping to one day buy into a shared land community and establish an awesome little village with co-collaborators utilizing regenerative systems.",
+      "stateorprov": "Washington",
+      "city_wa": "Port Townsend",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Celebration, Ceremony, Nature and Spirit||Emergency Response and Mutual Aid||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "work": "Figuring that out right now as I recovery from a head injury. Have experience in graphic design and UX design. Interested in learning carpentry and natural building.",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Dawn2023-0ad7ceb04f774593ae8233b431576c6f.jpg"
       ],
       "type": "Person"
     }
