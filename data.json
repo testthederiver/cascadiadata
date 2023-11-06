@@ -1487,6 +1487,12 @@
       "from": "wpf6548bafb793e69.40154003",
       "to": "place_city_britishcolumbia_quesnel",
       "type": "Location"
+    },
+    {
+      "id": "4115103263515066825",
+      "from": "wpf6548e26c9a6780.60954767",
+      "to": "place_city_other_",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5447,6 +5453,25 @@
       "id": "place_city_britishcolumbia_quesnel",
       "label": "Quesnel, British Columbia",
       "type": "Place"
+    },
+    {
+      "id": "wpf6548e26c9a6780.60954767",
+      "label": "Youngblood Robin",
+      "email": "whitewolfclanmother@yahoo.com",
+      "area": "Not in the Area",
+      "bio": "Robin Youngblood is a Wisdom Keeper who has traveled the world sharing the perspectives,  values and wisdom of her indigenous Coastal and Inland Salish peoples.",
+      "stateorprov": "Other",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "",
+      "where": "North Carolina",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Regenerative Finance &amp; Fundraising",
+      "website": "",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/inbound5332779896970723404-4236bc9aa69bd056403cb06e0e54f90b-scaled.jpg"
+      ],
+      "type": "Person"
     }
   ]
 }
