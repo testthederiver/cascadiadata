@@ -1445,6 +1445,12 @@
       "from": "wpf6548303ce38b56.08740555",
       "to": "place_city_washington_porttownsend",
       "type": "Location"
+    },
+    {
+      "id": "-2031704071155222414",
+      "from": "wpf65483b9dea0bf1.68999809",
+      "to": "place_city_washington_bellingham",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -5316,6 +5322,25 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Dawn2023-0ad7ceb04f774593ae8233b431576c6f.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "label": "Transition Fidalgo",
+      "id": "wpf65483b9dea0bf1.68999809",
+      "description": "",
+      "org_type": "501(c)3 Nonprofit||Organization",
+      "presenting": "No thanks",
+      "located_on_tour": "Skagit",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "transitionfidalgo.org",
+      "importence": "ITs time for us to work smarter and more efficiently. \u00a0Together we can create more powerful and complete outcomes.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/selfie-laurie-78537fd39f10f76f1de4fad2d45b0389-rotated.jpeg"
+      ],
+      "type": "Organization"
     }
   ]
 }
