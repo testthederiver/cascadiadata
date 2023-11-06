@@ -1463,6 +1463,18 @@
       "from": "wpf65483fd280fc37.67507083",
       "to": "place_city_washington_auburn",
       "type": "Organization To Place"
+    },
+    {
+      "id": "Oregon City, Oregon",
+      "from": "place_city_oregon_oregoncity",
+      "to": "place_stateprov_oregon",
+      "type": "Location"
+    },
+    {
+      "id": "-6375500542496418908",
+      "from": "wpf65486fc08b36a2.06859750",
+      "to": "place_city_oregon_oregoncity",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5376,6 +5388,28 @@
     {
       "id": "place_city_washington_auburn",
       "label": "Auburn, Washington",
+      "type": "Place"
+    },
+    {
+      "id": "wpf65486fc08b36a2.06859750",
+      "label": "Mike Hamilton",
+      "email": "mphamilton@berkeley.edu",
+      "area": "Portland",
+      "bio": "Retired biological field station director and conservation technology researcher",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Oregon City",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Mapping||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "https://animalvegetablerobot.com",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "place_city_oregon_oregoncity",
+      "label": "Oregon City, Oregon",
       "type": "Place"
     }
   ]
