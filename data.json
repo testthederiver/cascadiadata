@@ -1451,6 +1451,18 @@
       "from": "wpf65483b9dea0bf1.68999809",
       "to": "place_city_washington_bellingham",
       "type": "Organization To Place"
+    },
+    {
+      "id": "Auburn, Washington",
+      "from": "place_city_washington_auburn",
+      "to": "place_stateprov_washington",
+      "type": "Location"
+    },
+    {
+      "id": "-3076134283420803900",
+      "from": "wpf65483fd280fc37.67507083",
+      "to": "place_city_washington_auburn",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -5341,6 +5353,30 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/selfie-laurie-78537fd39f10f76f1de4fad2d45b0389-rotated.jpeg"
       ],
       "type": "Organization"
+    },
+    {
+      "label": "Transition Fidalgo",
+      "id": "wpf65483fd280fc37.67507083",
+      "description": "WE began in 2006 as Beat the Heat then joined the Transition Town movement in 2011. Our focus is on building community resilience through offering projects that enroll community members to volunteer to do the projects. For last 3 years we have facilitated the Garden to Kitchen Classes at the middle school, Share the Bounty boxes spring to fall,  (provides free organic food to the community at large via donations from private gardeners and the school gardens), Forest Monitoring, part of a regional project coordinated by Dave Peterson of UW, and this year we began the Seed Share library at our public library. We just hired a part time program coordinator who we hope will find grants to support her in a full time position.  We have a board of 7 members, who drive the decision making for TF (many create and lead these projects).",
+      "org_type": "501(c)3 Nonprofit||Organization",
+      "presenting": "No thanks",
+      "located_on_tour": "Skagit",
+      "stateorprov": "Washington",
+      "city_wa": "Auburn",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "transitionfidalgo.org",
+      "importence": "We are passionate, well established and respected.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/selfie-2-jpeg-5bdddf51a918b9a89424dc831e25894b.jpeg"
+      ],
+      "type": "Organization"
+    },
+    {
+      "id": "place_city_washington_auburn",
+      "label": "Auburn, Washington",
+      "type": "Place"
     }
   ]
 }
