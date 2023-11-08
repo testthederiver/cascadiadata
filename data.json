@@ -1505,6 +1505,12 @@
       "from": "wpf654ad664edc290.31815924",
       "to": "place_city_oregon_portland",
       "type": "Location"
+    },
+    {
+      "id": "2844710520313896950",
+      "from": "wpf654bcafb9d54a4.47179624",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5521,6 +5527,23 @@
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_1081-ee4a2320f0694675bc8e5d9e57e63e3f-scaled.jpeg"
       ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654bcafb9d54a4.47179624",
+      "label": "Bridget Smith",
+      "email": "outdoor_art@yahoo.com",
+      "area": "Seattle",
+      "bio": "Professional background in building codes and design. Involvement with permaculture groups and sustainable Ballard.",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
       "type": "Person"
     }
   ]
