@@ -1499,6 +1499,12 @@
       "from": "wpf6548f7a886f5d9.13167980",
       "to": "place_city_britishcolumbia_victoria",
       "type": "Location"
+    },
+    {
+      "id": "-1274196394263967447",
+      "from": "wpf654ad664edc290.31815924",
+      "to": "place_city_oregon_portland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5495,6 +5501,25 @@
       "linkedin": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/206B3AA4-36C3-4A8F-B87F-9961DFB29861-447b8050473cafdf83c86d1b9fd70895-scaled.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654ad664edc290.31815924",
+      "label": "Debra R Giannini",
+      "email": "debra.giannini@goddard.edu",
+      "area": "Portland",
+      "bio": "Bioregional chronology: OZARKS New Destiny Federation: edited food land energy journal  \u201cSwallows\u201d /OACC  1979-84, then NABC / Turtle Island Bior Congresses since 1st\u2018.84 SONORA\r\nSoleri Associate 85-92, doc film \u201cSoleri\u2019s Cities\u201d 92  / Musician: Songs with a Sense of Place   \u201893 Settled in  CASCADIA City  Repair /Cascadia Education Project/Cascadia Planet  /Goddard College MA Health Arts & Sciences: Expressive Healing w movement, art and music  (Anna Halperin and Zuliekha dance lineage) Peter Berg was my intellectual father. I now work as a pediatric first responder in public schools, and sing, dance snd   play music as much as possible.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Portland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Media||Celebration, Ceremony, Nature and Spirit",
+      "website": "Facebook: Debra Giannini",
+      "linkedin": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_1081-ee4a2320f0694675bc8e5d9e57e63e3f-scaled.jpeg"
       ],
       "type": "Person"
     }
