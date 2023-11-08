@@ -1511,6 +1511,12 @@
       "from": "wpf654bcafb9d54a4.47179624",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "2228913906942507402",
+      "from": "wpf654bcafb9d54a4.47179624",
+      "to": "place_city_washington_seattle",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5541,6 +5547,23 @@
       "city_BC": "",
       "where": "",
       "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems",
+      "website": "",
+      "linkedin": "",
+      "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654bcafb9d54a4.47179624",
+      "label": "John Bito",
+      "email": "jwbito@protonmail.com",
+      "area": "Seattle",
+      "bio": "",
+      "stateorprov": "Washington",
+      "city_wa": "Seattle",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||Celebration, Ceremony, Nature and Spirit||Climate Activism||Emergency Response and Mutual Aid||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Helping with the Website||Transportation||Web 3, Digital Tools and Platforms",
       "website": "",
       "linkedin": "",
       "Image": "",
