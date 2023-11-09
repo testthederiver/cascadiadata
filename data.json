@@ -1535,6 +1535,12 @@
       "from": "wpf654d40e185ad31.68541821",
       "to": "place_city_washington_bellingham",
       "type": "Organization To Place"
+    },
+    {
+      "id": "-1088479303802314537",
+      "from": "wpf654d43b329b480.30736616",
+      "to": "place_city_washington_bellingham",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -5645,6 +5651,25 @@
       "importence": "We envision a future where a majority of local farmers and gardeners are saving at least some of their own seeds, with each individual playing a vital role in stewarding locally-adapted seed varieties and diversity. And run local nurseries for locally adapted trees and bushes. <a href=\"https://www.salishseed.org/memberships/\">Become a member now</a>.\r\n\r\nWe envision a future where local farmers are once again educated and skilled in the art and science of selecting, harvesting, threshing, and cleaning seed of all types of food and medicinal plants.\r\n\r\nWe envision a future where our local\u00a0<a href=\"https://www.salishseed.org/event/salish-seed-swap/\">seed swaps</a>\u00a0are no longer dependent on seeds donated by large seed companies from outside the region, and instead become vital trading posts for local growers and seed stewards.\r\n\r\nWe invite you to\u00a0<a href=\"https://www.salishseed.org/volunteer/\">join us</a>\u00a0in seeding a thriving, equitable, and sustainable local food system!",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/SSGDisplays-287205a0eb2b76646db4aeb802ec7a81.png"
+      ],
+      "type": "Organization"
+    },
+    {
+      "label": "Whatcom Permaculture",
+      "id": "wpf654d43b329b480.30736616",
+      "description": "Whatcom Permaculture\r\n\r\nA loose knit network of people and organizations interested in Permaculture moving forward and Whatcom County. How can we best showcase and implement regenerative design strategies throughout the county. Providing food, fiber, medicine, and resilient social systems while restoring the ecosystem.",
+      "org_type": "Organization",
+      "presenting": "No thanks",
+      "located_on_tour": "Bellingham",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "https://www.whatcompermaculture.com/",
+      "importence": "Whatcom Permaculture is a place where we can focus efforts to bring talented people together who have diverse skills to offer. Providing a forum that enables us to share with the wider community strategies of regenerative abundance with interwoven resilience.\r\n<h4 class=\"wp-block-heading\">Possible Functions to Stack:</h4>\r\n<ul>\r\n \t<li>Speakers bureau</li>\r\n \t<li>Workshop calendar</li>\r\n \t<li>Design services listings</li>\r\n \t<li>Design team Guilds</li>\r\n \t<li>Basic skill set information resources</li>\r\n \t<li>Networking with other groups</li>\r\n \t<li>Fundraising</li>\r\n</ul>\r\n<h4 class=\"wp-block-heading\">Notes from the first Whatcom Permaculture Meet-Up 8/29/19</h4>\r\nBullet Points from Popcorn of Ideas:\r\n\u2022 Rotating meeting locations\r\n\u2022 Smaller groups\r\n\u2022 Individual interests,\r\n\u2022 Host rotating specialty topics\r\n\u2022 Carpools\r\n\u2022 Unstructured social events\r\n\u2022 Community dream incubator\r\n\u2022 Obtain a yield project with hands-on,\r\n\u2022 Hotline activity portal\r\n\u2022 curiosity brings folks together\r\n\u2022 sharing table at each event\r\n\u2022 create a permit culture conspiracy\r\n\u2022 movie nights\r\n\u2022 plants of the month\r\n\u2022 guilds of all types of groups\r\n\u2022 designers Guild\u2019s\r\n\u2022 installation and implementation guilds\r\n\u2022 community nursery formation\r\n\u2022 spinoff enterprises\r\n\u2022 group marketing\r\n\u2022 form databases\r\n\u2022 speakers bureau\r\n\u2022 wants and needs\r\n\u2022 skills for collaboration\r\n\u2022 Directory of skills\r\nA great start with a Wonderful group of people!\r\nIt was agreed to meet the last Fridays of the month 4 to 6 PM at a variety of locations. See you there.\r\n\r\n&nbsp;",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IF2022-41-491ebee5e7710defba280fe0f46dc2c9.png"
       ],
       "type": "Organization"
     }
