@@ -1529,6 +1529,12 @@
       "from": "wpf654c2b57617853.47775405",
       "to": "place_city_britishcolumbia_duncan",
       "type": "Location"
+    },
+    {
+      "id": "-7689320327237001961",
+      "from": "wpf654d40e185ad31.68541821",
+      "to": "place_city_washington_bellingham",
+      "type": "Organization To Place"
     }
   ],
   "elements": [
@@ -5622,6 +5628,25 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/DSC03952-4a81eb35964f8b9223aaa00144f2c667-scaled.jpg"
       ],
       "type": "Person"
+    },
+    {
+      "label": "Brian Kerkvliet",
+      "id": "wpf654d40e185ad31.68541821",
+      "description": "Our members grow, select & store seeds from plants that express genetic strengths adaptable to our soils & changing weather, or unique heirloom qualities that could enhance the resiliency of our local food system.\r\n\r\nWe advance our mission through a regional Salish Sea network of seed-saving gardeners - farmers & advocates, through organizing & attending regional seed swaps supporting open exchange of seeds, through workshops and educational demonstrations at public events, and by researching, building and acquiring appropriate-scale seed processing equipment and storage facilities.",
+      "org_type": "501(c)3 Nonprofit",
+      "presenting": "No thanks",
+      "located_on_tour": "Bellingham",
+      "stateorprov": "Washington",
+      "city_wa": "Bellingham",
+      "city_or": "",
+      "city_bc": "",
+      "where": "",
+      "website": "https://www.salishseed.org/",
+      "importence": "We envision a future where a majority of local farmers and gardeners are saving at least some of their own seeds, with each individual playing a vital role in stewarding locally-adapted seed varieties and diversity. And run local nurseries for locally adapted trees and bushes. <a href=\"https://www.salishseed.org/memberships/\">Become a member now</a>.\r\n\r\nWe envision a future where local farmers are once again educated and skilled in the art and science of selecting, harvesting, threshing, and cleaning seed of all types of food and medicinal plants.\r\n\r\nWe envision a future where our local\u00a0<a href=\"https://www.salishseed.org/event/salish-seed-swap/\">seed swaps</a>\u00a0are no longer dependent on seeds donated by large seed companies from outside the region, and instead become vital trading posts for local growers and seed stewards.\r\n\r\nWe invite you to\u00a0<a href=\"https://www.salishseed.org/volunteer/\">join us</a>\u00a0in seeding a thriving, equitable, and sustainable local food system!",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/SSGDisplays-287205a0eb2b76646db4aeb802ec7a81.png"
+      ],
+      "type": "Organization"
     }
   ]
 }
