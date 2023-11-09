@@ -1517,6 +1517,12 @@
       "from": "wpf654bcafb9d54a4.47179624",
       "to": "place_city_washington_seattle",
       "type": "Location"
+    },
+    {
+      "id": "-4461806864018252613",
+      "from": "wpf654c2b57617853.47775405",
+      "to": "place_city_britishcolumbia_burnaby",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5567,6 +5573,27 @@
       "website": "",
       "linkedin": "",
       "Image": "",
+      "type": "Person"
+    },
+    {
+      "id": "wpf654c2b57617853.47775405",
+      "label": "Johnnie Kuo",
+      "email": "forgethow@hotmail.com",
+      "area": "Not in the Area",
+      "bio": "I have yet to be born in harmony with nature.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Burnaby",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Climate Activism||Equity and Social Justice||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "work": "",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20161226_143048271_iOS-a3c7073ef9cfe39e336635e369f1245b-scaled.jpg"
+      ],
       "type": "Person"
     }
   ]
