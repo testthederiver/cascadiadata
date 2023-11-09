@@ -1523,6 +1523,12 @@
       "from": "wpf654c2b57617853.47775405",
       "to": "place_city_britishcolumbia_burnaby",
       "type": "Location"
+    },
+    {
+      "id": "-4461806864018252613",
+      "from": "wpf654c2b57617853.47775405",
+      "to": "place_city_britishcolumbia_duncan",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5593,6 +5599,27 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/20161226_143048271_iOS-a3c7073ef9cfe39e336635e369f1245b-scaled.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf654c2b57617853.47775405",
+      "label": "Kurtis Howes",
+      "email": "remedyecodesign@gmail.com",
+      "area": "Victoria",
+      "bio": "Business Owner, Consultant, Ecological Land Designer + Student of Water Stories on route to becoming a Water Restoration Practitioner based on Quw\u2019utsun Territory in the Cowichan Valley on Vancouver Island / Check Out www.remedyecodesign.com",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Duncan",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Being a part of a Watershed Team||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Celebration, Ceremony, Nature and Spirit||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Water Stewardship",
+      "work": "I consult, design &amp; implement ecological land based systems for homeowners, farmers, homesteaders and businesses/developments with a focus on decentralized water retention/perennial food/native plant and herbal medicine systems that benefit both human and non-human beings.",
+      "website": "www.remedyecodesign.com",
+      "linkedin": "",
+      "statement": "I feel like the work I do is important for the future of the Cascadia Bioregion, because it's purpose it to strengthen local cultures, ecologies &amp; economies as part of a/the regenerative paradigm, which benefits all beings.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/DSC03952-4a81eb35964f8b9223aaa00144f2c667-scaled.jpg"
       ],
       "type": "Person"
     }
