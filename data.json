@@ -1541,6 +1541,12 @@
       "from": "wpf654d43b329b480.30736616",
       "to": "place_city_washington_bellingham",
       "type": "Organization To Place"
+    },
+    {
+      "id": "3664490313138993236",
+      "from": "wpf6553e635468544.46698512",
+      "to": "place_city_oregon_ashland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5672,6 +5678,27 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IF2022-41-491ebee5e7710defba280fe0f46dc2c9.png"
       ],
       "type": "Organization"
+    },
+    {
+      "id": "wpf6553e635468544.46698512",
+      "label": "Don Tipping",
+      "email": "soulfood72@gmail.com",
+      "area": "Not in the Area",
+      "bio": "I have had an organic farm and seed company here in Southern Oregon for the past 27 years. My seed company is called Siskiyou seeds. We have also been a living example of permaculture in action for that entire time. We actually earn our living through farming and have many examples of food, forest animal systems, Permaculture farm techniques, ecological, forestry, and water harvesting.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Ashland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Community &amp; Culture||Permaculture, Regen Ag &amp; Food Systems||Regen Ag &amp; Food Systems",
+      "work": "I have managed an organic farm that also employs many permaculture principles here and south western Oregon since 1996. We operate Siskiyou seeds, which is a bioregional organic seed company, growing, trailing, breeding and distributing certified organic seeds of vegetables, flowers, and herbs since 2010. I have also offered numerous Permaculture and Farming workshops since 1998 here including the seat Academy, which is a three day intensive in Seeds Saving, which we\u2019ve offered over 20 times here.",
+      "website": "https://www.siskiyouseeds.com/",
+      "linkedin": "Don Tipping",
+      "statement": "I have been working on developing regenerative agriculture approaches, inspired by permaculture since the late 90s here and have trained hundreds of students and lead tours of the farm demonstrating permaculture principles thousands of people from across the country.\r\nCurrently, we are developing online curriculum in Seeds Saving, and breeding and selecting plants for bioregional adaptation. This work is being done in conjunction with a new nonprofit that I helped form called Seeds of Light \u00a0<a href=\"Growseedsoflight.org\">Growseedsoflight.org) \u00a0</a>I am part of a team that manages an adjacent 160 acre site where we hope to do in person emergence in all of the relevant life skills for regenerative culture. Recently I have joined the board of a local sustainable development nonprofit called A Greater Applegate that looks at cohering a variety of solutions to engender local community resilience in our Applegate River Valley, which is home to about 20,000 people.",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Don-87a2ba97d588e766c4b2c48ced13b64e.jpeg"
+      ],
+      "type": "Person"
     }
   ]
 }
