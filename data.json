@@ -1547,6 +1547,18 @@
       "from": "wpf6553e635468544.46698512",
       "to": "place_city_oregon_ashland",
       "type": "Location"
+    },
+    {
+      "id": "Courtenay, British Columbia",
+      "from": "place_city_britishcolumbia_courtenay",
+      "to": "place_stateprov_britishcolumbia",
+      "type": "Location"
+    },
+    {
+      "id": "8564922785398292244",
+      "from": "wpf656383b2728ed2.48229653",
+      "to": "place_city_britishcolumbia_courtenay",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5699,6 +5711,32 @@
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/Don-87a2ba97d588e766c4b2c48ced13b64e.jpeg"
       ],
       "type": "Person"
+    },
+    {
+      "id": "wpf656383b2728ed2.48229653",
+      "label": "Erin Crampton",
+      "email": "erindcrampton@gmail.com",
+      "area": "Gabriola Island",
+      "bio": "I\u2019m a Canadian prairie farm kid turned grocer turned regen ag accelerator.  I owned a seasonal grocery store whose focus was on local,  in season regenerative and organic foods. \r\nI kickstarted the savory institute hub in Manitoba and then spent the last 3.5 years living in New Zealand working with a start up who was seeking to \u201cmake regenerative action valuable\u201d \r\nI\u2019m a regen ag enthusiast and am interested in how bioregional economies  (social capital, financial capital, knowledge etc) can bring abundance.   \r\nI like being outside,  walking in forests, swimming in rivers, gardening, food, people, music, and doing the doing.",
+      "stateorprov": "British Columbia",
+      "city_wa": "",
+      "city_or": "",
+      "city_BC": "Courtenay",
+      "where": "",
+      "interests": "Bioregional Education &amp; Learning Centers||Bioregional Mapping||Climate Activism||Forest Restoration||Permaculture, Regen Ag &amp; Food Systems||Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "work": "I moved to the region in May 2023, and am currently midway through a sabbatical year. \u00a0 I\u2019ve spent my time here settling and digging into the local ecosystem of work and action.\r\nI am a regen ag catalyst, communicator and am entrepreneurial my nature. \u00a0My work moving forward will be in good systems, regen ag with the view for honouring whole regional landscapes.",
+      "website": "",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/IMG_0612-dd3e1dff0e820710e81c39cc57ccedf8-scaled.jpeg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "place_city_britishcolumbia_courtenay",
+      "label": "Courtenay, British Columbia",
+      "type": "Place"
     }
   ]
 }
