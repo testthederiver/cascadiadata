@@ -1559,6 +1559,12 @@
       "from": "wpf656383b2728ed2.48229653",
       "to": "place_city_britishcolumbia_courtenay",
       "type": "Location"
+    },
+    {
+      "id": "-2396805375132937361",
+      "from": "wpf65662516b2bce3.93441330",
+      "to": "place_city_washington_lynnwood",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5737,6 +5743,27 @@
       "id": "place_city_britishcolumbia_courtenay",
       "label": "Courtenay, British Columbia",
       "type": "Place"
+    },
+    {
+      "id": "wpf65662516b2bce3.93441330",
+      "label": "Frank Sanborn",
+      "email": "thecommunityresiliencyproject@gmail.com",
+      "area": "Seattle",
+      "bio": "Tech Nerd to Disaster Nerd to Regenerative Responder.   Site Steward in training, host of fossil fuel free group camping infrastructure classes.",
+      "stateorprov": "Washington",
+      "city_wa": "Lynnwood",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Arts, Community &amp; Culture||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Emergency Response and Mutual Aid||First Nation Landback, Partnership and Sovereignty||Forest Restoration||Helping with the Website||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "work": "",
+      "website": "human-insights.org",
+      "linkedin": "www.linkedin.com/in/franksanborn",
+      "statement": "Just sharing learnings...",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/crptotem-17d12583cc8f83e1b5d4df1ca6dc0502.png"
+      ],
+      "type": "Person"
     }
   ]
 }
