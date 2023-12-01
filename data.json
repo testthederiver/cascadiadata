@@ -1565,6 +1565,12 @@
       "from": "wpf65662516b2bce3.93441330",
       "to": "place_city_washington_lynnwood",
       "type": "Location"
+    },
+    {
+      "id": "-538649239055305733",
+      "from": "wpf656a053eee12f5.60319000",
+      "to": "place_city_washington_olympia",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5762,6 +5768,27 @@
       "statement": "Just sharing learnings...",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/11/crptotem-17d12583cc8f83e1b5d4df1ca6dc0502.png"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf656a053eee12f5.60319000",
+      "label": "Paul Cereghino",
+      "email": "livestake@gmail.com",
+      "area": "Olympia",
+      "bio": "I am a cartographer, bureaucrat, gardener, ecologist, organizer, and activist, working in the Puget Sound restoration industry. I am cultivating mobile bio-cultural restoration field stations, a regional natural resource governance wiki and original works in bioregional cartography in addition to working for pay on restoration funding, ecosystem service quantification and providing technical assistance to local, tribal, state and federal restoration partners. Before that I worked in landscape construction and agroforestry.",
+      "stateorprov": "Washington",
+      "city_wa": "Olympia",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Bioregional Education &amp; Learning Centers||Bioregional Mapping||Community &amp; Culture||Forest Restoration||Governance||Partnership and Sovereignty||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship",
+      "work": "",
+      "website": "ecosystemguild.org",
+      "linkedin": "",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/12/portrait-cff3fc9110e0523150a35cd57a3c50dc.png"
       ],
       "type": "Person"
     }
