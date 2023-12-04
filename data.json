@@ -1571,6 +1571,12 @@
       "from": "wpf656a053eee12f5.60319000",
       "to": "place_city_washington_olympia",
       "type": "Location"
+    },
+    {
+      "id": "2507944424143013181",
+      "from": "wpf656e0dc3ce7480.60256287",
+      "to": "place_city_washington_bremerton",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5789,6 +5795,27 @@
       "statement": "",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/12/portrait-cff3fc9110e0523150a35cd57a3c50dc.png"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf656e0dc3ce7480.60256287",
+      "label": "Julie Wolf",
+      "email": "juliewolf3@gmail.com",
+      "area": "Olympia",
+      "bio": "I've been on the board and working with Northwest permaculture convergence since 2018. I live on 10 acres of forested land in Tahuya Washington with stream and lake that connects to the Tahuya river and the Hood canal on the Olympic peninsula in Washington. I've come to Earth to serve heaven on Earth evolution of humanity and the thriving of life. I have some techie skills and love connecting people and organizing things. Let's work together towards the new in ancient ways of this beautiful world.",
+      "stateorprov": "Washington",
+      "city_wa": "Bremerton",
+      "city_or": "",
+      "city_BC": "",
+      "where": "",
+      "interests": "Being a part of a Watershed Team||Bioregional Mapping||Community &amp; Culture||Governance||Helping with the Website||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Water Stewardship||Web 3, Digital Tools and Platforms",
+      "work": "I build community and encourage deep relationship between all beings. Here's an off the cuff list of the things I can do in the techie world. I have an email management tool called aweber. I've been using zoom since 2015. I'm very familiar with Google Drive tools including Google calendar and sheets and forms. Just beginning to explore Google maps. I work with WordPress for websites and other website interface building tools. I use Divi theme with WordPress. Formulas in Excell or Google sheets and data organization. I like working with you too and creating media. I can edit audio and video. I'm looking for a clear role to serve a clear need. I'm looking for people that are ready to transcend separation and work as one honoring all perspectives.",
+      "website": "Northwestpermaculture.org",
+      "linkedin": "",
+      "statement": "<p style=\"text-align: left\">The work that I may do with like-minded in like hearted people is important because cascadia is where I live. From 2003 to 2016 I worked on building community worldwide through the internet. I'd really like to build community where I live in the watersheds and by a regions of my home in Tahuya Washington and cascadia.</p>",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/12/IMG_20231204_093917041_HDR2-d155010b45de17ba9f4637f4151b855e.jpg"
       ],
       "type": "Person"
     }
