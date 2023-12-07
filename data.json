@@ -1577,6 +1577,12 @@
       "from": "wpf656e0dc3ce7480.60256287",
       "to": "place_city_washington_bremerton",
       "type": "Location"
+    },
+    {
+      "id": "-4453374497583655096",
+      "from": "wpf65722909ee4976.18920317",
+      "to": "place_city_oregon_portland",
+      "type": "Location"
     }
   ],
   "elements": [
@@ -5816,6 +5822,27 @@
       "statement": "<p style=\"text-align: left\">The work that I may do with like-minded in like hearted people is important because cascadia is where I live. From 2003 to 2016 I worked on building community worldwide through the internet. I'd really like to build community where I live in the watersheds and by a regions of my home in Tahuya Washington and cascadia.</p>",
       "Image": [
         "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/12/IMG_20231204_093917041_HDR2-d155010b45de17ba9f4637f4151b855e.jpg"
+      ],
+      "type": "Person"
+    },
+    {
+      "id": "wpf65722909ee4976.18920317",
+      "label": "Langdon Roberts",
+      "email": "langdon@scneurofeedback.com",
+      "area": "Portland",
+      "bio": "I am a neuroscientist, consciousness explorer, and student of integrative permaculture (exploring the intersections of land-based, social, and inner permaculture). I design and experiment with neuro-compatible socio-economic systems and the evolution of collaborative consciousness. I love dance, music, play with nature, and authentic connections.",
+      "stateorprov": "Oregon",
+      "city_wa": "",
+      "city_or": "Portland",
+      "city_BC": "",
+      "where": "",
+      "interests": "Affordable Homes, Green Building &amp; Real Estate||Arts, Community &amp; Culture||Celebration, Ceremony, Nature and Spirit||Community &amp; Culture||Governance||Local, Circular &amp; Zero Waste Economies||Permaculture, Regen Ag &amp; Food Systems||Regen Ag &amp; Food Systems||Regenerative Finance &amp; Fundraising",
+      "work": "With my partner, Aimee, I run a neurofeedback center in Santa Cruz, CA, which we manage remotely from Portland. I help individuals and groups to optimize their brain function and capacity for mindfulness, connection, and purpose-fulfillment, using a combination of traditional and contemporary science-based technologies. I am developing partnerships and systems to promote regenerative land stewardship, gift economies, and affordable housing.",
+      "website": "https://santacruzneurofeedback.com/",
+      "linkedin": "https://www.linkedin.com/in/langdon-roberts-29a6689/",
+      "statement": "",
+      "Image": [
+        "https://regeneratecascadia.org/wp-content/uploads/sites/14/2023/12/2023-headshot-c0f992476ce472d582a4b2c3728da320-scaled.jpg"
       ],
       "type": "Person"
     }
